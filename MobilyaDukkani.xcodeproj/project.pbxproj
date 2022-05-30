@@ -7,18 +7,32 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F3835322844BC6B00B1BB03 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F3835312844BC6B00B1BB03 /* DetailView.swift */; };
 		0F788A072843F7440064A732 /* MobilyaDukkaniApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F788A062843F7440064A732 /* MobilyaDukkaniApp.swift */; };
 		0F788A092843F7440064A732 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F788A082843F7440064A732 /* ContentView.swift */; };
 		0F788A0B2843F7450064A732 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F788A0A2843F7450064A732 /* Assets.xcassets */; };
 		0F788A0E2843F7450064A732 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F788A0D2843F7450064A732 /* Preview Assets.xcassets */; };
+		0F788A1A284414F10064A732 /* CustomTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F788A19284414F10064A732 /* CustomTabBar.swift */; };
+		0F788A1D284436AE0064A732 /* ButtonCurve.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F788A1C284436AE0064A732 /* ButtonCurve.swift */; };
+		0F788A1F28443B720064A732 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F788A1E28443B720064A732 /* MainView.swift */; };
+		0F788A2128443BD00064A732 /* AppViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F788A2028443BCF0064A732 /* AppViewModel.swift */; };
+		0F788A232844405B0064A732 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F788A222844405B0064A732 /* Home.swift */; };
+		0F788A252844B24B0064A732 /* Furniture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F788A242844B24A0064A732 /* Furniture.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0F3835312844BC6B00B1BB03 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		0F788A032843F7440064A732 /* MobilyaDukkani.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MobilyaDukkani.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F788A062843F7440064A732 /* MobilyaDukkaniApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MobilyaDukkaniApp.swift; sourceTree = "<group>"; };
 		0F788A082843F7440064A732 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0F788A0A2843F7450064A732 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0F788A0D2843F7450064A732 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0F788A19284414F10064A732 /* CustomTabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBar.swift; sourceTree = "<group>"; };
+		0F788A1C284436AE0064A732 /* ButtonCurve.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonCurve.swift; sourceTree = "<group>"; };
+		0F788A1E28443B720064A732 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		0F788A2028443BCF0064A732 /* AppViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppViewModel.swift; sourceTree = "<group>"; };
+		0F788A222844405B0064A732 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		0F788A242844B24A0064A732 /* Furniture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Furniture.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +65,9 @@
 		0F788A052843F7440064A732 /* MobilyaDukkani */ = {
 			isa = PBXGroup;
 			children = (
+				0F788A18284414A20064A732 /* ViewModel */,
+				0F788A15284414770064A732 /* Model */,
+				0F788A14284414700064A732 /* View */,
 				0F788A062843F7440064A732 /* MobilyaDukkaniApp.swift */,
 				0F788A082843F7440064A732 /* ContentView.swift */,
 				0F788A0A2843F7450064A732 /* Assets.xcassets */,
@@ -65,6 +82,42 @@
 				0F788A0D2843F7450064A732 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		0F788A14284414700064A732 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				0F788A1B284436780064A732 /* Custom Tab Bar */,
+				0F788A1E28443B720064A732 /* MainView.swift */,
+				0F788A222844405B0064A732 /* Home.swift */,
+				0F3835312844BC6B00B1BB03 /* DetailView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		0F788A15284414770064A732 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				0F788A242844B24A0064A732 /* Furniture.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		0F788A18284414A20064A732 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				0F788A2028443BCF0064A732 /* AppViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		0F788A1B284436780064A732 /* Custom Tab Bar */ = {
+			isa = PBXGroup;
+			children = (
+				0F788A19284414F10064A732 /* CustomTabBar.swift */,
+				0F788A1C284436AE0064A732 /* ButtonCurve.swift */,
+			);
+			path = "Custom Tab Bar";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,7 +191,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				0F788A092843F7440064A732 /* ContentView.swift in Sources */,
+				0F3835322844BC6B00B1BB03 /* DetailView.swift in Sources */,
+				0F788A1D284436AE0064A732 /* ButtonCurve.swift in Sources */,
+				0F788A2128443BD00064A732 /* AppViewModel.swift in Sources */,
+				0F788A1A284414F10064A732 /* CustomTabBar.swift in Sources */,
+				0F788A1F28443B720064A732 /* MainView.swift in Sources */,
 				0F788A072843F7440064A732 /* MobilyaDukkaniApp.swift in Sources */,
+				0F788A252844B24B0064A732 /* Furniture.swift in Sources */,
+				0F788A232844405B0064A732 /* Home.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

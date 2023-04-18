@@ -7,23 +7,27 @@
 
 import SwiftUI
 
-class AppViewModel: ObservableObject {
-    @Published var furniture: Furniture = ReadData().furniture!
+class HomeViewModel: ObservableObject {
+    @Published var furniture: Furniture?
+    @Published var furnitures: [Furniture] = []
+    
     @Published var products: [Products] = []
     @Published var searchProducts: [Products] = []
     @Published var currentActiveItem : Products?
     
-    @Published var currentTab: Tab = .home
-    @Published var currentMenu : SliderMenu = .all
+    @Published var currentMenu : SliderMenu = .chair
     
     @Published var searchText: String = ""
     
     @Published var showDetailView : Bool = false
     @Published var showDetailContent : Bool = false
-    @Published var cartCount : Int = 0
     
     init() {
-        updateMenu(newValue: .all)
+        updateMenu(newValue: .chair)
+    }
+    
+    func getDataFurniture() {
+        self.furniture = ReadData(selection: currentMenu).furniture
     }
     
     func searchFromProducts() {
@@ -45,9 +49,10 @@ class AppViewModel: ObservableObject {
     }
     
     func updateMenu(newValue: SliderMenu) {
+        getDataFurniture()
         withAnimation(.easeInOut(duration: 0.5)) {
-            if(furniture.search_parameters.q == newValue.rawValue.lowercased() || currentMenu == .all) {
-                self.products = furniture.products
+            if(furniture!.search_parameters.q == newValue.rawValue.lowercased()) {
+                self.products = furniture!.products
             } else {
                 self.products = []
             }
@@ -69,16 +74,10 @@ class AppViewModel: ObservableObject {
 }
 
 enum SliderMenu: String, CaseIterable {
-    case all = "All"
     case chair = "Chair"
     case table = "Table"
     case lamp = "Lamp"
     case floor = "Floor"
 }
 
-enum Tab: String, CaseIterable {
-    case home = "Home"
-    case cart = "Cart"
-    case favourite = "Star"
-    case profile = "Profile"
-}
+

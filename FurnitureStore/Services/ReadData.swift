@@ -11,14 +11,27 @@ import SwiftUI
 class ReadData: ObservableObject  {
     
     @Published var furniture : Furniture?
-  
+    var selection : SliderMenu
     
-    init(){
-        loadData()
+    init(selection : SliderMenu){
+        self.selection = selection
+        self.loadData(selection: self.selection)
     }
     
-    func loadData()  {
-        guard let url = Bundle.main.url(forResource: "data", withExtension: "json") else {
+    func loadData(selection: SliderMenu)  {
+        var data = "data"
+        switch(selection) {
+        case .chair:
+            data = "data"
+        case .table:
+            data = "table"
+        case .lamp:
+            data = "lamp"
+        case .floor:
+            data = "floor"
+        }
+        
+        guard let url = Bundle.main.url(forResource: data, withExtension: "json") else {
             print("Json file not found")
             return
         }

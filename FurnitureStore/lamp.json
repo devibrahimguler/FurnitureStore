@@ -1,0 +1,3979 @@
+{
+  "search_metadata": {
+    "id": "643ca71334ff95b36090bc46",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/966b9121e8095c55/643ca71334ff95b36090bc46.json",
+    "created_at": "2023-04-17 01:55:31 UTC",
+    "processed_at": "2023-04-17 01:55:31 UTC",
+    "home_depot_url": "https://www.homedepot.com/b/N-5yc1v/Ntt-lamp?Nao=0",
+    "raw_html_file": "https://serpapi.com/searches/966b9121e8095c55/643ca71334ff95b36090bc46.html",
+    "prettify_html_file": "https://serpapi.com/searches/966b9121e8095c55/643ca71334ff95b36090bc46.prettify",
+    "total_time_taken": 2.81
+  },
+  "search_parameters": {
+    "q": "lamp",
+    "nao": "0",
+    "ps": 24,
+    "delivery_zip": "04401",
+    "store_id": "2414",
+    "engine": "home_depot"
+  },
+  "search_information": {
+    "results_state": "Results for exact spelling",
+    "total_results": 10796
+  },
+  "products": [
+    {
+      "position": 1,
+      "product_id": "302066091",
+      "title": "67 in. Silver 5-Arm Floor Lamp with Multi Color Shade",
+      "thumbnails": [
+        [
+          "https://images.thdstatic.com/productImages/ea8b0a4c-2d62-4e07-bbfd-28275e615582/svn/silver-hampton-bay-floor-lamps-fl-0002r-64_65.jpg",
+          "https://images.thdstatic.com/productImages/ea8b0a4c-2d62-4e07-bbfd-28275e615582/svn/silver-hampton-bay-floor-lamps-fl-0002r-64_100.jpg",
+          "https://images.thdstatic.com/productImages/ea8b0a4c-2d62-4e07-bbfd-28275e615582/svn/silver-hampton-bay-floor-lamps-fl-0002r-64_145.jpg",
+          "https://images.thdstatic.com/productImages/ea8b0a4c-2d62-4e07-bbfd-28275e615582/svn/silver-hampton-bay-floor-lamps-fl-0002r-64_300.jpg",
+          "https://images.thdstatic.com/productImages/ea8b0a4c-2d62-4e07-bbfd-28275e615582/svn/silver-hampton-bay-floor-lamps-fl-0002r-64_400.jpg",
+          "https://images.thdstatic.com/productImages/ea8b0a4c-2d62-4e07-bbfd-28275e615582/svn/silver-hampton-bay-floor-lamps-fl-0002r-64_600.jpg",
+          "https://images.thdstatic.com/productImages/ea8b0a4c-2d62-4e07-bbfd-28275e615582/svn/silver-hampton-bay-floor-lamps-fl-0002r-64_1000.jpg"
+        ],
+        [
+          "https://images.thdstatic.com/productImages/ae9d8f14-1b4c-4cb6-aa2f-2c74b9c89cf3/svn/silver-hampton-bay-floor-lamps-fl-0002r-e4_65.jpg",
+          "https://images.thdstatic.com/productImages/ae9d8f14-1b4c-4cb6-aa2f-2c74b9c89cf3/svn/silver-hampton-bay-floor-lamps-fl-0002r-e4_100.jpg",
+          "https://images.thdstatic.com/productImages/ae9d8f14-1b4c-4cb6-aa2f-2c74b9c89cf3/svn/silver-hampton-bay-floor-lamps-fl-0002r-e4_145.jpg",
+          "https://images.thdstatic.com/productImages/ae9d8f14-1b4c-4cb6-aa2f-2c74b9c89cf3/svn/silver-hampton-bay-floor-lamps-fl-0002r-e4_300.jpg",
+          "https://images.thdstatic.com/productImages/ae9d8f14-1b4c-4cb6-aa2f-2c74b9c89cf3/svn/silver-hampton-bay-floor-lamps-fl-0002r-e4_400.jpg",
+          "https://images.thdstatic.com/productImages/ae9d8f14-1b4c-4cb6-aa2f-2c74b9c89cf3/svn/silver-hampton-bay-floor-lamps-fl-0002r-e4_600.jpg",
+          "https://images.thdstatic.com/productImages/ae9d8f14-1b4c-4cb6-aa2f-2c74b9c89cf3/svn/silver-hampton-bay-floor-lamps-fl-0002r-e4_1000.jpg"
+        ]
+      ],
+      "link": "https://www.homedepot.com/p/Hampton-Bay-67-in-Silver-5-Arm-Floor-Lamp-with-Multi-Color-Shade-FL-0002R/302066091",
+      "serpapi_link": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot_product&product_id=302066091&store_id=2414",
+      "model_number": "FL-0002R",
+      "brand": "Hampton Bay",
+      "collection": "https://www.homedepot.com",
+      "favorite": 908,
+      "rating": 4.5181,
+      "reviews": 498,
+      "price": 29.97,
+      "delivery": {
+        "free": true,
+        "free_delivery_threshold": false
+      },
+      "pickup": {
+        "quantity": 3,
+        "store_name": "Bangor",
+        "distance": 0
+      }
+    },
+    {
+      "position": 2,
+      "product_id": "204760318",
+      "title": "71.25 in. Bronze Torchiere Floor Lamp with Frosted Plastic Shade",
+      "thumbnails": [
+        [
+          "https://images.thdstatic.com/productImages/4e6354e6-2867-4e0d-ae81-00745ed247bd/svn/bronze-hampton-bay-floor-lamps-18115-002-64_65.jpg",
+          "https://images.thdstatic.com/productImages/4e6354e6-2867-4e0d-ae81-00745ed247bd/svn/bronze-hampton-bay-floor-lamps-18115-002-64_100.jpg",
+          "https://images.thdstatic.com/productImages/4e6354e6-2867-4e0d-ae81-00745ed247bd/svn/bronze-hampton-bay-floor-lamps-18115-002-64_145.jpg",
+          "https://images.thdstatic.com/productImages/4e6354e6-2867-4e0d-ae81-00745ed247bd/svn/bronze-hampton-bay-floor-lamps-18115-002-64_300.jpg",
+          "https://images.thdstatic.com/productImages/4e6354e6-2867-4e0d-ae81-00745ed247bd/svn/bronze-hampton-bay-floor-lamps-18115-002-64_400.jpg",
+          "https://images.thdstatic.com/productImages/4e6354e6-2867-4e0d-ae81-00745ed247bd/svn/bronze-hampton-bay-floor-lamps-18115-002-64_600.jpg",
+          "https://images.thdstatic.com/productImages/4e6354e6-2867-4e0d-ae81-00745ed247bd/svn/bronze-hampton-bay-floor-lamps-18115-002-64_1000.jpg"
+        ],
+        [
+          "https://images.thdstatic.com/productImages/1f2ca80b-b9d1-4eb0-b039-dba09f06bb8b/svn/bronze-hampton-bay-floor-lamps-18115-002-e4_65.jpg",
+          "https://images.thdstatic.com/productImages/1f2ca80b-b9d1-4eb0-b039-dba09f06bb8b/svn/bronze-hampton-bay-floor-lamps-18115-002-e4_100.jpg",
+          "https://images.thdstatic.com/productImages/1f2ca80b-b9d1-4eb0-b039-dba09f06bb8b/svn/bronze-hampton-bay-floor-lamps-18115-002-e4_145.jpg",
+          "https://images.thdstatic.com/productImages/1f2ca80b-b9d1-4eb0-b039-dba09f06bb8b/svn/bronze-hampton-bay-floor-lamps-18115-002-e4_300.jpg",
+          "https://images.thdstatic.com/productImages/1f2ca80b-b9d1-4eb0-b039-dba09f06bb8b/svn/bronze-hampton-bay-floor-lamps-18115-002-e4_400.jpg",
+          "https://images.thdstatic.com/productImages/1f2ca80b-b9d1-4eb0-b039-dba09f06bb8b/svn/bronze-hampton-bay-floor-lamps-18115-002-e4_600.jpg",
+          "https://images.thdstatic.com/productImages/1f2ca80b-b9d1-4eb0-b039-dba09f06bb8b/svn/bronze-hampton-bay-floor-lamps-18115-002-e4_1000.jpg"
+        ]
+      ],
+      "link": "https://www.homedepot.com/p/Hampton-Bay-71-25-in-Bronze-Torchiere-Floor-Lamp-with-Frosted-Plastic-Shade-18115-002/204760318",
+      "serpapi_link": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot_product&product_id=204760318&store_id=2414",
+      "model_number": "18115-002",
+      "brand": "Hampton Bay",
+      "collection": "https://www.homedepot.com",
+      "variants": [
+        {
+          "title": "Bronze",
+          "link": "https://www.homedepot.com/p/Hampton-Bay-71-25-in-Bronze-Torchiere-Floor-Lamp-with-Frosted-Plastic-Shade-18115-002/204760318",
+          "thumbnail": "https://images.thdstatic.com/catalog/swatchImages/35/f1/f17528f9-f0dc-4d69-9da1-af404a19fa6b_35.jpg"
+        },
+        {
+          "title": "Brushed Nickel",
+          "link": "https://www.homedepot.com/p/Hampton-Bay-71-25-in-Nickel-Torchiere-Floor-Lamp-18115-009/206668136",
+          "thumbnail": "https://images.thdstatic.com/catalog/swatchImages/35/3b/3b1dbb61-d17f-4f60-a6e4-327c1f75c4e0_35.jpg"
+        }
+      ],
+      "favorite": 1320,
+      "rating": 4.4211,
+      "reviews": 684,
+      "price": 27.97,
+      "delivery": {
+        "schedule_delivery": true
+      },
+      "pickup": {
+        "quantity": 2,
+        "store_name": "Bangor",
+        "distance": 0
+      }
+    },
+    {
+      "position": 3,
+      "product_id": "301173860",
+      "title": "63 in. Black Shelf Floor Lamp",
+      "thumbnails": [
+        [
+          "https://images.thdstatic.com/productImages/6c89b70d-428b-4a9b-838c-5b4976df7f1e/svn/black-hampton-bay-floor-lamps-3138-01-64_65.jpg",
+          "https://images.thdstatic.com/productImages/6c89b70d-428b-4a9b-838c-5b4976df7f1e/svn/black-hampton-bay-floor-lamps-3138-01-64_100.jpg",
+          "https://images.thdstatic.com/productImages/6c89b70d-428b-4a9b-838c-5b4976df7f1e/svn/black-hampton-bay-floor-lamps-3138-01-64_145.jpg",
+          "https://images.thdstatic.com/productImages/6c89b70d-428b-4a9b-838c-5b4976df7f1e/svn/black-hampton-bay-floor-lamps-3138-01-64_300.jpg",
+          "https://images.thdstatic.com/productImages/6c89b70d-428b-4a9b-838c-5b4976df7f1e/svn/black-hampton-bay-floor-lamps-3138-01-64_400.jpg",
+          "https://images.thdstatic.com/productImages/6c89b70d-428b-4a9b-838c-5b4976df7f1e/svn/black-hampton-bay-floor-lamps-3138-01-64_600.jpg",
+          "https://images.thdstatic.com/productImages/6c89b70d-428b-4a9b-838c-5b4976df7f1e/svn/black-hampton-bay-floor-lamps-3138-01-64_1000.jpg"
+        ]
+      ],
+      "link": "https://www.homedepot.com/p/Hampton-Bay-63-in-Black-Shelf-Floor-Lamp-3138-01/301173860",
+      "serpapi_link": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot_product&product_id=301173860&store_id=2414",
+      "model_number": "3138-01",
+      "brand": "Hampton Bay",
+      "collection": "https://www.homedepot.com",
+      "variants": [
+        {
+          "title": "Black",
+          "link": "https://www.homedepot.com/p/Hampton-Bay-63-in-Black-Shelf-Floor-Lamp-3138-01/301173860",
+          "thumbnail": "https://images.thdstatic.com/catalog/swatchImages/35/23/233a11c9-09d7-47e1-b703-5e3824d12c55_35.jpg"
+        },
+        {
+          "title": "BLACK",
+          "link": "https://www.homedepot.com/p/Hampton-Bay-62-75-in-Black-Shelf-Floor-Lamp-with-Ivory-Fabric-Lamp-Shade-AF33904-CA/204930020",
+          "thumbnail": "https://images.thdstatic.com/catalog/swatchImages/35/23/233a11c9-09d7-47e1-b703-5e3824d12c55_35.jpg"
+        }
+      ],
+      "favorite": 330,
+      "rating": 4.4512,
+      "reviews": 215,
+      "price": 74.97,
+      "delivery": {
+        "free": true,
+        "free_delivery_threshold": false
+      },
+      "pickup": {
+        "quantity": 0,
+        "store_name": "Bangor",
+        "distance": 0
+      }
+    },
+    {
+      "position": 4,
+      "product_id": "202070697",
+      "title": "8.5 in. Brushed Nickel Accent Lamp with Frosted Crackled Glass Shade",
+      "thumbnails": [
+        [
+          "https://images.thdstatic.com/productImages/e3a1ab20-f295-441f-99df-d95d753b81f9/svn/frosted-crackle-glass-and-brushed-nickel-hampton-bay-table-lamps-u7869bs-64_65.jpg",
+          "https://images.thdstatic.com/productImages/e3a1ab20-f295-441f-99df-d95d753b81f9/svn/frosted-crackle-glass-and-brushed-nickel-hampton-bay-table-lamps-u7869bs-64_100.jpg",
+          "https://images.thdstatic.com/productImages/e3a1ab20-f295-441f-99df-d95d753b81f9/svn/frosted-crackle-glass-and-brushed-nickel-hampton-bay-table-lamps-u7869bs-64_145.jpg",
+          "https://images.thdstatic.com/productImages/e3a1ab20-f295-441f-99df-d95d753b81f9/svn/frosted-crackle-glass-and-brushed-nickel-hampton-bay-table-lamps-u7869bs-64_300.jpg",
+          "https://images.thdstatic.com/productImages/e3a1ab20-f295-441f-99df-d95d753b81f9/svn/frosted-crackle-glass-and-brushed-nickel-hampton-bay-table-lamps-u7869bs-64_400.jpg",
+          "https://images.thdstatic.com/productImages/e3a1ab20-f295-441f-99df-d95d753b81f9/svn/frosted-crackle-glass-and-brushed-nickel-hampton-bay-table-lamps-u7869bs-64_600.jpg",
+          "https://images.thdstatic.com/productImages/e3a1ab20-f295-441f-99df-d95d753b81f9/svn/frosted-crackle-glass-and-brushed-nickel-hampton-bay-table-lamps-u7869bs-64_1000.jpg"
+        ],
+        [
+          "https://images.thdstatic.com/productImages/a8b83ad6-4abc-4ed6-8d50-1effc757ea21/svn/frosted-crackle-glass-and-brushed-nickel-hampton-bay-table-lamps-u7869bs-e4_65.jpg",
+          "https://images.thdstatic.com/productImages/a8b83ad6-4abc-4ed6-8d50-1effc757ea21/svn/frosted-crackle-glass-and-brushed-nickel-hampton-bay-table-lamps-u7869bs-e4_100.jpg",
+          "https://images.thdstatic.com/productImages/a8b83ad6-4abc-4ed6-8d50-1effc757ea21/svn/frosted-crackle-glass-and-brushed-nickel-hampton-bay-table-lamps-u7869bs-e4_145.jpg",
+          "https://images.thdstatic.com/productImages/a8b83ad6-4abc-4ed6-8d50-1effc757ea21/svn/frosted-crackle-glass-and-brushed-nickel-hampton-bay-table-lamps-u7869bs-e4_300.jpg",
+          "https://images.thdstatic.com/productImages/a8b83ad6-4abc-4ed6-8d50-1effc757ea21/svn/frosted-crackle-glass-and-brushed-nickel-hampton-bay-table-lamps-u7869bs-e4_400.jpg",
+          "https://images.thdstatic.com/productImages/a8b83ad6-4abc-4ed6-8d50-1effc757ea21/svn/frosted-crackle-glass-and-brushed-nickel-hampton-bay-table-lamps-u7869bs-e4_600.jpg",
+          "https://images.thdstatic.com/productImages/a8b83ad6-4abc-4ed6-8d50-1effc757ea21/svn/frosted-crackle-glass-and-brushed-nickel-hampton-bay-table-lamps-u7869bs-e4_1000.jpg"
+        ]
+      ],
+      "link": "https://www.homedepot.com/p/Hampton-Bay-8-5-in-Brushed-Nickel-Accent-Lamp-with-Frosted-Crackled-Glass-Shade-U7869BS/202070697",
+      "serpapi_link": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot_product&product_id=202070697&store_id=2414",
+      "model_number": "U7869BS",
+      "brand": "Hampton Bay",
+      "collection": "https://www.homedepot.com",
+      "favorite": 1225,
+      "rating": 4.4956,
+      "reviews": 799,
+      "price": 29.97,
+      "delivery": {
+        "out_of_stock": true
+      },
+      "pickup": {
+        "quantity": 1,
+        "store_name": "Rockland,ME",
+        "distance": 52
+      }
+    },
+    {
+      "position": 5,
+      "product_id": "309832439",
+      "title": "17 in. Brushed Nickel Table Lamp with Power Outlet",
+      "thumbnails": [
+        [
+          "https://images.thdstatic.com/productImages/1325cd1f-d594-4c7b-969c-907336202c7c/svn/nickel-hampton-bay-table-lamps-22169-000-64_65.jpg",
+          "https://images.thdstatic.com/productImages/1325cd1f-d594-4c7b-969c-907336202c7c/svn/nickel-hampton-bay-table-lamps-22169-000-64_100.jpg",
+          "https://images.thdstatic.com/productImages/1325cd1f-d594-4c7b-969c-907336202c7c/svn/nickel-hampton-bay-table-lamps-22169-000-64_145.jpg",
+          "https://images.thdstatic.com/productImages/1325cd1f-d594-4c7b-969c-907336202c7c/svn/nickel-hampton-bay-table-lamps-22169-000-64_300.jpg",
+          "https://images.thdstatic.com/productImages/1325cd1f-d594-4c7b-969c-907336202c7c/svn/nickel-hampton-bay-table-lamps-22169-000-64_400.jpg",
+          "https://images.thdstatic.com/productImages/1325cd1f-d594-4c7b-969c-907336202c7c/svn/nickel-hampton-bay-table-lamps-22169-000-64_600.jpg",
+          "https://images.thdstatic.com/productImages/1325cd1f-d594-4c7b-969c-907336202c7c/svn/nickel-hampton-bay-table-lamps-22169-000-64_1000.jpg"
+        ]
+      ],
+      "link": "https://www.homedepot.com/p/Hampton-Bay-17-in-Brushed-Nickel-Table-Lamp-with-Power-Outlet-22169-000/309832439",
+      "serpapi_link": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot_product&product_id=309832439&store_id=2414",
+      "model_number": "22169-000",
+      "brand": "Hampton Bay",
+      "collection": "https://www.homedepot.com",
+      "favorite": 405,
+      "rating": 4.5331,
+      "reviews": 272,
+      "price": 29.97,
+      "delivery": {
+        "free": true,
+        "free_delivery_threshold": false
+      },
+      "pickup": {
+        "quantity": 6,
+        "store_name": "Bangor",
+        "distance": 0
+      }
+    },
+    {
+      "position": 6,
+      "product_id": "205951764",
+      "title": "63.3 in. Etagere Black Floor Lamp Organizer Storage Shelf with Linen Shade",
+      "thumbnails": [
+        [
+          "https://images.thdstatic.com/productImages/0b5b732b-13ab-4559-a75f-8517e8b2f9e5/svn/black-simple-designs-floor-lamps-lf1014-blk-64_65.jpg",
+          "https://images.thdstatic.com/productImages/0b5b732b-13ab-4559-a75f-8517e8b2f9e5/svn/black-simple-designs-floor-lamps-lf1014-blk-64_100.jpg",
+          "https://images.thdstatic.com/productImages/0b5b732b-13ab-4559-a75f-8517e8b2f9e5/svn/black-simple-designs-floor-lamps-lf1014-blk-64_145.jpg",
+          "https://images.thdstatic.com/productImages/0b5b732b-13ab-4559-a75f-8517e8b2f9e5/svn/black-simple-designs-floor-lamps-lf1014-blk-64_300.jpg",
+          "https://images.thdstatic.com/productImages/0b5b732b-13ab-4559-a75f-8517e8b2f9e5/svn/black-simple-designs-floor-lamps-lf1014-blk-64_400.jpg",
+          "https://images.thdstatic.com/productImages/0b5b732b-13ab-4559-a75f-8517e8b2f9e5/svn/black-simple-designs-floor-lamps-lf1014-blk-64_600.jpg",
+          "https://images.thdstatic.com/productImages/0b5b732b-13ab-4559-a75f-8517e8b2f9e5/svn/black-simple-designs-floor-lamps-lf1014-blk-64_1000.jpg"
+        ]
+      ],
+      "link": "https://www.homedepot.com/p/Simple-Designs-63-3-in-Etagere-Black-Floor-Lamp-Organizer-Storage-Shelf-with-Linen-Shade-LF1014-BLK/205951764",
+      "serpapi_link": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot_product&product_id=205951764&store_id=2414",
+      "model_number": "LF1014-BLK",
+      "brand": "Simple Designs",
+      "collection": "https://www.homedepot.com",
+      "variants": [
+        {
+          "title": "Black",
+          "link": "https://www.homedepot.com/p/Simple-Designs-63-3-in-Etagere-Black-Floor-Lamp-Organizer-Storage-Shelf-with-Linen-Shade-LF1014-BLK/205951764",
+          "thumbnail": "https://images.thdstatic.com/catalog/swatchImages/35/59/590ecdb8-aa86-44ec-bdf5-98b7acde2139_35.jpg"
+        },
+        {
+          "title": "White",
+          "link": "https://www.homedepot.com/p/Simple-Designs-63-3-in-Etagere-White-Floor-Lamp-Organizer-Storage-Shelf-with-Linen-Shade-LF1014-WHT/205951773",
+          "thumbnail": "https://images.thdstatic.com/catalog/swatchImages/35/19/1953f12a-2ebe-458f-94e5-b95514cb91b4_35.jpg"
+        },
+        {
+          "title": "Gray",
+          "link": "https://www.homedepot.com/p/Simple-Designs-62-75-in-Gray-Floor-Lamp-Etagere-Organizer-Storage-Shelf-with-Linen-Shade-LF1014-GRY/301052847",
+          "thumbnail": "https://images.thdstatic.com/catalog/swatchImages/35/0c/0c414237-e9c8-42fc-86a3-3f1ef2b6f949_35.jpg"
+        },
+        {
+          "title": "Light Pink",
+          "link": "https://www.homedepot.com/p/Simple-Designs-63-3-in-Etagere-Light-Pink-Floor-Lamp-Organizer-Storage-Shelf-with-Linen-Shade-LF1014-LPK/312511559",
+          "thumbnail": "https://images.thdstatic.com/catalog/swatchImages/35/86/868727cf-04bb-44c1-87bc-e4b618c25c63_35.jpg"
+        },
+        {
+          "title": "Tan",
+          "link": "https://www.homedepot.com/p/Simple-Designs-62-75-in-Tan-Floor-Lamp-Etagere-Organizer-Storage-Shelf-with-Linen-Shade-LF1014-TAN/301052848",
+          "thumbnail": "https://images.thdstatic.com/catalog/swatchImages/35/8f/8f2b13a8-3631-46c5-8a05-4092bc1066ad_35.jpg"
+        }
+      ],
+      "favorite": 639,
+      "rating": 4.1073,
+      "reviews": 289,
+      "price": 41.64,
+      "delivery": {
+        "free": true,
+        "free_delivery_threshold": false
+      },
+      "pickup": {
+        "free_ship_to_store": true
+      }
+    },
+    {
+      "position": 7,
+      "product_id": "313572515",
+      "title": "Rhodes 28 in. Bronze Table Lamp with Natural Linen Shade",
+      "thumbnails": [
+        [
+          "https://images.thdstatic.com/productImages/967ebf56-03e4-48c3-90ea-43875341a53d/svn/rhodes-bronze-hampton-bay-table-lamps-hd09999tlbrzc-64_65.jpg",
+          "https://images.thdstatic.com/productImages/967ebf56-03e4-48c3-90ea-43875341a53d/svn/rhodes-bronze-hampton-bay-table-lamps-hd09999tlbrzc-64_100.jpg",
+          "https://images.thdstatic.com/productImages/967ebf56-03e4-48c3-90ea-43875341a53d/svn/rhodes-bronze-hampton-bay-table-lamps-hd09999tlbrzc-64_145.jpg",
+          "https://images.thdstatic.com/productImages/967ebf56-03e4-48c3-90ea-43875341a53d/svn/rhodes-bronze-hampton-bay-table-lamps-hd09999tlbrzc-64_300.jpg",
+          "https://images.thdstatic.com/productImages/967ebf56-03e4-48c3-90ea-43875341a53d/svn/rhodes-bronze-hampton-bay-table-lamps-hd09999tlbrzc-64_400.jpg",
+          "https://images.thdstatic.com/productImages/967ebf56-03e4-48c3-90ea-43875341a53d/svn/rhodes-bronze-hampton-bay-table-lamps-hd09999tlbrzc-64_600.jpg",
+          "https://images.thdstatic.com/productImages/967ebf56-03e4-48c3-90ea-43875341a53d/svn/rhodes-bronze-hampton-bay-table-lamps-hd09999tlbrzc-64_1000.jpg"
+        ],
+        [
+          "https://images.thdstatic.com/productImages/fbcc306c-81b6-4773-aed7-7b6d60176979/svn/rhodes-bronze-hampton-bay-table-lamps-hd09999tlbrzc-e4_65.jpg",
+          "https://images.thdstatic.com/productImages/fbcc306c-81b6-4773-aed7-7b6d60176979/svn/rhodes-bronze-hampton-bay-table-lamps-hd09999tlbrzc-e4_100.jpg",
+          "https://images.thdstatic.com/productImages/fbcc306c-81b6-4773-aed7-7b6d60176979/svn/rhodes-bronze-hampton-bay-table-lamps-hd09999tlbrzc-e4_145.jpg",
+          "https://images.thdstatic.com/productImages/fbcc306c-81b6-4773-aed7-7b6d60176979/svn/rhodes-bronze-hampton-bay-table-lamps-hd09999tlbrzc-e4_300.jpg",
+          "https://images.thdstatic.com/productImages/fbcc306c-81b6-4773-aed7-7b6d60176979/svn/rhodes-bronze-hampton-bay-table-lamps-hd09999tlbrzc-e4_400.jpg",
+          "https://images.thdstatic.com/productImages/fbcc306c-81b6-4773-aed7-7b6d60176979/svn/rhodes-bronze-hampton-bay-table-lamps-hd09999tlbrzc-e4_600.jpg",
+          "https://images.thdstatic.com/productImages/fbcc306c-81b6-4773-aed7-7b6d60176979/svn/rhodes-bronze-hampton-bay-table-lamps-hd09999tlbrzc-e4_1000.jpg"
+        ]
+      ],
+      "link": "https://www.homedepot.com/p/Hampton-Bay-Rhodes-28-in-Bronze-Table-Lamp-with-Natural-Linen-Shade-HD09999TLBRZC/313572515",
+      "serpapi_link": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot_product&product_id=313572515&store_id=2414",
+      "model_number": "HD09999TLBRZC",
+      "brand": "Hampton Bay",
+      "collection": "https://www.homedepot.com",
+      "rating": 4.465,
+      "reviews": 443,
+      "price": 49.97,
+      "badges": [
+        "bestseller"
+      ],
+      "delivery": {
+        "free": true,
+        "free_delivery_threshold": false
+      },
+      "pickup": {
+        "quantity": 5,
+        "store_name": "Bangor",
+        "distance": 0
+      }
+    },
+    {
+      "position": 8,
+      "product_id": "310134719",
+      "title": "71.65 in. Black LED Floor Lamp",
+      "thumbnails": [
+        [
+          "https://images.thdstatic.com/productImages/ee032233-c5ed-43c1-b973-abd7fa4d0726/svn/black-hampton-bay-floor-lamps-al53547bk-64_65.jpg",
+          "https://images.thdstatic.com/productImages/ee032233-c5ed-43c1-b973-abd7fa4d0726/svn/black-hampton-bay-floor-lamps-al53547bk-64_100.jpg",
+          "https://images.thdstatic.com/productImages/ee032233-c5ed-43c1-b973-abd7fa4d0726/svn/black-hampton-bay-floor-lamps-al53547bk-64_145.jpg",
+          "https://images.thdstatic.com/productImages/ee032233-c5ed-43c1-b973-abd7fa4d0726/svn/black-hampton-bay-floor-lamps-al53547bk-64_300.jpg",
+          "https://images.thdstatic.com/productImages/ee032233-c5ed-43c1-b973-abd7fa4d0726/svn/black-hampton-bay-floor-lamps-al53547bk-64_400.jpg",
+          "https://images.thdstatic.com/productImages/ee032233-c5ed-43c1-b973-abd7fa4d0726/svn/black-hampton-bay-floor-lamps-al53547bk-64_600.jpg",
+          "https://images.thdstatic.com/productImages/ee032233-c5ed-43c1-b973-abd7fa4d0726/svn/black-hampton-bay-floor-lamps-al53547bk-64_1000.jpg"
+        ],
+        [
+          "https://images.thdstatic.com/productImages/9ffc1286-fa63-4136-918a-a7c997798559/svn/black-hampton-bay-floor-lamps-al53547bk-e4_65.jpg",
+          "https://images.thdstatic.com/productImages/9ffc1286-fa63-4136-918a-a7c997798559/svn/black-hampton-bay-floor-lamps-al53547bk-e4_100.jpg",
+          "https://images.thdstatic.com/productImages/9ffc1286-fa63-4136-918a-a7c997798559/svn/black-hampton-bay-floor-lamps-al53547bk-e4_145.jpg",
+          "https://images.thdstatic.com/productImages/9ffc1286-fa63-4136-918a-a7c997798559/svn/black-hampton-bay-floor-lamps-al53547bk-e4_300.jpg",
+          "https://images.thdstatic.com/productImages/9ffc1286-fa63-4136-918a-a7c997798559/svn/black-hampton-bay-floor-lamps-al53547bk-e4_400.jpg",
+          "https://images.thdstatic.com/productImages/9ffc1286-fa63-4136-918a-a7c997798559/svn/black-hampton-bay-floor-lamps-al53547bk-e4_600.jpg",
+          "https://images.thdstatic.com/productImages/9ffc1286-fa63-4136-918a-a7c997798559/svn/black-hampton-bay-floor-lamps-al53547bk-e4_1000.jpg"
+        ]
+      ],
+      "link": "https://www.homedepot.com/p/Hampton-Bay-71-65-in-Black-LED-Floor-Lamp-AL53547BK/310134719",
+      "serpapi_link": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot_product&product_id=310134719&store_id=2414",
+      "model_number": "AL53547BK",
+      "brand": "Hampton Bay",
+      "collection": "https://www.homedepot.com",
+      "favorite": 583,
+      "rating": 4.3857,
+      "reviews": 407,
+      "price": 74.97,
+      "delivery": {
+        "free": true,
+        "free_delivery_threshold": false
+      },
+      "pickup": {
+        "quantity": 3,
+        "store_name": "Bangor",
+        "distance": 0
+      }
+    },
+    {
+      "position": 9,
+      "product_id": "205729572",
+      "title": "60 in. Black LED Sunlight Floor Lamp with Dimmer Switch",
+      "thumbnails": [
+        [
+          "https://images.thdstatic.com/productImages/9013cd01-a45e-4540-addb-672bd1e9c93f/svn/black-lavish-home-floor-lamps-72-1515-64_65.jpg",
+          "https://images.thdstatic.com/productImages/9013cd01-a45e-4540-addb-672bd1e9c93f/svn/black-lavish-home-floor-lamps-72-1515-64_100.jpg",
+          "https://images.thdstatic.com/productImages/9013cd01-a45e-4540-addb-672bd1e9c93f/svn/black-lavish-home-floor-lamps-72-1515-64_145.jpg",
+          "https://images.thdstatic.com/productImages/9013cd01-a45e-4540-addb-672bd1e9c93f/svn/black-lavish-home-floor-lamps-72-1515-64_300.jpg",
+          "https://images.thdstatic.com/productImages/9013cd01-a45e-4540-addb-672bd1e9c93f/svn/black-lavish-home-floor-lamps-72-1515-64_400.jpg",
+          "https://images.thdstatic.com/productImages/9013cd01-a45e-4540-addb-672bd1e9c93f/svn/black-lavish-home-floor-lamps-72-1515-64_600.jpg",
+          "https://images.thdstatic.com/productImages/9013cd01-a45e-4540-addb-672bd1e9c93f/svn/black-lavish-home-floor-lamps-72-1515-64_1000.jpg"
+        ]
+      ],
+      "link": "https://www.homedepot.com/p/Lavish-Home-60-in-Black-LED-Sunlight-Floor-Lamp-with-Dimmer-Switch-72-1515/205729572",
+      "serpapi_link": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot_product&product_id=205729572&store_id=2414",
+      "model_number": "72-1515",
+      "brand": "Lavish Home",
+      "collection": "https://www.homedepot.com",
+      "favorite": 555,
+      "rating": 4.4295,
+      "reviews": 319,
+      "price": 73.0,
+      "delivery": {
+        "free": true,
+        "free_delivery_threshold": false
+      },
+      "pickup": {
+        "free_ship_to_store": true
+      }
+    },
+    {
+      "position": 10,
+      "product_id": "301703779",
+      "title": "78 in. Height 3-Arc Floor Lamp - Brushed Nickel Finish",
+      "thumbnails": [
+        [
+          "https://images.thdstatic.com/productImages/895e08da-c6e4-485f-bd4f-7033a819cda7/svn/brushed-nickel-hampton-bay-floor-lamps-af40818sa-64_65.jpg",
+          "https://images.thdstatic.com/productImages/895e08da-c6e4-485f-bd4f-7033a819cda7/svn/brushed-nickel-hampton-bay-floor-lamps-af40818sa-64_100.jpg",
+          "https://images.thdstatic.com/productImages/895e08da-c6e4-485f-bd4f-7033a819cda7/svn/brushed-nickel-hampton-bay-floor-lamps-af40818sa-64_145.jpg",
+          "https://images.thdstatic.com/productImages/895e08da-c6e4-485f-bd4f-7033a819cda7/svn/brushed-nickel-hampton-bay-floor-lamps-af40818sa-64_300.jpg",
+          "https://images.thdstatic.com/productImages/895e08da-c6e4-485f-bd4f-7033a819cda7/svn/brushed-nickel-hampton-bay-floor-lamps-af40818sa-64_400.jpg",
+          "https://images.thdstatic.com/productImages/895e08da-c6e4-485f-bd4f-7033a819cda7/svn/brushed-nickel-hampton-bay-floor-lamps-af40818sa-64_600.jpg",
+          "https://images.thdstatic.com/productImages/895e08da-c6e4-485f-bd4f-7033a819cda7/svn/brushed-nickel-hampton-bay-floor-lamps-af40818sa-64_1000.jpg"
+        ],
+        [
+          "https://images.thdstatic.com/productImages/01366ac5-7065-45db-a20c-e426fe3ab9df/svn/brushed-nickel-hampton-bay-floor-lamps-af40818sa-e4_65.jpg",
+          "https://images.thdstatic.com/productImages/01366ac5-7065-45db-a20c-e426fe3ab9df/svn/brushed-nickel-hampton-bay-floor-lamps-af40818sa-e4_100.jpg",
+          "https://images.thdstatic.com/productImages/01366ac5-7065-45db-a20c-e426fe3ab9df/svn/brushed-nickel-hampton-bay-floor-lamps-af40818sa-e4_145.jpg",
+          "https://images.thdstatic.com/productImages/01366ac5-7065-45db-a20c-e426fe3ab9df/svn/brushed-nickel-hampton-bay-floor-lamps-af40818sa-e4_300.jpg",
+          "https://images.thdstatic.com/productImages/01366ac5-7065-45db-a20c-e426fe3ab9df/svn/brushed-nickel-hampton-bay-floor-lamps-af40818sa-e4_400.jpg",
+          "https://images.thdstatic.com/productImages/01366ac5-7065-45db-a20c-e426fe3ab9df/svn/brushed-nickel-hampton-bay-floor-lamps-af40818sa-e4_600.jpg",
+          "https://images.thdstatic.com/productImages/01366ac5-7065-45db-a20c-e426fe3ab9df/svn/brushed-nickel-hampton-bay-floor-lamps-af40818sa-e4_1000.jpg"
+        ]
+      ],
+      "link": "https://www.homedepot.com/p/Hampton-Bay-78-in-Height-3-Arc-Floor-Lamp-Brushed-Nickel-Finish-AF40818SA/301703779",
+      "serpapi_link": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot_product&product_id=301703779&store_id=2414",
+      "model_number": "AF40818SA",
+      "brand": "Hampton Bay",
+      "collection": "https://www.homedepot.com",
+      "favorite": 796,
+      "rating": 4.5868,
+      "reviews": 288,
+      "price": 139.0,
+      "badges": [
+        "bestseller"
+      ],
+      "delivery": {
+        "free": true,
+        "free_delivery_threshold": false
+      },
+      "pickup": {
+        "quantity": 3,
+        "store_name": "Bangor",
+        "distance": 0
+      }
+    },
+    {
+      "position": 11,
+      "product_id": "313572511",
+      "title": "71.5 in. Silver Mother/Daughter Floor Lamp",
+      "thumbnails": [
+        [
+          "https://images.thdstatic.com/productImages/942dcb0d-86d5-4b4f-b385-5f0bb430c077/svn/silver-hampton-bay-floor-lamps-20921-000-64_65.jpg",
+          "https://images.thdstatic.com/productImages/942dcb0d-86d5-4b4f-b385-5f0bb430c077/svn/silver-hampton-bay-floor-lamps-20921-000-64_100.jpg",
+          "https://images.thdstatic.com/productImages/942dcb0d-86d5-4b4f-b385-5f0bb430c077/svn/silver-hampton-bay-floor-lamps-20921-000-64_145.jpg",
+          "https://images.thdstatic.com/productImages/942dcb0d-86d5-4b4f-b385-5f0bb430c077/svn/silver-hampton-bay-floor-lamps-20921-000-64_300.jpg",
+          "https://images.thdstatic.com/productImages/942dcb0d-86d5-4b4f-b385-5f0bb430c077/svn/silver-hampton-bay-floor-lamps-20921-000-64_400.jpg",
+          "https://images.thdstatic.com/productImages/942dcb0d-86d5-4b4f-b385-5f0bb430c077/svn/silver-hampton-bay-floor-lamps-20921-000-64_600.jpg",
+          "https://images.thdstatic.com/productImages/942dcb0d-86d5-4b4f-b385-5f0bb430c077/svn/silver-hampton-bay-floor-lamps-20921-000-64_1000.jpg"
+        ],
+        [
+          "https://images.thdstatic.com/productImages/546a03dd-1a67-4707-89a6-986dd8df7df4/svn/silver-hampton-bay-floor-lamps-20921-000-e4_65.jpg",
+          "https://images.thdstatic.com/productImages/546a03dd-1a67-4707-89a6-986dd8df7df4/svn/silver-hampton-bay-floor-lamps-20921-000-e4_100.jpg",
+          "https://images.thdstatic.com/productImages/546a03dd-1a67-4707-89a6-986dd8df7df4/svn/silver-hampton-bay-floor-lamps-20921-000-e4_145.jpg",
+          "https://images.thdstatic.com/productImages/546a03dd-1a67-4707-89a6-986dd8df7df4/svn/silver-hampton-bay-floor-lamps-20921-000-e4_300.jpg",
+          "https://images.thdstatic.com/productImages/546a03dd-1a67-4707-89a6-986dd8df7df4/svn/silver-hampton-bay-floor-lamps-20921-000-e4_400.jpg",
+          "https://images.thdstatic.com/productImages/546a03dd-1a67-4707-89a6-986dd8df7df4/svn/silver-hampton-bay-floor-lamps-20921-000-e4_600.jpg",
+          "https://images.thdstatic.com/productImages/546a03dd-1a67-4707-89a6-986dd8df7df4/svn/silver-hampton-bay-floor-lamps-20921-000-e4_1000.jpg"
+        ]
+      ],
+      "link": "https://www.homedepot.com/p/Hampton-Bay-71-5-in-Silver-Mother-Daughter-Floor-Lamp-20921-000/313572511",
+      "serpapi_link": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot_product&product_id=313572511&store_id=2414",
+      "model_number": "20921-000",
+      "brand": "Hampton Bay",
+      "collection": "https://www.homedepot.com",
+      "rating": 4.0328,
+      "reviews": 396,
+      "price": 34.97,
+      "delivery": {
+        "schedule_delivery": true
+      },
+      "pickup": {
+        "quantity": 5,
+        "store_name": "Bangor",
+        "distance": 0
+      }
+    },
+    {
+      "position": 12,
+      "product_id": "202022452",
+      "title": "13-7/8 in. Satin Chrome Clip Lamp",
+      "thumbnails": [
+        [
+          "https://images.thdstatic.com/productImages/e19b20ee-7f19-4db8-abbc-92fedbcdb1c3/svn/satin-chrome-hampton-bay-desk-lamps-hbp1001c-109-64_65.jpg",
+          "https://images.thdstatic.com/productImages/e19b20ee-7f19-4db8-abbc-92fedbcdb1c3/svn/satin-chrome-hampton-bay-desk-lamps-hbp1001c-109-64_100.jpg",
+          "https://images.thdstatic.com/productImages/e19b20ee-7f19-4db8-abbc-92fedbcdb1c3/svn/satin-chrome-hampton-bay-desk-lamps-hbp1001c-109-64_145.jpg",
+          "https://images.thdstatic.com/productImages/e19b20ee-7f19-4db8-abbc-92fedbcdb1c3/svn/satin-chrome-hampton-bay-desk-lamps-hbp1001c-109-64_300.jpg",
+          "https://images.thdstatic.com/productImages/e19b20ee-7f19-4db8-abbc-92fedbcdb1c3/svn/satin-chrome-hampton-bay-desk-lamps-hbp1001c-109-64_400.jpg",
+          "https://images.thdstatic.com/productImages/e19b20ee-7f19-4db8-abbc-92fedbcdb1c3/svn/satin-chrome-hampton-bay-desk-lamps-hbp1001c-109-64_600.jpg",
+          "https://images.thdstatic.com/productImages/e19b20ee-7f19-4db8-abbc-92fedbcdb1c3/svn/satin-chrome-hampton-bay-desk-lamps-hbp1001c-109-64_1000.jpg"
+        ],
+        [
+          "https://images.thdstatic.com/productImages/3e38f74b-4d3c-46f4-b903-bd7ea4540802/svn/satin-chrome-hampton-bay-desk-lamps-hbp1001c-109-e4_65.jpg",
+          "https://images.thdstatic.com/productImages/3e38f74b-4d3c-46f4-b903-bd7ea4540802/svn/satin-chrome-hampton-bay-desk-lamps-hbp1001c-109-e4_100.jpg",
+          "https://images.thdstatic.com/productImages/3e38f74b-4d3c-46f4-b903-bd7ea4540802/svn/satin-chrome-hampton-bay-desk-lamps-hbp1001c-109-e4_145.jpg",
+          "https://images.thdstatic.com/productImages/3e38f74b-4d3c-46f4-b903-bd7ea4540802/svn/satin-chrome-hampton-bay-desk-lamps-hbp1001c-109-e4_300.jpg",
+          "https://images.thdstatic.com/productImages/3e38f74b-4d3c-46f4-b903-bd7ea4540802/svn/satin-chrome-hampton-bay-desk-lamps-hbp1001c-109-e4_400.jpg",
+          "https://images.thdstatic.com/productImages/3e38f74b-4d3c-46f4-b903-bd7ea4540802/svn/satin-chrome-hampton-bay-desk-lamps-hbp1001c-109-e4_600.jpg",
+          "https://images.thdstatic.com/productImages/3e38f74b-4d3c-46f4-b903-bd7ea4540802/svn/satin-chrome-hampton-bay-desk-lamps-hbp1001c-109-e4_1000.jpg"
+        ]
+      ],
+      "link": "https://www.homedepot.com/p/Hampton-Bay-13-7-8-in-Satin-Chrome-Clip-Lamp-HBP1001C-109/202022452",
+      "serpapi_link": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot_product&product_id=202022452&store_id=2414",
+      "model_number": "HBP1001C-109",
+      "brand": "Hampton Bay",
+      "collection": "https://www.homedepot.com",
+      "favorite": 270,
+      "rating": 4.2232,
+      "reviews": 345,
+      "price": 21.97,
+      "badges": [
+        "top rated"
+      ],
+      "delivery": {
+        "free": true,
+        "free_delivery_threshold": false
+      },
+      "pickup": {
+        "quantity": 6,
+        "store_name": "Bangor",
+        "distance": 0
+      }
+    },
+    {
+      "position": 13,
+      "product_id": "205139331",
+      "title": "32 in. Multi-Joint Metal Clamp Black Desk Lamp",
+      "thumbnails": [
+        [
+          "https://images.thdstatic.com/productImages/0d2bb1f3-f192-4923-96ad-03e8e9818299/svn/black-finish-globe-electric-desk-lamps-56963-64_65.jpg",
+          "https://images.thdstatic.com/productImages/0d2bb1f3-f192-4923-96ad-03e8e9818299/svn/black-finish-globe-electric-desk-lamps-56963-64_100.jpg",
+          "https://images.thdstatic.com/productImages/0d2bb1f3-f192-4923-96ad-03e8e9818299/svn/black-finish-globe-electric-desk-lamps-56963-64_145.jpg",
+          "https://images.thdstatic.com/productImages/0d2bb1f3-f192-4923-96ad-03e8e9818299/svn/black-finish-globe-electric-desk-lamps-56963-64_300.jpg",
+          "https://images.thdstatic.com/productImages/0d2bb1f3-f192-4923-96ad-03e8e9818299/svn/black-finish-globe-electric-desk-lamps-56963-64_400.jpg",
+          "https://images.thdstatic.com/productImages/0d2bb1f3-f192-4923-96ad-03e8e9818299/svn/black-finish-globe-electric-desk-lamps-56963-64_600.jpg",
+          "https://images.thdstatic.com/productImages/0d2bb1f3-f192-4923-96ad-03e8e9818299/svn/black-finish-globe-electric-desk-lamps-56963-64_1000.jpg"
+        ],
+        [
+          "https://images.thdstatic.com/productImages/8dd606e0-9003-42c4-9567-d3a2249b2d20/svn/black-finish-globe-electric-desk-lamps-56963-e4_65.jpg",
+          "https://images.thdstatic.com/productImages/8dd606e0-9003-42c4-9567-d3a2249b2d20/svn/black-finish-globe-electric-desk-lamps-56963-e4_100.jpg",
+          "https://images.thdstatic.com/productImages/8dd606e0-9003-42c4-9567-d3a2249b2d20/svn/black-finish-globe-electric-desk-lamps-56963-e4_145.jpg",
+          "https://images.thdstatic.com/productImages/8dd606e0-9003-42c4-9567-d3a2249b2d20/svn/black-finish-globe-electric-desk-lamps-56963-e4_300.jpg",
+          "https://images.thdstatic.com/productImages/8dd606e0-9003-42c4-9567-d3a2249b2d20/svn/black-finish-globe-electric-desk-lamps-56963-e4_400.jpg",
+          "https://images.thdstatic.com/productImages/8dd606e0-9003-42c4-9567-d3a2249b2d20/svn/black-finish-globe-electric-desk-lamps-56963-e4_600.jpg",
+          "https://images.thdstatic.com/productImages/8dd606e0-9003-42c4-9567-d3a2249b2d20/svn/black-finish-globe-electric-desk-lamps-56963-e4_1000.jpg"
+        ]
+      ],
+      "link": "https://www.homedepot.com/p/Globe-Electric-32-in-Multi-Joint-Metal-Clamp-Black-Desk-Lamp-56963/205139331",
+      "serpapi_link": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot_product&product_id=205139331&store_id=2414",
+      "model_number": "56963",
+      "brand": "Globe Electric",
+      "collection": "https://www.homedepot.com",
+      "favorite": 500,
+      "rating": 4.4977,
+      "reviews": 428,
+      "price": 21.19,
+      "delivery": {
+        "free": true,
+        "free_delivery_threshold": false
+      },
+      "pickup": {
+        "free_ship_to_store": true
+      }
+    },
+    {
+      "position": 14,
+      "product_id": "301557138",
+      "title": "10 in. Faux Wood Vintage Uplight Lamp",
+      "thumbnails": [
+        [
+          "https://images.thdstatic.com/productImages/0358ee29-3d1b-46b3-84cc-fb6b66b6ed71/svn/glass-hampton-bay-table-lamps-20558-000-64_65.jpg",
+          "https://images.thdstatic.com/productImages/0358ee29-3d1b-46b3-84cc-fb6b66b6ed71/svn/glass-hampton-bay-table-lamps-20558-000-64_100.jpg",
+          "https://images.thdstatic.com/productImages/0358ee29-3d1b-46b3-84cc-fb6b66b6ed71/svn/glass-hampton-bay-table-lamps-20558-000-64_145.jpg",
+          "https://images.thdstatic.com/productImages/0358ee29-3d1b-46b3-84cc-fb6b66b6ed71/svn/glass-hampton-bay-table-lamps-20558-000-64_300.jpg",
+          "https://images.thdstatic.com/productImages/0358ee29-3d1b-46b3-84cc-fb6b66b6ed71/svn/glass-hampton-bay-table-lamps-20558-000-64_400.jpg",
+          "https://images.thdstatic.com/productImages/0358ee29-3d1b-46b3-84cc-fb6b66b6ed71/svn/glass-hampton-bay-table-lamps-20558-000-64_600.jpg",
+          "https://images.thdstatic.com/productImages/0358ee29-3d1b-46b3-84cc-fb6b66b6ed71/svn/glass-hampton-bay-table-lamps-20558-000-64_1000.jpg"
+        ],
+        [
+          "https://images.thdstatic.com/productImages/525af64a-6425-4663-9c2f-f5395c88b955/svn/glass-hampton-bay-table-lamps-20558-000-e4_65.jpg",
+          "https://images.thdstatic.com/productImages/525af64a-6425-4663-9c2f-f5395c88b955/svn/glass-hampton-bay-table-lamps-20558-000-e4_100.jpg",
+          "https://images.thdstatic.com/productImages/525af64a-6425-4663-9c2f-f5395c88b955/svn/glass-hampton-bay-table-lamps-20558-000-e4_145.jpg",
+          "https://images.thdstatic.com/productImages/525af64a-6425-4663-9c2f-f5395c88b955/svn/glass-hampton-bay-table-lamps-20558-000-e4_300.jpg",
+          "https://images.thdstatic.com/productImages/525af64a-6425-4663-9c2f-f5395c88b955/svn/glass-hampton-bay-table-lamps-20558-000-e4_400.jpg",
+          "https://images.thdstatic.com/productImages/525af64a-6425-4663-9c2f-f5395c88b955/svn/glass-hampton-bay-table-lamps-20558-000-e4_600.jpg",
+          "https://images.thdstatic.com/productImages/525af64a-6425-4663-9c2f-f5395c88b955/svn/glass-hampton-bay-table-lamps-20558-000-e4_1000.jpg"
+        ]
+      ],
+      "link": "https://www.homedepot.com/p/Hampton-Bay-10-in-Faux-Wood-Vintage-Uplight-Lamp-20558-000/301557138",
+      "serpapi_link": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot_product&product_id=301557138&store_id=2414",
+      "model_number": "20558-000",
+      "brand": "Hampton Bay",
+      "collection": "https://www.homedepot.com",
+      "favorite": 427,
+      "rating": 4.3125,
+      "reviews": 128,
+      "price": 31.97,
+      "delivery": {
+        "free": true,
+        "free_delivery_threshold": false
+      },
+      "pickup": {
+        "free_ship_to_store": true
+      }
+    },
+    {
+      "position": 15,
+      "product_id": "309221591",
+      "title": "Tommy Dinosaur MultiColor changing Integrated LED Rechargeable Silicone Night Light Lamp, White",
+      "thumbnails": [
+        [
+          "https://images.thdstatic.com/productImages/c9bf49f7-9be3-4f52-83c4-de327324c554/svn/globe-electric-led-night-lights-13099-64_65.jpg",
+          "https://images.thdstatic.com/productImages/c9bf49f7-9be3-4f52-83c4-de327324c554/svn/globe-electric-led-night-lights-13099-64_100.jpg",
+          "https://images.thdstatic.com/productImages/c9bf49f7-9be3-4f52-83c4-de327324c554/svn/globe-electric-led-night-lights-13099-64_145.jpg",
+          "https://images.thdstatic.com/productImages/c9bf49f7-9be3-4f52-83c4-de327324c554/svn/globe-electric-led-night-lights-13099-64_300.jpg",
+          "https://images.thdstatic.com/productImages/c9bf49f7-9be3-4f52-83c4-de327324c554/svn/globe-electric-led-night-lights-13099-64_400.jpg",
+          "https://images.thdstatic.com/productImages/c9bf49f7-9be3-4f52-83c4-de327324c554/svn/globe-electric-led-night-lights-13099-64_600.jpg",
+          "https://images.thdstatic.com/productImages/c9bf49f7-9be3-4f52-83c4-de327324c554/svn/globe-electric-led-night-lights-13099-64_1000.jpg"
+        ],
+        [
+          "https://images.thdstatic.com/productImages/f410245b-7e2f-415c-a21a-2ef8cf94a663/svn/globe-electric-led-night-lights-13099-e4_65.jpg",
+          "https://images.thdstatic.com/productImages/f410245b-7e2f-415c-a21a-2ef8cf94a663/svn/globe-electric-led-night-lights-13099-e4_100.jpg",
+          "https://images.thdstatic.com/productImages/f410245b-7e2f-415c-a21a-2ef8cf94a663/svn/globe-electric-led-night-lights-13099-e4_145.jpg",
+          "https://images.thdstatic.com/productImages/f410245b-7e2f-415c-a21a-2ef8cf94a663/svn/globe-electric-led-night-lights-13099-e4_300.jpg",
+          "https://images.thdstatic.com/productImages/f410245b-7e2f-415c-a21a-2ef8cf94a663/svn/globe-electric-led-night-lights-13099-e4_400.jpg",
+          "https://images.thdstatic.com/productImages/f410245b-7e2f-415c-a21a-2ef8cf94a663/svn/globe-electric-led-night-lights-13099-e4_600.jpg",
+          "https://images.thdstatic.com/productImages/f410245b-7e2f-415c-a21a-2ef8cf94a663/svn/globe-electric-led-night-lights-13099-e4_1000.jpg"
+        ]
+      ],
+      "link": "https://www.homedepot.com/p/Globe-Electric-Tommy-Dinosaur-MultiColor-changing-Integrated-LED-Rechargeable-Silicone-Night-Light-Lamp-White-13099/309221591",
+      "serpapi_link": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot_product&product_id=309221591&store_id=2414",
+      "model_number": "13099",
+      "brand": "Globe Electric",
+      "collection": "https://www.homedepot.com/collection/Lighting/Silicone-Tap-Animal-Night-Light-Collection/Family-315102940?omsid=309221591",
+      "favorite": 9228,
+      "rating": 4.7352,
+      "reviews": 1473,
+      "price": 14.47,
+      "delivery": {
+        "free": true,
+        "free_delivery_threshold": false
+      },
+      "pickup": {
+        "quantity": 8,
+        "store_name": "Bangor",
+        "distance": 0
+      }
+    },
+    {
+      "position": 16,
+      "product_id": "204667690",
+      "title": "60-Watt 6 ft. 18/2 SPT-2 Incandescent Portable Clamp Work Light with 5.5 in. Reflector",
+      "thumbnails": [
+        [
+          "https://images.thdstatic.com/productImages/964f8252-055a-408c-a9c2-1ba25fc114a9/svn/woods-standing-work-lights-0160-64_65.jpg",
+          "https://images.thdstatic.com/productImages/964f8252-055a-408c-a9c2-1ba25fc114a9/svn/woods-standing-work-lights-0160-64_100.jpg",
+          "https://images.thdstatic.com/productImages/964f8252-055a-408c-a9c2-1ba25fc114a9/svn/woods-standing-work-lights-0160-64_145.jpg",
+          "https://images.thdstatic.com/productImages/964f8252-055a-408c-a9c2-1ba25fc114a9/svn/woods-standing-work-lights-0160-64_300.jpg",
+          "https://images.thdstatic.com/productImages/964f8252-055a-408c-a9c2-1ba25fc114a9/svn/woods-standing-work-lights-0160-64_400.jpg",
+          "https://images.thdstatic.com/productImages/964f8252-055a-408c-a9c2-1ba25fc114a9/svn/woods-standing-work-lights-0160-64_600.jpg",
+          "https://images.thdstatic.com/productImages/964f8252-055a-408c-a9c2-1ba25fc114a9/svn/woods-standing-work-lights-0160-64_1000.jpg"
+        ]
+      ],
+      "link": "https://www.homedepot.com/p/Woods-60-Watt-6-ft-18-2-SPT-2-Incandescent-Portable-Clamp-Work-Light-with-5-5-in-Reflector-0160/204667690",
+      "serpapi_link": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot_product&product_id=204667690&store_id=2414",
+      "model_number": "0160",
+      "brand": "Woods",
+      "collection": "https://www.homedepot.com",
+      "favorite": 151,
+      "rating": 4.4167,
+      "reviews": 60,
+      "price": 10.68,
+      "delivery": {
+        "free": true,
+        "free_delivery_threshold": false
+      },
+      "pickup": {
+        "quantity": 32,
+        "store_name": "Bangor",
+        "distance": 0
+      }
+    },
+    {
+      "position": 17,
+      "product_id": "205110233",
+      "title": "59 in. Oil-Rubbed Bronze Swing-Arm Floor Lamp with Cream Fabric Drum Shade",
+      "thumbnails": [
+        [
+          "https://images.thdstatic.com/productImages/87f6fc72-edce-497e-82fb-bc49ad029b6d/svn/bronze-hampton-bay-floor-lamps-f319001a-rob-64_65.jpg",
+          "https://images.thdstatic.com/productImages/87f6fc72-edce-497e-82fb-bc49ad029b6d/svn/bronze-hampton-bay-floor-lamps-f319001a-rob-64_100.jpg",
+          "https://images.thdstatic.com/productImages/87f6fc72-edce-497e-82fb-bc49ad029b6d/svn/bronze-hampton-bay-floor-lamps-f319001a-rob-64_145.jpg",
+          "https://images.thdstatic.com/productImages/87f6fc72-edce-497e-82fb-bc49ad029b6d/svn/bronze-hampton-bay-floor-lamps-f319001a-rob-64_300.jpg",
+          "https://images.thdstatic.com/productImages/87f6fc72-edce-497e-82fb-bc49ad029b6d/svn/bronze-hampton-bay-floor-lamps-f319001a-rob-64_400.jpg",
+          "https://images.thdstatic.com/productImages/87f6fc72-edce-497e-82fb-bc49ad029b6d/svn/bronze-hampton-bay-floor-lamps-f319001a-rob-64_600.jpg",
+          "https://images.thdstatic.com/productImages/87f6fc72-edce-497e-82fb-bc49ad029b6d/svn/bronze-hampton-bay-floor-lamps-f319001a-rob-64_1000.jpg"
+        ],
+        [
+          "https://images.thdstatic.com/productImages/e548fa7a-d6ed-45fd-a044-223a0130a4c8/svn/bronze-hampton-bay-floor-lamps-f319001a-rob-e4_65.jpg",
+          "https://images.thdstatic.com/productImages/e548fa7a-d6ed-45fd-a044-223a0130a4c8/svn/bronze-hampton-bay-floor-lamps-f319001a-rob-e4_100.jpg",
+          "https://images.thdstatic.com/productImages/e548fa7a-d6ed-45fd-a044-223a0130a4c8/svn/bronze-hampton-bay-floor-lamps-f319001a-rob-e4_145.jpg",
+          "https://images.thdstatic.com/productImages/e548fa7a-d6ed-45fd-a044-223a0130a4c8/svn/bronze-hampton-bay-floor-lamps-f319001a-rob-e4_300.jpg",
+          "https://images.thdstatic.com/productImages/e548fa7a-d6ed-45fd-a044-223a0130a4c8/svn/bronze-hampton-bay-floor-lamps-f319001a-rob-e4_400.jpg",
+          "https://images.thdstatic.com/productImages/e548fa7a-d6ed-45fd-a044-223a0130a4c8/svn/bronze-hampton-bay-floor-lamps-f319001a-rob-e4_600.jpg",
+          "https://images.thdstatic.com/productImages/e548fa7a-d6ed-45fd-a044-223a0130a4c8/svn/bronze-hampton-bay-floor-lamps-f319001a-rob-e4_1000.jpg"
+        ]
+      ],
+      "link": "https://www.homedepot.com/p/Hampton-Bay-59-in-Oil-Rubbed-Bronze-Swing-Arm-Floor-Lamp-with-Cream-Fabric-Drum-Shade-F319001A-ROB/205110233",
+      "serpapi_link": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot_product&product_id=205110233&store_id=2414",
+      "model_number": "F319001A ROB",
+      "brand": "Hampton Bay",
+      "collection": "https://www.homedepot.com/collection/Lighting/Hampton-Bay-Swing-Arm-Lamps/Family-317944805?omsid=205110233",
+      "variants": [
+        {
+          "title": "Bronze",
+          "link": "https://www.homedepot.com/p/Hampton-Bay-59-in-Oil-Rubbed-Bronze-Swing-Arm-Floor-Lamp-with-Cream-Fabric-Drum-Shade-F319001A-ROB/205110233",
+          "thumbnail": "https://images.thdstatic.com/catalog/swatchImages/35/c8/c866dfff-d286-40d6-8e70-a800f7dcdd3d_35.jpg"
+        },
+        {
+          "title": "Nickel",
+          "link": "https://www.homedepot.com/p/Hampton-Bay-59-in-Brushed-Nickel-Swing-Arm-Floor-Lamp-with-White-Fabric-Drum-Shade-F319001A-BN/205318560",
+          "thumbnail": "https://images.thdstatic.com/catalog/swatchImages/35/d0/d040ecc1-1acc-462b-acec-676f5115d9da_35.jpg"
+        }
+      ],
+      "favorite": 915,
+      "rating": 4.6126,
+      "reviews": 759,
+      "price": 70.97,
+      "badges": [
+        "top rated"
+      ],
+      "delivery": {
+        "schedule_delivery": true
+      },
+      "pickup": {
+        "quantity": 6,
+        "store_name": "Bangor",
+        "distance": 0
+      }
+    },
+    {
+      "position": 18,
+      "product_id": "313572351",
+      "title": "Rhodes 58.50 in. Bronze Floor Lamp with Natural Linen Shade",
+      "thumbnails": [
+        [
+          "https://images.thdstatic.com/productImages/5a25809e-eeb8-441e-b74e-0af02f606b4c/svn/rhodes-bronze-hampton-bay-floor-lamps-hd09999frbrzc-64_65.jpg",
+          "https://images.thdstatic.com/productImages/5a25809e-eeb8-441e-b74e-0af02f606b4c/svn/rhodes-bronze-hampton-bay-floor-lamps-hd09999frbrzc-64_100.jpg",
+          "https://images.thdstatic.com/productImages/5a25809e-eeb8-441e-b74e-0af02f606b4c/svn/rhodes-bronze-hampton-bay-floor-lamps-hd09999frbrzc-64_145.jpg",
+          "https://images.thdstatic.com/productImages/5a25809e-eeb8-441e-b74e-0af02f606b4c/svn/rhodes-bronze-hampton-bay-floor-lamps-hd09999frbrzc-64_300.jpg",
+          "https://images.thdstatic.com/productImages/5a25809e-eeb8-441e-b74e-0af02f606b4c/svn/rhodes-bronze-hampton-bay-floor-lamps-hd09999frbrzc-64_400.jpg",
+          "https://images.thdstatic.com/productImages/5a25809e-eeb8-441e-b74e-0af02f606b4c/svn/rhodes-bronze-hampton-bay-floor-lamps-hd09999frbrzc-64_600.jpg",
+          "https://images.thdstatic.com/productImages/5a25809e-eeb8-441e-b74e-0af02f606b4c/svn/rhodes-bronze-hampton-bay-floor-lamps-hd09999frbrzc-64_1000.jpg"
+        ],
+        [
+          "https://images.thdstatic.com/productImages/db45e17d-e8ea-4ccb-a22c-affbf7572f12/svn/rhodes-bronze-hampton-bay-floor-lamps-hd09999frbrzc-e4_65.jpg",
+          "https://images.thdstatic.com/productImages/db45e17d-e8ea-4ccb-a22c-affbf7572f12/svn/rhodes-bronze-hampton-bay-floor-lamps-hd09999frbrzc-e4_100.jpg",
+          "https://images.thdstatic.com/productImages/db45e17d-e8ea-4ccb-a22c-affbf7572f12/svn/rhodes-bronze-hampton-bay-floor-lamps-hd09999frbrzc-e4_145.jpg",
+          "https://images.thdstatic.com/productImages/db45e17d-e8ea-4ccb-a22c-affbf7572f12/svn/rhodes-bronze-hampton-bay-floor-lamps-hd09999frbrzc-e4_300.jpg",
+          "https://images.thdstatic.com/productImages/db45e17d-e8ea-4ccb-a22c-affbf7572f12/svn/rhodes-bronze-hampton-bay-floor-lamps-hd09999frbrzc-e4_400.jpg",
+          "https://images.thdstatic.com/productImages/db45e17d-e8ea-4ccb-a22c-affbf7572f12/svn/rhodes-bronze-hampton-bay-floor-lamps-hd09999frbrzc-e4_600.jpg",
+          "https://images.thdstatic.com/productImages/db45e17d-e8ea-4ccb-a22c-affbf7572f12/svn/rhodes-bronze-hampton-bay-floor-lamps-hd09999frbrzc-e4_1000.jpg"
+        ]
+      ],
+      "link": "https://www.homedepot.com/p/Hampton-Bay-Rhodes-58-50-in-Bronze-Floor-Lamp-with-Natural-Linen-Shade-HD09999FRBRZC/313572351",
+      "serpapi_link": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot_product&product_id=313572351&store_id=2414",
+      "model_number": "HD09999FRBRZC",
+      "brand": "Hampton Bay",
+      "collection": "https://www.homedepot.com",
+      "rating": 4.5259,
+      "reviews": 540,
+      "price": 69.97,
+      "delivery": {
+        "free": true,
+        "free_delivery_threshold": false
+      },
+      "pickup": {
+        "quantity": 1,
+        "store_name": "Bangor",
+        "distance": 0
+      }
+    },
+    {
+      "position": 19,
+      "product_id": "100563976",
+      "title": "72 in. Bronze Torchiere Floor Lamp with Alabaster Glass Shade",
+      "thumbnails": [
+        [
+          "https://images.thdstatic.com/productImages/979d6b64-2ceb-48f0-a0b8-f4fe36ab23f2/svn/bronze-hampton-bay-floor-lamps-hd09528tobrze-64_65.jpg",
+          "https://images.thdstatic.com/productImages/979d6b64-2ceb-48f0-a0b8-f4fe36ab23f2/svn/bronze-hampton-bay-floor-lamps-hd09528tobrze-64_100.jpg",
+          "https://images.thdstatic.com/productImages/979d6b64-2ceb-48f0-a0b8-f4fe36ab23f2/svn/bronze-hampton-bay-floor-lamps-hd09528tobrze-64_145.jpg",
+          "https://images.thdstatic.com/productImages/979d6b64-2ceb-48f0-a0b8-f4fe36ab23f2/svn/bronze-hampton-bay-floor-lamps-hd09528tobrze-64_300.jpg",
+          "https://images.thdstatic.com/productImages/979d6b64-2ceb-48f0-a0b8-f4fe36ab23f2/svn/bronze-hampton-bay-floor-lamps-hd09528tobrze-64_400.jpg",
+          "https://images.thdstatic.com/productImages/979d6b64-2ceb-48f0-a0b8-f4fe36ab23f2/svn/bronze-hampton-bay-floor-lamps-hd09528tobrze-64_600.jpg",
+          "https://images.thdstatic.com/productImages/979d6b64-2ceb-48f0-a0b8-f4fe36ab23f2/svn/bronze-hampton-bay-floor-lamps-hd09528tobrze-64_1000.jpg"
+        ],
+        [
+          "https://images.thdstatic.com/productImages/553f2c45-1a85-4e17-9ed3-e6c8e229aa80/svn/bronze-hampton-bay-floor-lamps-hd09528tobrze-e4_65.jpg",
+          "https://images.thdstatic.com/productImages/553f2c45-1a85-4e17-9ed3-e6c8e229aa80/svn/bronze-hampton-bay-floor-lamps-hd09528tobrze-e4_100.jpg",
+          "https://images.thdstatic.com/productImages/553f2c45-1a85-4e17-9ed3-e6c8e229aa80/svn/bronze-hampton-bay-floor-lamps-hd09528tobrze-e4_145.jpg",
+          "https://images.thdstatic.com/productImages/553f2c45-1a85-4e17-9ed3-e6c8e229aa80/svn/bronze-hampton-bay-floor-lamps-hd09528tobrze-e4_300.jpg",
+          "https://images.thdstatic.com/productImages/553f2c45-1a85-4e17-9ed3-e6c8e229aa80/svn/bronze-hampton-bay-floor-lamps-hd09528tobrze-e4_400.jpg",
+          "https://images.thdstatic.com/productImages/553f2c45-1a85-4e17-9ed3-e6c8e229aa80/svn/bronze-hampton-bay-floor-lamps-hd09528tobrze-e4_600.jpg",
+          "https://images.thdstatic.com/productImages/553f2c45-1a85-4e17-9ed3-e6c8e229aa80/svn/bronze-hampton-bay-floor-lamps-hd09528tobrze-e4_1000.jpg"
+        ]
+      ],
+      "link": "https://www.homedepot.com/p/Hampton-Bay-72-in-Bronze-Torchiere-Floor-Lamp-with-Alabaster-Glass-Shade-HD09528TOBRZE/100563976",
+      "serpapi_link": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot_product&product_id=100563976&store_id=2414",
+      "model_number": "HD09528TOBRZE",
+      "brand": "Hampton Bay",
+      "collection": "https://www.homedepot.com",
+      "favorite": 979,
+      "rating": 4.4639,
+      "reviews": 416,
+      "price": 42.97,
+      "delivery": {
+        "free": true,
+        "free_delivery_threshold": false
+      },
+      "pickup": {
+        "quantity": 6,
+        "store_name": "Bangor",
+        "distance": 0
+      }
+    },
+    {
+      "position": 20,
+      "product_id": "202742948",
+      "title": "66 in. Satin Nickel Floor Lamp with 5 Plastic Bell Shades",
+      "thumbnails": [
+        [
+          "https://images.thdstatic.com/productImages/2f32484b-471d-4cd9-980b-f293124a8efd/svn/satin-nickel-hampton-bay-floor-lamps-524505-64_65.jpg",
+          "https://images.thdstatic.com/productImages/2f32484b-471d-4cd9-980b-f293124a8efd/svn/satin-nickel-hampton-bay-floor-lamps-524505-64_100.jpg",
+          "https://images.thdstatic.com/productImages/2f32484b-471d-4cd9-980b-f293124a8efd/svn/satin-nickel-hampton-bay-floor-lamps-524505-64_145.jpg",
+          "https://images.thdstatic.com/productImages/2f32484b-471d-4cd9-980b-f293124a8efd/svn/satin-nickel-hampton-bay-floor-lamps-524505-64_300.jpg",
+          "https://images.thdstatic.com/productImages/2f32484b-471d-4cd9-980b-f293124a8efd/svn/satin-nickel-hampton-bay-floor-lamps-524505-64_400.jpg",
+          "https://images.thdstatic.com/productImages/2f32484b-471d-4cd9-980b-f293124a8efd/svn/satin-nickel-hampton-bay-floor-lamps-524505-64_600.jpg",
+          "https://images.thdstatic.com/productImages/2f32484b-471d-4cd9-980b-f293124a8efd/svn/satin-nickel-hampton-bay-floor-lamps-524505-64_1000.jpg"
+        ],
+        [
+          "https://images.thdstatic.com/productImages/6408042f-3eea-44e8-8bb5-7456c1aeb07d/svn/satin-nickel-hampton-bay-floor-lamps-524505-e4_65.jpg",
+          "https://images.thdstatic.com/productImages/6408042f-3eea-44e8-8bb5-7456c1aeb07d/svn/satin-nickel-hampton-bay-floor-lamps-524505-e4_100.jpg",
+          "https://images.thdstatic.com/productImages/6408042f-3eea-44e8-8bb5-7456c1aeb07d/svn/satin-nickel-hampton-bay-floor-lamps-524505-e4_145.jpg",
+          "https://images.thdstatic.com/productImages/6408042f-3eea-44e8-8bb5-7456c1aeb07d/svn/satin-nickel-hampton-bay-floor-lamps-524505-e4_300.jpg",
+          "https://images.thdstatic.com/productImages/6408042f-3eea-44e8-8bb5-7456c1aeb07d/svn/satin-nickel-hampton-bay-floor-lamps-524505-e4_400.jpg",
+          "https://images.thdstatic.com/productImages/6408042f-3eea-44e8-8bb5-7456c1aeb07d/svn/satin-nickel-hampton-bay-floor-lamps-524505-e4_600.jpg",
+          "https://images.thdstatic.com/productImages/6408042f-3eea-44e8-8bb5-7456c1aeb07d/svn/satin-nickel-hampton-bay-floor-lamps-524505-e4_1000.jpg"
+        ]
+      ],
+      "link": "https://www.homedepot.com/p/Hampton-Bay-66-in-Satin-Nickel-Floor-Lamp-with-5-Plastic-Bell-Shades-524505/202742948",
+      "serpapi_link": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot_product&product_id=202742948&store_id=2414",
+      "model_number": "524505",
+      "brand": "Hampton Bay",
+      "collection": "https://www.homedepot.com",
+      "favorite": 699,
+      "rating": 4.6211,
+      "reviews": 446,
+      "price": 46.97,
+      "delivery": {
+        "schedule_delivery": true
+      },
+      "pickup": {
+        "quantity": 3,
+        "store_name": "Bangor",
+        "distance": 0
+      }
+    },
+    {
+      "position": 21,
+      "product_id": "308347024",
+      "title": "Infinity Heart Shelf Floor Lamp 64 in. Expresso",
+      "thumbnails": [
+        [
+          "https://images.thdstatic.com/productImages/1612e1d3-1f49-4f44-8f8b-fe7b4afea5f1/svn/espresso-finish-artiva-floor-lamps-a808102dex-64_65.jpg",
+          "https://images.thdstatic.com/productImages/1612e1d3-1f49-4f44-8f8b-fe7b4afea5f1/svn/espresso-finish-artiva-floor-lamps-a808102dex-64_100.jpg",
+          "https://images.thdstatic.com/productImages/1612e1d3-1f49-4f44-8f8b-fe7b4afea5f1/svn/espresso-finish-artiva-floor-lamps-a808102dex-64_145.jpg",
+          "https://images.thdstatic.com/productImages/1612e1d3-1f49-4f44-8f8b-fe7b4afea5f1/svn/espresso-finish-artiva-floor-lamps-a808102dex-64_300.jpg",
+          "https://images.thdstatic.com/productImages/1612e1d3-1f49-4f44-8f8b-fe7b4afea5f1/svn/espresso-finish-artiva-floor-lamps-a808102dex-64_400.jpg",
+          "https://images.thdstatic.com/productImages/1612e1d3-1f49-4f44-8f8b-fe7b4afea5f1/svn/espresso-finish-artiva-floor-lamps-a808102dex-64_600.jpg",
+          "https://images.thdstatic.com/productImages/1612e1d3-1f49-4f44-8f8b-fe7b4afea5f1/svn/espresso-finish-artiva-floor-lamps-a808102dex-64_1000.jpg"
+        ]
+      ],
+      "link": "https://www.homedepot.com/p/ARTIVA-Infinity-Heart-Shelf-Floor-Lamp-64-in-Expresso-A808102DEX/308347024",
+      "serpapi_link": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot_product&product_id=308347024&store_id=2414",
+      "model_number": "A808102DEX",
+      "brand": "ARTIVA",
+      "collection": "https://www.homedepot.com",
+      "variants": [
+        {
+          "title": "Espresso Finish",
+          "link": "https://www.homedepot.com/p/ARTIVA-Infinity-Heart-Shelf-Floor-Lamp-64-in-Expresso-A808102DEX/308347024",
+          "thumbnail": "https://images.thdstatic.com/catalog/swatchImages/35/e0/e063f189-09da-4e7d-ad32-d406679f392a_35.jpg"
+        },
+        {
+          "title": "Dark Walnut",
+          "link": "https://www.homedepot.com/p/ARTIVA-Infinity-64-in-Dark-Walnut-Heart-Shelf-Floor-Lamp-A808102WAL/316510185",
+          "thumbnail": "https://images.thdstatic.com/catalog/swatchImages/35/bc/bcbb3b8c-6b1e-4aae-952b-61d02c115c8b_35.jpg"
+        }
+      ],
+      "favorite": 709,
+      "rating": 4.1594,
+      "reviews": 138,
+      "price": 99.99,
+      "unit": "package",
+      "badges": [
+        "top rated"
+      ],
+      "delivery": {
+        "free": true,
+        "free_delivery_threshold": false
+      },
+      "pickup": {
+        "free_ship_to_store": true
+      }
+    },
+    {
+      "position": 22,
+      "product_id": "313572374",
+      "title": "71 in. Antique Bronze Floor Lamp with 2 Alabaster Glass Shades",
+      "thumbnails": [
+        [
+          "https://images.thdstatic.com/productImages/46440133-ed24-42c1-8cba-2ab32f1e1cbe/svn/antique-bronze-hampton-bay-floor-lamps-hd11750frabzc-64_65.jpg",
+          "https://images.thdstatic.com/productImages/46440133-ed24-42c1-8cba-2ab32f1e1cbe/svn/antique-bronze-hampton-bay-floor-lamps-hd11750frabzc-64_100.jpg",
+          "https://images.thdstatic.com/productImages/46440133-ed24-42c1-8cba-2ab32f1e1cbe/svn/antique-bronze-hampton-bay-floor-lamps-hd11750frabzc-64_145.jpg",
+          "https://images.thdstatic.com/productImages/46440133-ed24-42c1-8cba-2ab32f1e1cbe/svn/antique-bronze-hampton-bay-floor-lamps-hd11750frabzc-64_300.jpg",
+          "https://images.thdstatic.com/productImages/46440133-ed24-42c1-8cba-2ab32f1e1cbe/svn/antique-bronze-hampton-bay-floor-lamps-hd11750frabzc-64_400.jpg",
+          "https://images.thdstatic.com/productImages/46440133-ed24-42c1-8cba-2ab32f1e1cbe/svn/antique-bronze-hampton-bay-floor-lamps-hd11750frabzc-64_600.jpg",
+          "https://images.thdstatic.com/productImages/46440133-ed24-42c1-8cba-2ab32f1e1cbe/svn/antique-bronze-hampton-bay-floor-lamps-hd11750frabzc-64_1000.jpg"
+        ],
+        [
+          "https://images.thdstatic.com/productImages/719407c9-910f-4d18-b097-8057b820ea1a/svn/antique-bronze-hampton-bay-floor-lamps-hd11750frabzc-e4_65.jpg",
+          "https://images.thdstatic.com/productImages/719407c9-910f-4d18-b097-8057b820ea1a/svn/antique-bronze-hampton-bay-floor-lamps-hd11750frabzc-e4_100.jpg",
+          "https://images.thdstatic.com/productImages/719407c9-910f-4d18-b097-8057b820ea1a/svn/antique-bronze-hampton-bay-floor-lamps-hd11750frabzc-e4_145.jpg",
+          "https://images.thdstatic.com/productImages/719407c9-910f-4d18-b097-8057b820ea1a/svn/antique-bronze-hampton-bay-floor-lamps-hd11750frabzc-e4_300.jpg",
+          "https://images.thdstatic.com/productImages/719407c9-910f-4d18-b097-8057b820ea1a/svn/antique-bronze-hampton-bay-floor-lamps-hd11750frabzc-e4_400.jpg",
+          "https://images.thdstatic.com/productImages/719407c9-910f-4d18-b097-8057b820ea1a/svn/antique-bronze-hampton-bay-floor-lamps-hd11750frabzc-e4_600.jpg",
+          "https://images.thdstatic.com/productImages/719407c9-910f-4d18-b097-8057b820ea1a/svn/antique-bronze-hampton-bay-floor-lamps-hd11750frabzc-e4_1000.jpg"
+        ]
+      ],
+      "link": "https://www.homedepot.com/p/Hampton-Bay-71-in-Antique-Bronze-Floor-Lamp-with-2-Alabaster-Glass-Shades-HD11750FRABZC/313572374",
+      "serpapi_link": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot_product&product_id=313572374&store_id=2414",
+      "model_number": "HD11750FRABZC",
+      "brand": "Hampton Bay",
+      "collection": "https://www.homedepot.com",
+      "rating": 4.4028,
+      "reviews": 638,
+      "price": 64.97,
+      "delivery": {
+        "free": true,
+        "free_delivery_threshold": false
+      },
+      "pickup": {
+        "quantity": 0,
+        "store_name": "Bangor",
+        "distance": 0
+      }
+    },
+    {
+      "position": 23,
+      "product_id": "317962694",
+      "title": "Witherby 61 in. Shabby White Floor Lamp with Gray Lamp Shade",
+      "thumbnails": [
+        [
+          "https://images.thdstatic.com/productImages/55c029e3-f5fb-4764-95fd-6b44a6dc0f9a/svn/shabby-white-hampton-bay-floor-lamps-hd18616fl-64_65.jpg",
+          "https://images.thdstatic.com/productImages/55c029e3-f5fb-4764-95fd-6b44a6dc0f9a/svn/shabby-white-hampton-bay-floor-lamps-hd18616fl-64_100.jpg",
+          "https://images.thdstatic.com/productImages/55c029e3-f5fb-4764-95fd-6b44a6dc0f9a/svn/shabby-white-hampton-bay-floor-lamps-hd18616fl-64_145.jpg",
+          "https://images.thdstatic.com/productImages/55c029e3-f5fb-4764-95fd-6b44a6dc0f9a/svn/shabby-white-hampton-bay-floor-lamps-hd18616fl-64_300.jpg",
+          "https://images.thdstatic.com/productImages/55c029e3-f5fb-4764-95fd-6b44a6dc0f9a/svn/shabby-white-hampton-bay-floor-lamps-hd18616fl-64_400.jpg",
+          "https://images.thdstatic.com/productImages/55c029e3-f5fb-4764-95fd-6b44a6dc0f9a/svn/shabby-white-hampton-bay-floor-lamps-hd18616fl-64_600.jpg",
+          "https://images.thdstatic.com/productImages/55c029e3-f5fb-4764-95fd-6b44a6dc0f9a/svn/shabby-white-hampton-bay-floor-lamps-hd18616fl-64_1000.jpg"
+        ]
+      ],
+      "link": "https://www.homedepot.com/p/Hampton-Bay-Witherby-61-in-Shabby-White-Floor-Lamp-with-Gray-Lamp-Shade-HD18616FL/317962694",
+      "serpapi_link": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot_product&product_id=317962694&store_id=2414",
+      "model_number": "HD18616FL",
+      "brand": "Hampton Bay",
+      "collection": "https://www.homedepot.com",
+      "rating": 4.8378,
+      "reviews": 37,
+      "price": 109.0,
+      "delivery": {
+        "free": true,
+        "free_delivery_threshold": false
+      },
+      "pickup": {
+        "quantity": 2,
+        "store_name": "Bangor",
+        "distance": 0
+      }
+    },
+    {
+      "position": 24,
+      "product_id": "317288715",
+      "title": "Montage Modern 60 in. Satin Nickel LED Floor Lamp with White Fabric Drum Shade",
+      "thumbnails": [
+        [
+          "https://images.thdstatic.com/productImages/dfba3295-1f52-5854-9b34-e57c9024ef12/svn/brushed-nickel-brightech-floor-lamps-7h-ue0f-z4hf-64_65.jpg",
+          "https://images.thdstatic.com/productImages/dfba3295-1f52-5854-9b34-e57c9024ef12/svn/brushed-nickel-brightech-floor-lamps-7h-ue0f-z4hf-64_100.jpg",
+          "https://images.thdstatic.com/productImages/dfba3295-1f52-5854-9b34-e57c9024ef12/svn/brushed-nickel-brightech-floor-lamps-7h-ue0f-z4hf-64_145.jpg",
+          "https://images.thdstatic.com/productImages/dfba3295-1f52-5854-9b34-e57c9024ef12/svn/brushed-nickel-brightech-floor-lamps-7h-ue0f-z4hf-64_300.jpg",
+          "https://images.thdstatic.com/productImages/dfba3295-1f52-5854-9b34-e57c9024ef12/svn/brushed-nickel-brightech-floor-lamps-7h-ue0f-z4hf-64_400.jpg",
+          "https://images.thdstatic.com/productImages/dfba3295-1f52-5854-9b34-e57c9024ef12/svn/brushed-nickel-brightech-floor-lamps-7h-ue0f-z4hf-64_600.jpg",
+          "https://images.thdstatic.com/productImages/dfba3295-1f52-5854-9b34-e57c9024ef12/svn/brushed-nickel-brightech-floor-lamps-7h-ue0f-z4hf-64_1000.jpg"
+        ]
+      ],
+      "link": "https://www.homedepot.com/p/Brightech-Montage-Modern-60-in-Satin-Nickel-LED-Floor-Lamp-with-White-Fabric-Drum-Shade-7H-UE0F-Z4HF/317288715",
+      "serpapi_link": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot_product&product_id=317288715&store_id=2414",
+      "model_number": "7H-UE0F-Z4HF",
+      "brand": "Brightech",
+      "collection": "https://www.homedepot.com",
+      "rating": 4.6545,
+      "reviews": 110,
+      "price": 119.99,
+      "delivery": {
+        "free": true,
+        "free_delivery_threshold": false
+      },
+      "pickup": {
+        "free_ship_to_store": true
+      }
+    }
+  ],
+  "filters": [
+    {
+      "key": "Subscription Eligible",
+      "value": [
+        {
+          "name": "Subscription Eligible",
+          "count": "16",
+          "value": "1z18amw",
+          "link": "https://www.homedepot.com/b/Subscription-Eligible/N-5yc1vZ1z18amw/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        }
+      ]
+    },
+    {
+      "key": "Review Rating",
+      "value": [
+        {
+          "name": "5",
+          "count": "2502",
+          "value": "bwo5q",
+          "link": "https://www.homedepot.com/b/Best-Rated/N-5yc1vZbwo5q/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "4 & Up",
+          "count": "5192",
+          "value": "bwo5o",
+          "link": "https://www.homedepot.com/b/Highly-Rated/N-5yc1vZbwo5o/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "3 & Up",
+          "count": "5995",
+          "value": "bwo5n",
+          "link": "https://www.homedepot.com/b/N-5yc1vZbwo5n/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "2 & Up",
+          "count": "6133",
+          "value": "bwo5m",
+          "link": "https://www.homedepot.com/b/N-5yc1vZbwo5m/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "1 & Up",
+          "count": "6265",
+          "value": "bwo5l",
+          "link": "https://www.homedepot.com/b/N-5yc1vZbwo5l/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "0",
+          "count": "825",
+          "value": "bwo5r",
+          "link": "https://www.homedepot.com/b/N-5yc1vZbwo5r/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        }
+      ]
+    },
+    {
+      "key": "Category",
+      "value": [
+        {
+          "name": "Lighting",
+          "count": "12989",
+          "value": "bvn5",
+          "link": "https://www.homedepot.com/b/Lighting/N-5yc1vZbvn5/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Outdoors",
+          "count": "103",
+          "value": "bx82",
+          "link": "https://www.homedepot.com/b/Outdoors/N-5yc1vZbx82/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Automotive",
+          "count": "102",
+          "value": "c8o1",
+          "link": "https://www.homedepot.com/b/Automotive/N-5yc1vZc8o1/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Electrical",
+          "count": "94",
+          "value": "arcd",
+          "link": "https://www.homedepot.com/b/Electrical/N-5yc1vZarcd/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Home Decor",
+          "count": "73",
+          "value": "as6p",
+          "link": "https://www.homedepot.com/b/Home-Decor/N-5yc1vZas6p/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        }
+      ]
+    },
+    {
+      "key": "New Arrival",
+      "value": [
+        {
+          "name": "Recently Added",
+          "count": "499",
+          "value": "1z179pc",
+          "link": "https://www.homedepot.com/b/Recently-Added/N-5yc1vZ1z179pc/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        }
+      ]
+    },
+    {
+      "key": "Get It Fast",
+      "value": [
+        {
+          "name": "Pick Up Today",
+          "count": "358",
+          "value": "1z175a5",
+          "link": "https://www.homedepot.com/b/Pick-Up-Today/N-5yc1vZ1z175a5/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Next-Day Delivery",
+          "count": "438",
+          "value": "1z175cq",
+          "link": "https://www.homedepot.com/b/Next-Day-Delivery/N-5yc1vZ1z175cq/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        }
+      ]
+    },
+    {
+      "key": "Brand",
+      "value": [
+        {
+          "name": "Hampton Bay",
+          "count": "265",
+          "value": "p4",
+          "link": "https://www.homedepot.com/b/Hampton-Bay/N-5yc1vZp4/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "ORE International",
+          "count": "391",
+          "value": "9vx",
+          "link": "https://www.homedepot.com/b/ORE-International/N-5yc1vZ9vx/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Adesso",
+          "count": "359",
+          "value": "3c7",
+          "link": "https://www.homedepot.com/b/Adesso/N-5yc1vZ3c7/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "LimeLights",
+          "count": "99",
+          "value": "pnm",
+          "link": "https://www.homedepot.com/b/LimeLights/N-5yc1vZpnm/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Simple Designs",
+          "count": "356",
+          "value": "cvb",
+          "link": "https://www.homedepot.com/b/Simple-Designs/N-5yc1vZcvb/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Alsy",
+          "count": "5",
+          "value": "2c4",
+          "link": "https://www.homedepot.com/b/Alsy/N-5yc1vZ2c4/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Eglo",
+          "count": "76",
+          "value": "5g4",
+          "link": "https://www.homedepot.com/b/Eglo/N-5yc1vZ5g4/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Lavish Home",
+          "count": "56",
+          "value": "cb5",
+          "link": "https://www.homedepot.com/b/Lavish-Home/N-5yc1vZcb5/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Elegant Designs",
+          "count": "108",
+          "value": "cif",
+          "link": "https://www.homedepot.com/b/Elegant-Designs/N-5yc1vZcif/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Kenroy Home",
+          "count": "76",
+          "value": "3uw",
+          "link": "https://www.homedepot.com/b/Kenroy-Home/N-5yc1vZ3uw/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Trademark Home",
+          "count": "4",
+          "value": "aw7",
+          "link": "https://www.homedepot.com/b/Trademark-Home/N-5yc1vZaw7/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Home Decorators Collection",
+          "count": "24",
+          "value": "4vr",
+          "link": "https://www.homedepot.com/b/Home-Decorators-Collection/N-5yc1vZ4vr/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Decor Therapy",
+          "count": "70",
+          "value": "hmn",
+          "link": "https://www.homedepot.com/b/Decor-Therapy/N-5yc1vZhmn/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Serena D'italia",
+          "count": "22",
+          "value": "bn8",
+          "link": "https://www.homedepot.com/b/Serena-Ditalia/N-5yc1vZbn8/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "OttLite",
+          "count": "70",
+          "value": "6xy",
+          "link": "https://www.homedepot.com/b/OttLite/N-5yc1vZ6xy/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "ARTIVA",
+          "count": "165",
+          "value": "m85",
+          "link": "https://www.homedepot.com/b/ARTIVA/N-5yc1vZm85/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "SAFAVIEH",
+          "count": "636",
+          "value": "u1g",
+          "link": "https://www.homedepot.com/b/SAFAVIEH/N-5yc1vZu1g/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Manor Brook",
+          "count": "49",
+          "value": "g4d",
+          "link": "https://www.homedepot.com/b/Manor-Brook/N-5yc1vZg4d/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Globe Electric",
+          "count": "106",
+          "value": "cdt",
+          "link": "https://www.homedepot.com/b/Globe-Electric/N-5yc1vZcdt/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Silverwood Furniture Reimagined",
+          "count": "11",
+          "value": "ot0",
+          "link": "https://www.homedepot.com/b/Silverwood-Furniture-Reimagined/N-5yc1vZot0/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "JONATHAN Y",
+          "count": "469",
+          "value": "hs6",
+          "link": "https://www.homedepot.com/b/JONATHAN-Y/N-5yc1vZhs6/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Dale Tiffany",
+          "count": "89",
+          "value": "2el",
+          "link": "https://www.homedepot.com/b/Dale-Tiffany/N-5yc1vZ2el/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "All The Rages",
+          "count": "2",
+          "value": "cj9",
+          "link": "https://www.homedepot.com/b/All-The-Rages/N-5yc1vZcj9/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Aspen Creative Corporation",
+          "count": "1052",
+          "value": "mir",
+          "link": "https://www.homedepot.com/b/Aspen-Creative-Corporation/N-5yc1vZmir/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "StyleCraft",
+          "count": "769",
+          "value": "p0e",
+          "link": "https://www.homedepot.com/b/StyleCraft/N-5yc1vZp0e/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Meyer&Cross",
+          "count": "341",
+          "value": "ry9",
+          "link": "https://www.homedepot.com/b/Meyer-Cross/N-5yc1vZry9/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "FenchelShades.com",
+          "count": "332",
+          "value": "p2l",
+          "link": "https://www.homedepot.com/b/FenchelShadescom/N-5yc1vZp2l/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "CAL Lighting",
+          "count": "330",
+          "value": "9nn",
+          "link": "https://www.homedepot.com/b/CAL-Lighting/N-5yc1vZ9nn/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Fangio Lighting",
+          "count": "291",
+          "value": "9st",
+          "link": "https://www.homedepot.com/b/Fangio-Lighting/N-5yc1vZ9st/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Titan Lighting",
+          "count": "260",
+          "value": "7wm",
+          "link": "https://www.homedepot.com/b/Titan-Lighting/N-5yc1vZ7wm/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Artistic Weavers",
+          "count": "225",
+          "value": "7it",
+          "link": "https://www.homedepot.com/b/Artistic-Weavers/N-5yc1vZ7it/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Litton Lane",
+          "count": "201",
+          "value": "nbq",
+          "link": "https://www.homedepot.com/b/Litton-Lane/N-5yc1vZnbq/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Brightech",
+          "count": "197",
+          "value": "t69",
+          "link": "https://www.homedepot.com/b/Brightech/N-5yc1vZt69/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "ASPEN Creative CORPORATION:Aspen Creative Corporation",
+          "count": "179",
+          "value": "syj",
+          "link": "https://www.homedepot.com/b/ASPEN-Creative-CORPORATIONAspen-Creative-Corporation/N-5yc1vZsyj/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Maxax",
+          "count": "177",
+          "value": "uiq",
+          "link": "https://www.homedepot.com/b/Maxax/N-5yc1vZuiq/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "nuLOOM",
+          "count": "177",
+          "value": "f4t",
+          "link": "https://www.homedepot.com/b/nuLOOM/N-5yc1vZf4t/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Designers Fountain",
+          "count": "167",
+          "value": "dec",
+          "link": "https://www.homedepot.com/b/Designers-Fountain/N-5yc1vZdec/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "SOLUS",
+          "count": "157",
+          "value": "rfi",
+          "link": "https://www.homedepot.com/b/SOLUS/N-5yc1vZrfi/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Leviton",
+          "count": "154",
+          "value": "wc",
+          "link": "https://www.homedepot.com/b/Leviton/N-5yc1vZwc/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "HomeGlam",
+          "count": "133",
+          "value": "tp5",
+          "link": "https://www.homedepot.com/b/HomeGlam/N-5yc1vZtp5/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Safavieh",
+          "count": "131",
+          "value": "4kx",
+          "link": "https://www.homedepot.com/b/Safavieh/N-5yc1vZ4kx/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "River of Goods",
+          "count": "125",
+          "value": "hij",
+          "link": "https://www.homedepot.com/b/River-of-Goods/N-5yc1vZhij/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "HomeRoots",
+          "count": "116",
+          "value": "o80",
+          "link": "https://www.homedepot.com/b/HomeRoots/N-5yc1vZo80/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Warehouse of Tiffany",
+          "count": "101",
+          "value": "d60",
+          "link": "https://www.homedepot.com/b/Warehouse-of-Tiffany/N-5yc1vZd60/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Dainolite",
+          "count": "84",
+          "value": "ek8",
+          "link": "https://www.homedepot.com/b/Dainolite/N-5yc1vZek8/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Trend Lighting",
+          "count": "80",
+          "value": "7i8",
+          "link": "https://www.homedepot.com/b/Trend-Lighting/N-5yc1vZ7i8/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Patio Living Concepts",
+          "count": "79",
+          "value": "7zw",
+          "link": "https://www.homedepot.com/b/Patio-Living-Concepts/N-5yc1vZ7zw/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Amora Lighting",
+          "count": "77",
+          "value": "fv6",
+          "link": "https://www.homedepot.com/b/Amora-Lighting/N-5yc1vZfv6/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Commercial Electric",
+          "count": "71",
+          "value": "dn",
+          "link": "https://www.homedepot.com/b/Commercial-Electric/N-5yc1vZdn/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "The Memory Company",
+          "count": "66",
+          "value": "8ji",
+          "link": "https://www.homedepot.com/b/The-Memory-Company/N-5yc1vZ8ji/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Cresswell",
+          "count": "65",
+          "value": "ojl",
+          "link": "https://www.homedepot.com/b/Cresswell/N-5yc1vZojl/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Generation Lighting",
+          "count": "61",
+          "value": "xrj",
+          "link": "https://www.homedepot.com/b/Generation-Lighting/N-5yc1vZxrj/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "MITZI HUDSON VALLEY LIGHTING",
+          "count": "52",
+          "value": "slf",
+          "link": "https://www.homedepot.com/b/MITZI-HUDSON-VALLEY-LIGHTING/N-5yc1vZslf/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "NOVA of California",
+          "count": "52",
+          "value": "pel",
+          "link": "https://www.homedepot.com/b/NOVA-of-California/N-5yc1vZpel/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "ZUO",
+          "count": "50",
+          "value": "98i",
+          "link": "https://www.homedepot.com/b/ZUO/N-5yc1vZ98i/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Himalayan Glow",
+          "count": "49",
+          "value": "fqt",
+          "link": "https://www.homedepot.com/b/Himalayan-Glow/N-5yc1vZfqt/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "YANSUN",
+          "count": "49",
+          "value": "qin",
+          "link": "https://www.homedepot.com/b/YANSUN/N-5yc1vZqin/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Bel Air Lighting",
+          "count": "44",
+          "value": "cgi",
+          "link": "https://www.homedepot.com/b/Bel-Air-Lighting/N-5yc1vZcgi/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Quoizel",
+          "count": "41",
+          "value": "186",
+          "link": "https://www.homedepot.com/b/Quoizel/N-5yc1vZ186/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Trademark",
+          "count": "41",
+          "value": "96z",
+          "link": "https://www.homedepot.com/b/Trademark/N-5yc1vZ96z/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Merra",
+          "count": "40",
+          "value": "r0g",
+          "link": "https://www.homedepot.com/b/Merra/N-5yc1vZr0g/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "KENROY HOME",
+          "count": "38",
+          "value": "cpg",
+          "link": "https://www.homedepot.com/b/KENROY-HOME/N-5yc1vZcpg/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "KICHLER",
+          "count": "36",
+          "value": "qom",
+          "link": "https://www.homedepot.com/b/KICHLER/N-5yc1vZqom/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Livex Lighting",
+          "count": "36",
+          "value": "cc3",
+          "link": "https://www.homedepot.com/b/Livex-Lighting/N-5yc1vZcc3/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "KAWOTI",
+          "count": "35",
+          "value": "xvz",
+          "link": "https://www.homedepot.com/b/KAWOTI/N-5yc1vZxvz/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "LNC",
+          "count": "34",
+          "value": "m8u",
+          "link": "https://www.homedepot.com/b/LNC/N-5yc1vZm8u/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Trademark Global",
+          "count": "34",
+          "value": "8le",
+          "link": "https://www.homedepot.com/b/Trademark-Global/N-5yc1vZ8le/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Newhouse Lighting",
+          "count": "31",
+          "value": "dh3",
+          "link": "https://www.homedepot.com/b/Newhouse-Lighting/N-5yc1vZdh3/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Progress Lighting",
+          "count": "30",
+          "value": "17g",
+          "link": "https://www.homedepot.com/b/Progress-Lighting/N-5yc1vZ17g/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Finesse Decor",
+          "count": "29",
+          "value": "u78",
+          "link": "https://www.homedepot.com/b/Finesse-Decor/N-5yc1vZu78/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "CosmoLiving by Cosmopolitan",
+          "count": "28",
+          "value": "opm",
+          "link": "https://www.homedepot.com/b/CosmoLiving-by-Cosmopolitan/N-5yc1vZopm/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Hy-Lite",
+          "count": "24",
+          "value": "5tl",
+          "link": "https://www.homedepot.com/b/Hy-Lite/N-5yc1vZ5tl/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "OE Solutions",
+          "count": "24",
+          "value": "pcl",
+          "link": "https://www.homedepot.com/b/OE-Solutions/N-5yc1vZpcl/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "A & B Home",
+          "count": "22",
+          "value": "g9l",
+          "link": "https://www.homedepot.com/b/A-B-Home/N-5yc1vZg9l/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "CARRO",
+          "count": "22",
+          "value": "rck",
+          "link": "https://www.homedepot.com/b/CARRO/N-5yc1vZrck/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Feit Electric",
+          "count": "22",
+          "value": "3ze",
+          "link": "https://www.homedepot.com/b/Feit-Electric/N-5yc1vZ3ze/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "CWI Lighting",
+          "count": "21",
+          "value": "mpx",
+          "link": "https://www.homedepot.com/b/CWI-Lighting/N-5yc1vZmpx/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Cerrowire",
+          "count": "21",
+          "value": "6gu",
+          "link": "https://www.homedepot.com/b/Cerrowire/N-5yc1vZ6gu/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Teamson Home",
+          "count": "21",
+          "value": "u6v",
+          "link": "https://www.homedepot.com/b/Teamson-Home/N-5yc1vZu6v/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Gama Sonic",
+          "count": "20",
+          "value": "7z3",
+          "link": "https://www.homedepot.com/b/Gama-Sonic/N-5yc1vZ7z3/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Light Society",
+          "count": "20",
+          "value": "p7i",
+          "link": "https://www.homedepot.com/b/Light-Society/N-5yc1vZp7i/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "MEYER&CROSS",
+          "count": "20",
+          "value": "urw",
+          "link": "https://www.homedepot.com/b/MEYER-CROSS/N-5yc1vZurw/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "AMAX LIGHTING",
+          "count": "19",
+          "value": "rmf",
+          "link": "https://www.homedepot.com/b/AMAX-LIGHTING/N-5yc1vZrmf/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Catalina Lighting",
+          "count": "19",
+          "value": "9ef",
+          "link": "https://www.homedepot.com/b/Catalina-Lighting/N-5yc1vZ9ef/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "JAYDEN CREATION",
+          "count": "19",
+          "value": "ruu",
+          "link": "https://www.homedepot.com/b/JAYDEN-CREATION/N-5yc1vZruu/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Westinghouse",
+          "count": "19",
+          "value": "1m6",
+          "link": "https://www.homedepot.com/b/Westinghouse/N-5yc1vZ1m6/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "aiwen",
+          "count": "19",
+          "value": "v2z",
+          "link": "https://www.homedepot.com/b/aiwen/N-5yc1vZv2z/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "TRUE FINE",
+          "count": "18",
+          "value": "t8b",
+          "link": "https://www.homedepot.com/b/TRUE-FINE/N-5yc1vZt8b/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Acclaim Lighting",
+          "count": "17",
+          "value": "a8x",
+          "link": "https://www.homedepot.com/b/Acclaim-Lighting/N-5yc1vZa8x/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Lumisource",
+          "count": "17",
+          "value": "6of",
+          "link": "https://www.homedepot.com/b/Lumisource/N-5yc1vZ6of/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "WAC Lighting",
+          "count": "17",
+          "value": "qmd",
+          "link": "https://www.homedepot.com/b/WAC-Lighting/N-5yc1vZqmd/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Cedar Hill",
+          "count": "16",
+          "value": "smk",
+          "link": "https://www.homedepot.com/b/Cedar-Hill/N-5yc1vZsmk/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "BLACK+DECKER",
+          "count": "15",
+          "value": "e7c",
+          "link": "https://www.homedepot.com/b/BLACK-DECKER/N-5yc1vZe7c/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "SunRay",
+          "count": "15",
+          "value": "mfn",
+          "link": "https://www.homedepot.com/b/SunRay/N-5yc1vZmfn/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "3R Studios",
+          "count": "14",
+          "value": "hce",
+          "link": "https://www.homedepot.com/b/3R-Studios/N-5yc1vZhce/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "3R studios",
+          "count": "14",
+          "value": "uzq",
+          "link": "https://www.homedepot.com/b/3R-studios/N-5yc1vZuzq/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Bostitch",
+          "count": "14",
+          "value": "9x",
+          "link": "https://www.homedepot.com/b/Bostitch/N-5yc1vZ9x/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Volume Lighting",
+          "count": "14",
+          "value": "czv",
+          "link": "https://www.homedepot.com/b/Volume-Lighting/N-5yc1vZczv/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "George Kovacs",
+          "count": "13",
+          "value": "5t0",
+          "link": "https://www.homedepot.com/b/George-Kovacs/N-5yc1vZ5t0/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Peterson Artwares",
+          "count": "13",
+          "value": "myb",
+          "link": "https://www.homedepot.com/b/Peterson-Artwares/N-5yc1vZmyb/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Southern Enterprises",
+          "count": "13",
+          "value": "4qz",
+          "link": "https://www.homedepot.com/b/Southern-Enterprises/N-5yc1vZ4qz/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Southwire",
+          "count": "13",
+          "value": "4mm",
+          "link": "https://www.homedepot.com/b/Southwire/N-5yc1vZ4mm/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Westek",
+          "count": "13",
+          "value": "1m3",
+          "link": "https://www.homedepot.com/b/Westek/N-5yc1vZ1m3/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Creative Co-Op",
+          "count": "12",
+          "value": "m1p",
+          "link": "https://www.homedepot.com/b/Creative-Co-Op/N-5yc1vZm1p/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "HALO",
+          "count": "12",
+          "value": "qwa",
+          "link": "https://www.homedepot.com/b/HALO/N-5yc1vZqwa/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "SPT",
+          "count": "12",
+          "value": "52z",
+          "link": "https://www.homedepot.com/b/SPT/N-5yc1vZ52z/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Sunlite",
+          "count": "12",
+          "value": "5lo",
+          "link": "https://www.homedepot.com/b/Sunlite/N-5yc1vZ5lo/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "ARTCRAFT",
+          "count": "11",
+          "value": "mt9",
+          "link": "https://www.homedepot.com/b/ARTCRAFT/N-5yc1vZmt9/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "BOSTITCH",
+          "count": "11",
+          "value": "ut1",
+          "link": "https://www.homedepot.com/b/BOSTITCH/N-5yc1vZut1/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Justice Design",
+          "count": "11",
+          "value": "ohn",
+          "link": "https://www.homedepot.com/b/Justice-Design/N-5yc1vZohn/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Mitzi by Hudson Valley Lighting",
+          "count": "11",
+          "value": "ma0",
+          "link": "https://www.homedepot.com/b/Mitzi-by-Hudson-Valley-Lighting/N-5yc1vZma0/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "NOVA",
+          "count": "11",
+          "value": "6db",
+          "link": "https://www.homedepot.com/b/NOVA/N-5yc1vZ6db/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Novogratz x Globe Electric",
+          "count": "11",
+          "value": "p62",
+          "link": "https://www.homedepot.com/b/Novogratz-x-Globe-Electric/N-5yc1vZp62/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "AFX",
+          "count": "10",
+          "value": "cm8",
+          "link": "https://www.homedepot.com/b/AFX/N-5yc1vZcm8/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Bromi Design",
+          "count": "10",
+          "value": "me6",
+          "link": "https://www.homedepot.com/b/Bromi-Design/N-5yc1vZme6/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "CANARM",
+          "count": "10",
+          "value": "cu8",
+          "link": "https://www.homedepot.com/b/CANARM/N-5yc1vZcu8/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Magic Home",
+          "count": "10",
+          "value": "t4i",
+          "link": "https://www.homedepot.com/b/Magic-Home/N-5yc1vZt4i/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Metalux",
+          "count": "10",
+          "value": "c0x",
+          "link": "https://www.homedepot.com/b/Metalux/N-5yc1vZc0x/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Philips",
+          "count": "10",
+          "value": "15b",
+          "link": "https://www.homedepot.com/b/Philips/N-5yc1vZ15b/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Hydro Crunch",
+          "count": "9",
+          "value": "hf6",
+          "link": "https://www.homedepot.com/b/Hydro-Crunch/N-5yc1vZhf6/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Philips Advance",
+          "count": "9",
+          "value": "75d",
+          "link": "https://www.homedepot.com/b/Philips-Advance/N-5yc1vZ75d/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Worldwide Lighting",
+          "count": "9",
+          "value": "8xu",
+          "link": "https://www.homedepot.com/b/Worldwide-Lighting/N-5yc1vZ8xu/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "BAZZ",
+          "count": "8",
+          "value": "a7z",
+          "link": "https://www.homedepot.com/b/BAZZ/N-5yc1vZa7z/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Fit System",
+          "count": "8",
+          "value": "m8w",
+          "link": "https://www.homedepot.com/b/Fit-System/N-5yc1vZm8w/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "GAMA SONIC",
+          "count": "8",
+          "value": "rcq",
+          "link": "https://www.homedepot.com/b/GAMA-SONIC/N-5yc1vZrcq/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Lutron",
+          "count": "8",
+          "value": "x6",
+          "link": "https://www.homedepot.com/b/Lutron/N-5yc1vZx6/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Pipe Decor",
+          "count": "8",
+          "value": "gbn",
+          "link": "https://www.homedepot.com/b/Pipe-Decor/N-5yc1vZgbn/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "VONN Lighting",
+          "count": "8",
+          "value": "fpr",
+          "link": "https://www.homedepot.com/b/VONN-Lighting/N-5yc1vZfpr/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "WBM SMART",
+          "count": "8",
+          "value": "ryn",
+          "link": "https://www.homedepot.com/b/WBM-SMART/N-5yc1vZryn/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Cordelia Lighting",
+          "count": "7",
+          "value": "dy",
+          "link": "https://www.homedepot.com/b/Cordelia-Lighting/N-5yc1vZdy/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "EQLight",
+          "count": "7",
+          "value": "mvo",
+          "link": "https://www.homedepot.com/b/EQLight/N-5yc1vZmvo/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "LamQee",
+          "count": "7",
+          "value": "tai",
+          "link": "https://www.homedepot.com/b/LamQee/N-5yc1vZtai/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Maypex",
+          "count": "7",
+          "value": "ocu",
+          "link": "https://www.homedepot.com/b/Maypex/N-5yc1vZocu/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Monster",
+          "count": "7",
+          "value": "224",
+          "link": "https://www.homedepot.com/b/Monster/N-5yc1vZ224/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Radionic Hi Tech",
+          "count": "7",
+          "value": "eam",
+          "link": "https://www.homedepot.com/b/Radionic-Hi-Tech/N-5yc1vZeam/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Tidoin",
+          "count": "7",
+          "value": "ua7",
+          "link": "https://www.homedepot.com/b/Tidoin/N-5yc1vZua7/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Troy Lighting",
+          "count": "7",
+          "value": "g6q",
+          "link": "https://www.homedepot.com/b/Troy-Lighting/N-5yc1vZg6q/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Vidalite",
+          "count": "7",
+          "value": "ryj",
+          "link": "https://www.homedepot.com/b/Vidalite/N-5yc1vZryj/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Woods",
+          "count": "7",
+          "value": "b2v",
+          "link": "https://www.homedepot.com/b/Woods/N-5yc1vZb2v/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "A TOUCH OF DESIGN",
+          "count": "6",
+          "value": "rbt",
+          "link": "https://www.homedepot.com/b/A-TOUCH-OF-DESIGN/N-5yc1vZrbt/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Artika",
+          "count": "6",
+          "value": "h6r",
+          "link": "https://www.homedepot.com/b/Artika/N-5yc1vZh6r/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "BELL",
+          "count": "6",
+          "value": "9bi",
+          "link": "https://www.homedepot.com/b/BELL/N-5yc1vZ9bi/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Design House",
+          "count": "6",
+          "value": "69z",
+          "link": "https://www.homedepot.com/b/Design-House/N-5yc1vZ69z/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "GRANDVIEW GALLERY",
+          "count": "6",
+          "value": "s1n",
+          "link": "https://www.homedepot.com/b/GRANDVIEW-GALLERY/N-5yc1vZs1n/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Halo",
+          "count": "6",
+          "value": "p0",
+          "link": "https://www.homedepot.com/b/Halo/N-5yc1vZp0/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Pure Garden",
+          "count": "6",
+          "value": "d4n",
+          "link": "https://www.homedepot.com/b/Pure-Garden/N-5yc1vZd4n/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Yosemite Home Decor",
+          "count": "6",
+          "value": "8nd",
+          "link": "https://www.homedepot.com/b/Yosemite-Home-Decor/N-5yc1vZ8nd/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "AF Lighting",
+          "count": "5",
+          "value": "3uq",
+          "link": "https://www.homedepot.com/b/AF-Lighting/N-5yc1vZ3uq/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Access Lighting",
+          "count": "5",
+          "value": "b4k",
+          "link": "https://www.homedepot.com/b/Access-Lighting/N-5yc1vZb4k/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Adamax",
+          "count": "5",
+          "value": "dgu",
+          "link": "https://www.homedepot.com/b/Adamax/N-5yc1vZdgu/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "ETi",
+          "count": "5",
+          "value": "d1h",
+          "link": "https://www.homedepot.com/b/ETi/N-5yc1vZd1h/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "LINSAY",
+          "count": "5",
+          "value": "gdr",
+          "link": "https://www.homedepot.com/b/LINSAY/N-5yc1vZgdr/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Leick Home",
+          "count": "5",
+          "value": "p7j",
+          "link": "https://www.homedepot.com/b/Leick-Home/N-5yc1vZp7j/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Light It!",
+          "count": "5",
+          "value": "fvk",
+          "link": "https://www.homedepot.com/b/Light-It/N-5yc1vZfvk/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Lithonia Lighting",
+          "count": "5",
+          "value": "wv",
+          "link": "https://www.homedepot.com/b/Lithonia-Lighting/N-5yc1vZwv/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Pia Ricco",
+          "count": "5",
+          "value": "v21",
+          "link": "https://www.homedepot.com/b/Pia-Ricco/N-5yc1vZv21/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Tzumi",
+          "count": "5",
+          "value": "fwy",
+          "link": "https://www.homedepot.com/b/Tzumi/N-5yc1vZfwy/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Vanity Art",
+          "count": "5",
+          "value": "ndw",
+          "link": "https://www.homedepot.com/b/Vanity-Art/N-5yc1vZndw/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Viribright",
+          "count": "5",
+          "value": "hs2",
+          "link": "https://www.homedepot.com/b/Viribright/N-5yc1vZhs2/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "BlissLights",
+          "count": "4",
+          "value": "6ll",
+          "link": "https://www.homedepot.com/b/BlissLights/N-5yc1vZ6ll/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Brite Star",
+          "count": "4",
+          "value": "26r",
+          "link": "https://www.homedepot.com/b/Brite-Star/N-5yc1vZ26r/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "C Cattleya",
+          "count": "4",
+          "value": "s2o",
+          "link": "https://www.homedepot.com/b/C-Cattleya/N-5yc1vZs2o/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "HAUSLANE",
+          "count": "4",
+          "value": "ujr",
+          "link": "https://www.homedepot.com/b/HAUSLANE/N-5yc1vZujr/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Hanover",
+          "count": "4",
+          "value": "drg",
+          "link": "https://www.homedepot.com/b/Hanover/N-5yc1vZdrg/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Innoled",
+          "count": "4",
+          "value": "h03",
+          "link": "https://www.homedepot.com/b/Innoled/N-5yc1vZh03/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Intermatic",
+          "count": "4",
+          "value": "sg",
+          "link": "https://www.homedepot.com/b/Intermatic/N-5yc1vZsg/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Lone Elm Studios",
+          "count": "4",
+          "value": "g5u",
+          "link": "https://www.homedepot.com/b/Lone-Elm-Studios/N-5yc1vZg5u/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Mondawe",
+          "count": "4",
+          "value": "su1",
+          "link": "https://www.homedepot.com/b/Mondawe/N-5yc1vZsu1/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "NATURE POWER",
+          "count": "4",
+          "value": "rso",
+          "link": "https://www.homedepot.com/b/NATURE-POWER/N-5yc1vZrso/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "O'Bright",
+          "count": "4",
+          "value": "xzc",
+          "link": "https://www.homedepot.com/b/OBright/N-5yc1vZxzc/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "PUR",
+          "count": "4",
+          "value": "80n",
+          "link": "https://www.homedepot.com/b/PUR/N-5yc1vZ80n/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Pelican Water",
+          "count": "4",
+          "value": "ehe",
+          "link": "https://www.homedepot.com/b/Pelican-Water/N-5yc1vZehe/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "ProHT",
+          "count": "4",
+          "value": "ska",
+          "link": "https://www.homedepot.com/b/ProHT/N-5yc1vZska/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "RELIABLE",
+          "count": "4",
+          "value": "s17",
+          "link": "https://www.homedepot.com/b/RELIABLE/N-5yc1vZs17/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Sheffield Home",
+          "count": "4",
+          "value": "9q5",
+          "link": "https://www.homedepot.com/b/Sheffield-Home/N-5yc1vZ9q5/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Sunnyside",
+          "count": "4",
+          "value": "ap6",
+          "link": "https://www.homedepot.com/b/Sunnyside/N-5yc1vZap6/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Sylvania",
+          "count": "4",
+          "value": "2s8",
+          "link": "https://www.homedepot.com/b/Sylvania/N-5yc1vZ2s8/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Tenergy",
+          "count": "4",
+          "value": "niq",
+          "link": "https://www.homedepot.com/b/Tenergy/N-5yc1vZniq/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Zevni",
+          "count": "4",
+          "value": "uuo",
+          "link": "https://www.homedepot.com/b/Zevni/N-5yc1vZuuo/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Bergen Industries",
+          "count": "3",
+          "value": "mc6",
+          "link": "https://www.homedepot.com/b/Bergen-Industries/N-5yc1vZmc6/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Christmas Time",
+          "count": "3",
+          "value": "nqd",
+          "link": "https://www.homedepot.com/b/Christmas-Time/N-5yc1vZnqd/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Costway",
+          "count": "3",
+          "value": "n4e",
+          "link": "https://www.homedepot.com/b/Costway/N-5yc1vZn4e/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Cricut",
+          "count": "3",
+          "value": "cck",
+          "link": "https://www.homedepot.com/b/Cricut/N-5yc1vZcck/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "DSI",
+          "count": "3",
+          "value": "eia",
+          "link": "https://www.homedepot.com/b/DSI/N-5yc1vZeia/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Defiant",
+          "count": "3",
+          "value": "fw",
+          "link": "https://www.homedepot.com/b/Defiant/N-5yc1vZfw/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Designers Choice Collection",
+          "count": "3",
+          "value": "97t",
+          "link": "https://www.homedepot.com/b/Designers-Choice-Collection/N-5yc1vZ97t/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Edvivi",
+          "count": "3",
+          "value": "n7d",
+          "link": "https://www.homedepot.com/b/Edvivi/N-5yc1vZn7d/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Golden Lighting",
+          "count": "3",
+          "value": "glu",
+          "link": "https://www.homedepot.com/b/Golden-Lighting/N-5yc1vZglu/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Good Directions",
+          "count": "3",
+          "value": "25j",
+          "link": "https://www.homedepot.com/b/Good-Directions/N-5yc1vZ25j/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "HDX",
+          "count": "3",
+          "value": "9tk",
+          "link": "https://www.homedepot.com/b/HDX/N-5yc1vZ9tk/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Hella",
+          "count": "3",
+          "value": "o9t",
+          "link": "https://www.homedepot.com/b/Hella/N-5yc1vZo9t/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Hudson&Canal",
+          "count": "3",
+          "value": "p5x",
+          "link": "https://www.homedepot.com/b/Hudson-Canal/N-5yc1vZp5x/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Hydrofarm",
+          "count": "3",
+          "value": "uox",
+          "link": "https://www.homedepot.com/b/Hydrofarm/N-5yc1vZuox/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "IMAX",
+          "count": "3",
+          "value": "9fg",
+          "link": "https://www.homedepot.com/b/IMAX/N-5yc1vZ9fg/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "ISPRING",
+          "count": "3",
+          "value": "fcx",
+          "link": "https://www.homedepot.com/b/ISPRING/N-5yc1vZfcx/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Maratodd",
+          "count": "3",
+          "value": "p2n",
+          "link": "https://www.homedepot.com/b/Maratodd/N-5yc1vZp2n/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Motorcraft",
+          "count": "3",
+          "value": "oa8",
+          "link": "https://www.homedepot.com/b/Motorcraft/N-5yc1vZoa8/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Nearly Natural",
+          "count": "3",
+          "value": "3of",
+          "link": "https://www.homedepot.com/b/Nearly-Natural/N-5yc1vZ3of/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "PurTest",
+          "count": "3",
+          "value": "7f3",
+          "link": "https://www.homedepot.com/b/PurTest/N-5yc1vZ7f3/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "ROYAL SOVEREIGN",
+          "count": "3",
+          "value": "qx9",
+          "link": "https://www.homedepot.com/b/ROYAL-SOVEREIGN/N-5yc1vZqx9/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "SATCO",
+          "count": "3",
+          "value": "m9b",
+          "link": "https://www.homedepot.com/b/SATCO/N-5yc1vZm9b/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Simply Conserve",
+          "count": "3",
+          "value": "b43",
+          "link": "https://www.homedepot.com/b/Simply-Conserve/N-5yc1vZb43/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Spitzer",
+          "count": "3",
+          "value": "rrx",
+          "link": "https://www.homedepot.com/b/Spitzer/N-5yc1vZrrx/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Springdale Lighting",
+          "count": "3",
+          "value": "7iu",
+          "link": "https://www.homedepot.com/b/Springdale-Lighting/N-5yc1vZ7iu/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Spyder Auto",
+          "count": "3",
+          "value": "n25",
+          "link": "https://www.homedepot.com/b/Spyder-Auto/N-5yc1vZn25/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Sunnydaze Decor",
+          "count": "3",
+          "value": "n44",
+          "link": "https://www.homedepot.com/b/Sunnydaze-Decor/N-5yc1vZn44/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "TECHKO",
+          "count": "3",
+          "value": "ao5",
+          "link": "https://www.homedepot.com/b/TECHKO/N-5yc1vZao5/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Tensor",
+          "count": "3",
+          "value": "g3q",
+          "link": "https://www.homedepot.com/b/Tensor/N-5yc1vZg3q/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Uixe",
+          "count": "3",
+          "value": "u7q",
+          "link": "https://www.homedepot.com/b/Uixe/N-5yc1vZu7q/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Uolfin",
+          "count": "3",
+          "value": "smt",
+          "link": "https://www.homedepot.com/b/Uolfin/N-5yc1vZsmt/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "VITA",
+          "count": "3",
+          "value": "tb6",
+          "link": "https://www.homedepot.com/b/VITA/N-5yc1vZtb6/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Xtreme Cables",
+          "count": "3",
+          "value": "phl",
+          "link": "https://www.homedepot.com/b/Xtreme-Cables/N-5yc1vZphl/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "nVc",
+          "count": "3",
+          "value": "tac",
+          "link": "https://www.homedepot.com/b/nVc/N-5yc1vZtac/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "ALLSOP",
+          "count": "2",
+          "value": "rjy",
+          "link": "https://www.homedepot.com/b/ALLSOP/N-5yc1vZrjy/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "AVF",
+          "count": "2",
+          "value": "e9b",
+          "link": "https://www.homedepot.com/b/AVF/N-5yc1vZe9b/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "AZ Patio Heaters",
+          "count": "2",
+          "value": "ecw",
+          "link": "https://www.homedepot.com/b/AZ-Patio-Heaters/N-5yc1vZecw/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Alpine Corporation",
+          "count": "2",
+          "value": "exj",
+          "link": "https://www.homedepot.com/b/Alpine-Corporation/N-5yc1vZexj/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Aspects",
+          "count": "2",
+          "value": "610",
+          "link": "https://www.homedepot.com/b/Aspects/N-5yc1vZ610/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Broan-NuTone",
+          "count": "2",
+          "value": "6co",
+          "link": "https://www.homedepot.com/b/Broan-NuTone/N-5yc1vZ6co/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "CURT",
+          "count": "2",
+          "value": "ech",
+          "link": "https://www.homedepot.com/b/CURT/N-5yc1vZech/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Coast",
+          "count": "2",
+          "value": "5s9",
+          "link": "https://www.homedepot.com/b/Coast/N-5yc1vZ5s9/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "DEVON & CLAIRE",
+          "count": "2",
+          "value": "unt",
+          "link": "https://www.homedepot.com/b/DEVON-CLAIRE/N-5yc1vZunt/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Daylight",
+          "count": "2",
+          "value": "9go",
+          "link": "https://www.homedepot.com/b/Daylight/N-5yc1vZ9go/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "EcoSmart",
+          "count": "2",
+          "value": "4b8",
+          "link": "https://www.homedepot.com/b/EcoSmart/N-5yc1vZ4b8/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Emissary",
+          "count": "2",
+          "value": "hl1",
+          "link": "https://www.homedepot.com/b/Emissary/N-5yc1vZhl1/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        }
+      ]
+    },
+    {
+      "key": "Price",
+      "value": [
+        {
+          "name": "$0 - $10",
+          "count": "329",
+          "value": "12kx",
+          "link": "https://www.homedepot.com/b/N-5yc1vZ12kx/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "$10 - $20",
+          "count": "572",
+          "value": "12ky",
+          "link": "https://www.homedepot.com/b/N-5yc1vZ12ky/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "$20 - $30",
+          "count": "702",
+          "value": "12kz",
+          "link": "https://www.homedepot.com/b/N-5yc1vZ12kz/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "$30 - $40",
+          "count": "648",
+          "value": "12l0",
+          "link": "https://www.homedepot.com/b/N-5yc1vZ12l0/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "$40 - $50",
+          "count": "771",
+          "value": "12l1",
+          "link": "https://www.homedepot.com/b/N-5yc1vZ12l1/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "$50 - $100",
+          "count": "3497",
+          "value": "12l2",
+          "link": "https://www.homedepot.com/b/N-5yc1vZ12l2/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "$100 - $150",
+          "count": "2666",
+          "value": "12l3",
+          "link": "https://www.homedepot.com/b/N-5yc1vZ12l3/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "$150 - $200",
+          "count": "1642",
+          "value": "12l4",
+          "link": "https://www.homedepot.com/b/N-5yc1vZ12l4/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "$200 - $250",
+          "count": "1021",
+          "value": "12l5",
+          "link": "https://www.homedepot.com/b/N-5yc1vZ12l5/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "$250 - $300",
+          "count": "578",
+          "value": "12l6",
+          "link": "https://www.homedepot.com/b/N-5yc1vZ12l6/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "$300 - $400",
+          "count": "584",
+          "value": "12l7",
+          "link": "https://www.homedepot.com/b/N-5yc1vZ12l7/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "$400 - $500",
+          "count": "264",
+          "value": "12l8",
+          "link": "https://www.homedepot.com/b/N-5yc1vZ12l8/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "$500 - $600",
+          "count": "82",
+          "value": "12l9",
+          "link": "https://www.homedepot.com/b/N-5yc1vZ12l9/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "$600 - $700",
+          "count": "44",
+          "value": "12la",
+          "link": "https://www.homedepot.com/b/N-5yc1vZ12la/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "$700 - $800",
+          "count": "16",
+          "value": "12lb",
+          "link": "https://www.homedepot.com/b/N-5yc1vZ12lb/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "$800 - $900",
+          "count": "9",
+          "value": "12lc",
+          "link": "https://www.homedepot.com/b/N-5yc1vZ12lc/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "$900 - $1000",
+          "count": "4",
+          "value": "12ld",
+          "link": "https://www.homedepot.com/b/N-5yc1vZ12ld/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "$1000 - $2000",
+          "count": "22",
+          "value": "12le",
+          "link": "https://www.homedepot.com/b/N-5yc1vZ12le/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "$2000 - $3000",
+          "count": "5",
+          "value": "12lf",
+          "link": "https://www.homedepot.com/b/N-5yc1vZ12lf/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "$3000 - $4000",
+          "count": "2",
+          "value": "12lg",
+          "link": "https://www.homedepot.com/b/N-5yc1vZ12lg/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "$4000 - $5000",
+          "count": "1",
+          "value": "12lh",
+          "link": "https://www.homedepot.com/b/N-5yc1vZ12lh/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Over $5000",
+          "count": "1",
+          "value": "12li",
+          "link": "https://www.homedepot.com/b/N-5yc1vZ12li/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Special Values",
+          "count": "656",
+          "value": "7",
+          "link": "https://www.homedepot.com/b/N-5yc1vZ7/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        }
+      ]
+    },
+    {
+      "key": "Base Color Family",
+      "value": [
+        {
+          "name": "Black",
+          "count": "1649",
+          "value": "1z1c66x",
+          "link": "https://www.homedepot.com/b/Black/N-5yc1vZ1z1c66x/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "White",
+          "count": "995",
+          "value": "1z1c6cj",
+          "link": "https://www.homedepot.com/b/White/N-5yc1vZ1z1c6cj/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Gold",
+          "count": "793",
+          "value": "1z1c6jv",
+          "link": "https://www.homedepot.com/b/Gold/N-5yc1vZ1z1c6jv/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Bronze",
+          "count": "633",
+          "value": "1z1c65f",
+          "link": "https://www.homedepot.com/b/Bronze/N-5yc1vZ1z1c65f/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Silver",
+          "count": "545",
+          "value": "1z1c6d2",
+          "link": "https://www.homedepot.com/b/Silver/N-5yc1vZ1z1c6d2/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Brass",
+          "count": "534",
+          "value": "1z1c6jq",
+          "link": "https://www.homedepot.com/b/Brass/N-5yc1vZ1z1c6jq/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Brown",
+          "count": "503",
+          "value": "1z1c6ds",
+          "link": "https://www.homedepot.com/b/Brown/N-5yc1vZ1z1c6ds/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Gray",
+          "count": "460",
+          "value": "1z1c679",
+          "link": "https://www.homedepot.com/b/Gray/N-5yc1vZ1z1c679/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Chrome",
+          "count": "441",
+          "value": "1z1c678",
+          "link": "https://www.homedepot.com/b/Chrome/N-5yc1vZ1z1c678/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Blue",
+          "count": "420",
+          "value": "1z1c69t",
+          "link": "https://www.homedepot.com/b/Blue/N-5yc1vZ1z1c69t/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Nickel",
+          "count": "377",
+          "value": "1z1c6h9",
+          "link": "https://www.homedepot.com/b/Nickel/N-5yc1vZ1z1c6h9/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Clear",
+          "count": "375",
+          "value": "1z1c6g2",
+          "link": "https://www.homedepot.com/b/Clear/N-5yc1vZ1z1c6g2/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Multi-Colored",
+          "count": "316",
+          "value": "1z1c6jf",
+          "link": "https://www.homedepot.com/b/Multi-Colored/N-5yc1vZ1z1c6jf/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Stainless Steel",
+          "count": "172",
+          "value": "1z1c6d1",
+          "link": "https://www.homedepot.com/b/Stainless-Steel/N-5yc1vZ1z1c6d1/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Beige",
+          "count": "161",
+          "value": "1z1c6ew",
+          "link": "https://www.homedepot.com/b/Beige/N-5yc1vZ1z1c6ew/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Antique Bronze",
+          "count": "133",
+          "value": "1z1c66g",
+          "link": "https://www.homedepot.com/b/Antique-Bronze/N-5yc1vZ1z1c66g/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Green",
+          "count": "95",
+          "value": "1z1c6em",
+          "link": "https://www.homedepot.com/b/Green/N-5yc1vZ1z1c6em/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Pink",
+          "count": "71",
+          "value": "1z1c699",
+          "link": "https://www.homedepot.com/b/Pink/N-5yc1vZ1z1c699/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Satin Nickel",
+          "count": "71",
+          "value": "1z1c6au",
+          "link": "https://www.homedepot.com/b/Satin-Nickel/N-5yc1vZ1z1c6au/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Copper",
+          "count": "63",
+          "value": "1z1c6d7",
+          "link": "https://www.homedepot.com/b/Copper/N-5yc1vZ1z1c6d7/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Red",
+          "count": "53",
+          "value": "1z1c6ly",
+          "link": "https://www.homedepot.com/b/Red/N-5yc1vZ1z1c6ly/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Ivory",
+          "count": "48",
+          "value": "1z1c6o8",
+          "link": "https://www.homedepot.com/b/Ivory/N-5yc1vZ1z1c6o8/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Metallic",
+          "count": "35",
+          "value": "1z1c6jl",
+          "link": "https://www.homedepot.com/b/Metallic/N-5yc1vZ1z1c6jl/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Tan",
+          "count": "35",
+          "value": "1z1c6m5",
+          "link": "https://www.homedepot.com/b/Tan/N-5yc1vZ1z1c6m5/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Yellow",
+          "count": "34",
+          "value": "1z1c6gk",
+          "link": "https://www.homedepot.com/b/Yellow/N-5yc1vZ1z1c6gk/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Orange",
+          "count": "33",
+          "value": "1z1c6b5",
+          "link": "https://www.homedepot.com/b/Orange/N-5yc1vZ1z1c6b5/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Oil Rubbed Bronze",
+          "count": "31",
+          "value": "1z1c6jk",
+          "link": "https://www.homedepot.com/b/Oil-Rubbed-Bronze/N-5yc1vZ1z1c6jk/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Cream",
+          "count": "27",
+          "value": "1z1c6qb",
+          "link": "https://www.homedepot.com/b/Cream/N-5yc1vZ1z1c6qb/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Purple",
+          "count": "27",
+          "value": "1z1c6hx",
+          "link": "https://www.homedepot.com/b/Purple/N-5yc1vZ1z1c6hx/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Polished Nickel",
+          "count": "25",
+          "value": "1z1c6an",
+          "link": "https://www.homedepot.com/b/Polished-Nickel/N-5yc1vZ1z1c6an/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Rust",
+          "count": "25",
+          "value": "1z1c65s",
+          "link": "https://www.homedepot.com/b/Rust/N-5yc1vZ1z1c65s/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Rose Gold",
+          "count": "23",
+          "value": "1z1c744",
+          "link": "https://www.homedepot.com/b/Rose-Gold/N-5yc1vZ1z1c744/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Distressed",
+          "count": "19",
+          "value": "1z1c713",
+          "link": "https://www.homedepot.com/b/Distressed/N-5yc1vZ1z1c713/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Pewter",
+          "count": "18",
+          "value": "1z1c6jo",
+          "link": "https://www.homedepot.com/b/Pewter/N-5yc1vZ1z1c6jo/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Teal",
+          "count": "18",
+          "value": "1z1c6i8",
+          "link": "https://www.homedepot.com/b/Teal/N-5yc1vZ1z1c6i8/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Iron",
+          "count": "14",
+          "value": "1z1c67c",
+          "link": "https://www.homedepot.com/b/Iron/N-5yc1vZ1z1c67c/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Aluminum",
+          "count": "11",
+          "value": "1z1c6iy",
+          "link": "https://www.homedepot.com/b/Aluminum/N-5yc1vZ1z1c6iy/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Amber",
+          "count": "8",
+          "value": "1z1c69z",
+          "link": "https://www.homedepot.com/b/Amber/N-5yc1vZ1z1c69z/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Mirror",
+          "count": "6",
+          "value": "1z1c7we",
+          "link": "https://www.homedepot.com/b/Mirror/N-5yc1vZ1z1c7we/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Mahogany",
+          "count": "5",
+          "value": "1z1c933",
+          "link": "https://www.homedepot.com/b/Mahogany/N-5yc1vZ1z1c933/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Smoked Glass and Brushed",
+          "count": "4",
+          "value": "1z1c8zy",
+          "link": "https://www.homedepot.com/b/Smoked-Glass-and-Brushed/N-5yc1vZ1z1c8zy/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Iridescent",
+          "count": "2",
+          "value": "1z1pr59",
+          "link": "https://www.homedepot.com/b/Iridescent/N-5yc1vZ1z1pr59/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Glazed",
+          "count": "1",
+          "value": "1z1c8zr",
+          "link": "https://www.homedepot.com/b/Glazed/N-5yc1vZ1z1c8zr/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        }
+      ]
+    },
+    {
+      "key": "Lamp Type",
+      "value": [
+        {
+          "name": "Bedside",
+          "count": "1402",
+          "value": "1z1c6rb",
+          "link": "https://www.homedepot.com/b/Bedside/N-5yc1vZ1z1c6rb/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Task",
+          "count": "476",
+          "value": "1z1c6ox",
+          "link": "https://www.homedepot.com/b/Task/N-5yc1vZ1z1c6ox/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Traditional",
+          "count": "425",
+          "value": "1z1c6s0",
+          "link": "https://www.homedepot.com/b/Traditional/N-5yc1vZ1z1c6s0/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Floor & Table",
+          "count": "361",
+          "value": "1z1c6o2",
+          "link": "https://www.homedepot.com/b/Floor-Table/N-5yc1vZ1z1c6o2/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Swing Arm",
+          "count": "306",
+          "value": "1z1c6mx",
+          "link": "https://www.homedepot.com/b/Swing-Arm/N-5yc1vZ1z1c6mx/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Arc",
+          "count": "296",
+          "value": "1z1c6re",
+          "link": "https://www.homedepot.com/b/Arc/N-5yc1vZ1z1c6re/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Unique",
+          "count": "270",
+          "value": "1z1cxj7",
+          "link": "https://www.homedepot.com/b/Unique/N-5yc1vZ1z1cxj7/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Buffet",
+          "count": "250",
+          "value": "1z1c6na",
+          "link": "https://www.homedepot.com/b/Buffet/N-5yc1vZ1z1c6na/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Torchiere",
+          "count": "143",
+          "value": "1z1c6p2",
+          "link": "https://www.homedepot.com/b/Torchiere/N-5yc1vZ1z1c6p2/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Shelf & Column",
+          "count": "98",
+          "value": "1z1c6qo",
+          "link": "https://www.homedepot.com/b/Shelf-Column/N-5yc1vZ1z1c6qo/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Uplight",
+          "count": "82",
+          "value": "1z1c6pr",
+          "link": "https://www.homedepot.com/b/Uplight/N-5yc1vZ1z1c6pr/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Novelty",
+          "count": "67",
+          "value": "1z1c6pt",
+          "link": "https://www.homedepot.com/b/Novelty/N-5yc1vZ1z1c6pt/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Tree",
+          "count": "45",
+          "value": "1z1c6ss",
+          "link": "https://www.homedepot.com/b/Tree/N-5yc1vZ1z1c6ss/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Tripod",
+          "count": "25",
+          "value": "1z1c6q8",
+          "link": "https://www.homedepot.com/b/Tripod/N-5yc1vZ1z1c6q8/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Flush",
+          "count": "21",
+          "value": "1z1c6qe",
+          "link": "https://www.homedepot.com/b/Flush/N-5yc1vZ1z1c6qe/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Pharmacy",
+          "count": "19",
+          "value": "1z1c6p4",
+          "link": "https://www.homedepot.com/b/Pharmacy/N-5yc1vZ1z1c6p4/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Chandelier",
+          "count": "17",
+          "value": "1z1c6rn",
+          "link": "https://www.homedepot.com/b/Chandelier/N-5yc1vZ1z1c6rn/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Sputnik",
+          "count": "8",
+          "value": "1z1c6mz",
+          "link": "https://www.homedepot.com/b/Sputnik/N-5yc1vZ1z1c6mz/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Accordion",
+          "count": "1",
+          "value": "1z1c9o9",
+          "link": "https://www.homedepot.com/b/Accordion/N-5yc1vZ1z1c9o9/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Hurricane",
+          "count": "1",
+          "value": "1z1c6sk",
+          "link": "https://www.homedepot.com/b/Hurricane/N-5yc1vZ1z1c6sk/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        }
+      ]
+    },
+    {
+      "key": "Shade Color Family",
+      "value": [
+        {
+          "name": "White",
+          "count": "4112",
+          "value": "1z0u7ly",
+          "link": "https://www.homedepot.com/b/White/N-5yc1vZ1z0u7ly/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Off-White",
+          "count": "952",
+          "value": "1z17wnd",
+          "link": "https://www.homedepot.com/b/Off-White/N-5yc1vZ1z17wnd/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Black",
+          "count": "797",
+          "value": "1z0u7le",
+          "link": "https://www.homedepot.com/b/Black/N-5yc1vZ1z0u7le/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Beige/Bisque",
+          "count": "773",
+          "value": "1z0u7lv",
+          "link": "https://www.homedepot.com/b/Beige-Bisque/N-5yc1vZ1z0u7lv/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Clear",
+          "count": "511",
+          "value": "1z0u7lu",
+          "link": "https://www.homedepot.com/b/Clear/N-5yc1vZ1z0u7lu/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Gray",
+          "count": "498",
+          "value": "1z0u7kb",
+          "link": "https://www.homedepot.com/b/Gray/N-5yc1vZ1z0u7kb/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Multicolored",
+          "count": "485",
+          "value": "1z0ttg5",
+          "link": "https://www.homedepot.com/b/Multicolored/N-5yc1vZ1z0ttg5/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Brown/Tan",
+          "count": "457",
+          "value": "1z0u7lf",
+          "link": "https://www.homedepot.com/b/Brown-Tan/N-5yc1vZ1z0u7lf/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Beige",
+          "count": "191",
+          "value": "1z1v3g7",
+          "link": "https://www.homedepot.com/b/Beige/N-5yc1vZ1z1v3g7/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Blue",
+          "count": "179",
+          "value": "1z0u7kj",
+          "link": "https://www.homedepot.com/b/Blue/N-5yc1vZ1z0u7kj/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Gold",
+          "count": "147",
+          "value": "1z1anaw",
+          "link": "https://www.homedepot.com/b/Gold/N-5yc1vZ1z1anaw/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "No Shade",
+          "count": "140",
+          "value": "1z0u7ko",
+          "link": "https://www.homedepot.com/b/No-Shade/N-5yc1vZ1z0u7ko/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Brass",
+          "count": "127",
+          "value": "1z0u7km",
+          "link": "https://www.homedepot.com/b/Brass/N-5yc1vZ1z0u7km/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Bronze",
+          "count": "126",
+          "value": "1z0u7lw",
+          "link": "https://www.homedepot.com/b/Bronze/N-5yc1vZ1z0u7lw/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Red",
+          "count": "123",
+          "value": "1z0u7l8",
+          "link": "https://www.homedepot.com/b/Red/N-5yc1vZ1z0u7l8/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Green",
+          "count": "83",
+          "value": "1z0u7ke",
+          "link": "https://www.homedepot.com/b/Green/N-5yc1vZ1z0u7ke/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Chrome",
+          "count": "79",
+          "value": "1z0u7kd",
+          "link": "https://www.homedepot.com/b/Chrome/N-5yc1vZ1z0u7kd/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Orange",
+          "count": "74",
+          "value": "1z0u7l5",
+          "link": "https://www.homedepot.com/b/Orange/N-5yc1vZ1z0u7l5/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Yellow",
+          "count": "71",
+          "value": "1z0u7ls",
+          "link": "https://www.homedepot.com/b/Yellow/N-5yc1vZ1z0u7ls/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Silver",
+          "count": "70",
+          "value": "1z1du0l",
+          "link": "https://www.homedepot.com/b/Silver/N-5yc1vZ1z1du0l/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Brown",
+          "count": "65",
+          "value": "1z1v3fm",
+          "link": "https://www.homedepot.com/b/Brown/N-5yc1vZ1z1v3fm/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Pink",
+          "count": "63",
+          "value": "1z0u7jx",
+          "link": "https://www.homedepot.com/b/Pink/N-5yc1vZ1z0u7jx/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Frosted Clear",
+          "count": "62",
+          "value": "1z0tr9f",
+          "link": "https://www.homedepot.com/b/Frosted-Clear/N-5yc1vZ1z0tr9f/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Brushed Nickel",
+          "count": "56",
+          "value": "1z0u7kw",
+          "link": "https://www.homedepot.com/b/Brushed-Nickel/N-5yc1vZ1z0u7kw/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Purple",
+          "count": "44",
+          "value": "1z0u7j4",
+          "link": "https://www.homedepot.com/b/Purple/N-5yc1vZ1z0u7j4/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Copper",
+          "count": "40",
+          "value": "1z17ilo",
+          "link": "https://www.homedepot.com/b/Copper/N-5yc1vZ1z17ilo/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Satin Nickel",
+          "count": "26",
+          "value": "1z1bka2",
+          "link": "https://www.homedepot.com/b/Satin-Nickel/N-5yc1vZ1z1bka2/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Brushed Steel",
+          "count": "22",
+          "value": "1z1bkin",
+          "link": "https://www.homedepot.com/b/Brushed-Steel/N-5yc1vZ1z1bkin/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Teal",
+          "count": "19",
+          "value": "1z0u7iv",
+          "link": "https://www.homedepot.com/b/Teal/N-5yc1vZ1z0u7iv/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Pewter",
+          "count": "17",
+          "value": "1z0u7lr",
+          "link": "https://www.homedepot.com/b/Pewter/N-5yc1vZ1z0u7lr/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Polished Nickel",
+          "count": "15",
+          "value": "1z19c9r",
+          "link": "https://www.homedepot.com/b/Polished-Nickel/N-5yc1vZ1z19c9r/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Iron",
+          "count": "9",
+          "value": "1z0u7j1",
+          "link": "https://www.homedepot.com/b/Iron/N-5yc1vZ1z0u7j1/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Smoked",
+          "count": "6",
+          "value": "1z1do6d",
+          "link": "https://www.homedepot.com/b/Smoked/N-5yc1vZ1z1do6d/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        }
+      ]
+    },
+    {
+      "key": "Style",
+      "value": [
+        {
+          "name": "Modern",
+          "count": "2239",
+          "value": "1z0jylo",
+          "link": "https://www.homedepot.com/b/Modern/N-5yc1vZ1z0jylo/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Transitional",
+          "count": "1725",
+          "value": "1z0jylp",
+          "link": "https://www.homedepot.com/b/Transitional/N-5yc1vZ1z0jylp/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Classic",
+          "count": "1509",
+          "value": "1z0jylq",
+          "link": "https://www.homedepot.com/b/Classic/N-5yc1vZ1z0jylq/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Traditional",
+          "count": "907",
+          "value": "1z1bwac",
+          "link": "https://www.homedepot.com/b/Traditional/N-5yc1vZ1z1bwac/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Contemporary",
+          "count": "883",
+          "value": "1z1bw9b",
+          "link": "https://www.homedepot.com/b/Contemporary/N-5yc1vZ1z1bw9b/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Mid-Century",
+          "count": "779",
+          "value": "1z1q0jm",
+          "link": "https://www.homedepot.com/b/Mid-Century/N-5yc1vZ1z1q0jm/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Glam",
+          "count": "746",
+          "value": "1z0jyll",
+          "link": "https://www.homedepot.com/b/Glam/N-5yc1vZ1z0jyll/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Farmhouse",
+          "count": "705",
+          "value": "1z17pru",
+          "link": "https://www.homedepot.com/b/Farmhouse/N-5yc1vZ1z17pru/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Cottage",
+          "count": "695",
+          "value": "1z0jykp",
+          "link": "https://www.homedepot.com/b/Cottage/N-5yc1vZ1z0jykp/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Industrial",
+          "count": "680",
+          "value": "1z0jyle",
+          "link": "https://www.homedepot.com/b/Industrial/N-5yc1vZ1z0jyle/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Rustic",
+          "count": "680",
+          "value": "1z0jylj",
+          "link": "https://www.homedepot.com/b/Rustic/N-5yc1vZ1z0jylj/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Minimalist",
+          "count": "624",
+          "value": "1z0jylk",
+          "link": "https://www.homedepot.com/b/Minimalist/N-5yc1vZ1z0jylk/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Coastal",
+          "count": "614",
+          "value": "1z0jyl2",
+          "link": "https://www.homedepot.com/b/Coastal/N-5yc1vZ1z0jyl2/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Mediterranean",
+          "count": "479",
+          "value": "1z0jylg",
+          "link": "https://www.homedepot.com/b/Mediterranean/N-5yc1vZ1z0jylg/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Southwestern",
+          "count": "407",
+          "value": "1z0jyks",
+          "link": "https://www.homedepot.com/b/Southwestern/N-5yc1vZ1z0jyks/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Casual",
+          "count": "383",
+          "value": "1z1bsu1",
+          "link": "https://www.homedepot.com/b/Casual/N-5yc1vZ1z1bsu1/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Basics",
+          "count": "343",
+          "value": "1z1bsrw",
+          "link": "https://www.homedepot.com/b/Basics/N-5yc1vZ1z1bsrw/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Designer",
+          "count": "331",
+          "value": "1z1bq90",
+          "link": "https://www.homedepot.com/b/Designer/N-5yc1vZ1z1bq90/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Bohemian",
+          "count": "131",
+          "value": "1z0jyld",
+          "link": "https://www.homedepot.com/b/Bohemian/N-5yc1vZ1z0jyld/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Mission",
+          "count": "107",
+          "value": "1z17ppl",
+          "link": "https://www.homedepot.com/b/Mission/N-5yc1vZ1z17ppl/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Art Deco",
+          "count": "80",
+          "value": "1z17pv3",
+          "link": "https://www.homedepot.com/b/Art-Deco/N-5yc1vZ1z17pv3/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Style",
+          "count": "9",
+          "value": "1z1bq8z",
+          "link": "https://www.homedepot.com/b/Style/N-5yc1vZ1z1bq8z/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Global",
+          "count": "3",
+          "value": "1z1q0fm",
+          "link": "https://www.homedepot.com/b/Global/N-5yc1vZ1z1q0fm/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Nautical",
+          "count": "3",
+          "value": "1z1rm2l",
+          "link": "https://www.homedepot.com/b/Nautical/N-5yc1vZ1z1rm2l/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Eclectic",
+          "count": "1",
+          "value": "1z1rmfg",
+          "link": "https://www.homedepot.com/b/Eclectic/N-5yc1vZ1z1rmfg/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        }
+      ]
+    },
+    {
+      "key": "Number of Lights",
+      "value": [
+        {
+          "name": "1 Light",
+          "count": "7856",
+          "value": "1z1c65t",
+          "link": "https://www.homedepot.com/b/1-Light/N-5yc1vZ1z1c65t/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "2 Light",
+          "count": "692",
+          "value": "1z1c6jc",
+          "link": "https://www.homedepot.com/b/2-Light/N-5yc1vZ1z1c6jc/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "3 Light",
+          "count": "396",
+          "value": "1z1c6g9",
+          "link": "https://www.homedepot.com/b/3-Light/N-5yc1vZ1z1c6g9/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "5 Light",
+          "count": "94",
+          "value": "1z1c69c",
+          "link": "https://www.homedepot.com/b/5-Light/N-5yc1vZ1z1c69c/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "4 Light",
+          "count": "32",
+          "value": "1z1c6cx",
+          "link": "https://www.homedepot.com/b/4-Light/N-5yc1vZ1z1c6cx/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "13+",
+          "count": "30",
+          "value": "1z1q26l",
+          "link": "https://www.homedepot.com/b/13/N-5yc1vZ1z1q26l/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "6 Light",
+          "count": "10",
+          "value": "1z1c68t",
+          "link": "https://www.homedepot.com/b/6-Light/N-5yc1vZ1z1c68t/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "9 Light",
+          "count": "10",
+          "value": "1z1c6fy",
+          "link": "https://www.homedepot.com/b/9-Light/N-5yc1vZ1z1c6fy/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "12 Light",
+          "count": "9",
+          "value": "1z1c9ky",
+          "link": "https://www.homedepot.com/b/12-Light/N-5yc1vZ1z1c9ky/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "8 Light",
+          "count": "7",
+          "value": "1z1c6j6",
+          "link": "https://www.homedepot.com/b/8-Light/N-5yc1vZ1z1c6j6/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "7 Light",
+          "count": "4",
+          "value": "1z1c6mh",
+          "link": "https://www.homedepot.com/b/7-Light/N-5yc1vZ1z1c6mh/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        }
+      ]
+    },
+    {
+      "key": "Compatible Bulb Type",
+      "value": [
+        {
+          "name": "Incandescent",
+          "count": "6249",
+          "value": "1z1blxq",
+          "link": "https://www.homedepot.com/b/Incandescent/N-5yc1vZ1z1blxq/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "LED",
+          "count": "4851",
+          "value": "1z1blye",
+          "link": "https://www.homedepot.com/b/LED/N-5yc1vZ1z1blye/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "CFL",
+          "count": "1873",
+          "value": "1z1blvq",
+          "link": "https://www.homedepot.com/b/CFL/N-5yc1vZ1z1blvq/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "No Bulbs Included",
+          "count": "1049",
+          "value": "1z1blxl",
+          "link": "https://www.homedepot.com/b/No-Bulbs-Included/N-5yc1vZ1z1blxl/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Fluorescent",
+          "count": "683",
+          "value": "1z1blyo",
+          "link": "https://www.homedepot.com/b/Fluorescent/N-5yc1vZ1z1blyo/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Integrated LED",
+          "count": "414",
+          "value": "1z1c9ew",
+          "link": "https://www.homedepot.com/b/Integrated-LED/N-5yc1vZ1z1c9ew/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Edison Bulb",
+          "count": "250",
+          "value": "1z1blzn",
+          "link": "https://www.homedepot.com/b/Edison-Bulb/N-5yc1vZ1z1blzn/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Eco-Incandescent",
+          "count": "102",
+          "value": "1z1bluz",
+          "link": "https://www.homedepot.com/b/Eco-Incandescent/N-5yc1vZ1z1bluz/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Halogen",
+          "count": "90",
+          "value": "1z1blwz",
+          "link": "https://www.homedepot.com/b/Halogen/N-5yc1vZ1z1blwz/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Laser",
+          "count": "9",
+          "value": "1z1blvx",
+          "link": "https://www.homedepot.com/b/Laser/N-5yc1vZ1z1blvx/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Amber Bulb",
+          "count": "7",
+          "value": "1z1blwn",
+          "link": "https://www.homedepot.com/b/Amber-Bulb/N-5yc1vZ1z1blwn/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Xenon",
+          "count": "6",
+          "value": "1z1bm04",
+          "link": "https://www.homedepot.com/b/Xenon/N-5yc1vZ1z1bm04/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Krypton",
+          "count": "5",
+          "value": "1z1cb0k",
+          "link": "https://www.homedepot.com/b/Krypton/N-5yc1vZ1z1cb0k/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "7W Type C Night Light",
+          "count": "4",
+          "value": "1z1c8w6",
+          "link": "https://www.homedepot.com/b/7W-Type-C-Night-Light/N-5yc1vZ1z1c8w6/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "High Pressure Sodium",
+          "count": "1",
+          "value": "1z1blvu",
+          "link": "https://www.homedepot.com/b/High-Pressure-Sodium/N-5yc1vZ1z1blvu/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Metal Halide",
+          "count": "1",
+          "value": "1z1c6wy",
+          "link": "https://www.homedepot.com/b/Metal-Halide/N-5yc1vZ1z1c6wy/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        }
+      ]
+    },
+    {
+      "key": "Lamp Shape",
+      "value": [
+        {
+          "name": "Round",
+          "count": "2674",
+          "value": "1z1c6ib",
+          "link": "https://www.homedepot.com/b/Round/N-5yc1vZ1z1c6ib/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Novelty",
+          "count": "2122",
+          "value": "1z1c6jy",
+          "link": "https://www.homedepot.com/b/Novelty/N-5yc1vZ1z1c6jy/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Candlestick",
+          "count": "1011",
+          "value": "1z1c65u",
+          "link": "https://www.homedepot.com/b/Candlestick/N-5yc1vZ1z1c65u/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Geometric",
+          "count": "881",
+          "value": "1z1c6ii",
+          "link": "https://www.homedepot.com/b/Geometric/N-5yc1vZ1z1c6ii/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Cylinder",
+          "count": "865",
+          "value": "1z1c6f7",
+          "link": "https://www.homedepot.com/b/Cylinder/N-5yc1vZ1z1c6f7/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Gourd",
+          "count": "570",
+          "value": "1z1c6i4",
+          "link": "https://www.homedepot.com/b/Gourd/N-5yc1vZ1z1c6i4/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Rectangular",
+          "count": "526",
+          "value": "1z1c6b8",
+          "link": "https://www.homedepot.com/b/Rectangular/N-5yc1vZ1z1c6b8/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Urn",
+          "count": "406",
+          "value": "1z1c673",
+          "link": "https://www.homedepot.com/b/Urn/N-5yc1vZ1z1c673/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Square",
+          "count": "323",
+          "value": "1z1c6cv",
+          "link": "https://www.homedepot.com/b/Square/N-5yc1vZ1z1c6cv/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Tripod",
+          "count": "313",
+          "value": "1z1c6tg",
+          "link": "https://www.homedepot.com/b/Tripod/N-5yc1vZ1z1c6tg/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Globe",
+          "count": "288",
+          "value": "1z1c6bh",
+          "link": "https://www.homedepot.com/b/Globe/N-5yc1vZ1z1c6bh/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Tree",
+          "count": "256",
+          "value": "1z1c6hi",
+          "link": "https://www.homedepot.com/b/Tree/N-5yc1vZ1z1c6hi/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Lantern",
+          "count": "169",
+          "value": "1z1c6f8",
+          "link": "https://www.homedepot.com/b/Lantern/N-5yc1vZ1z1c6f8/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Lighthouse",
+          "count": "85",
+          "value": "1z1c65z",
+          "link": "https://www.homedepot.com/b/Lighthouse/N-5yc1vZ1z1c65z/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Palm Tree",
+          "count": "60",
+          "value": "1z1c6ji",
+          "link": "https://www.homedepot.com/b/Palm-Tree/N-5yc1vZ1z1c6ji/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Mason Jar",
+          "count": "57",
+          "value": "1z1c68w",
+          "link": "https://www.homedepot.com/b/Mason-Jar/N-5yc1vZ1z1c68w/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Pineapple",
+          "count": "30",
+          "value": "1z1c6fo",
+          "link": "https://www.homedepot.com/b/Pineapple/N-5yc1vZ1z1c6fo/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Antlers",
+          "count": "24",
+          "value": "1z1c6q7",
+          "link": "https://www.homedepot.com/b/Antlers/N-5yc1vZ1z1c6q7/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Driftwood",
+          "count": "19",
+          "value": "1z1c6dg",
+          "link": "https://www.homedepot.com/b/Driftwood/N-5yc1vZ1z1c6dg/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Coral",
+          "count": "12",
+          "value": "1z1c6a7",
+          "link": "https://www.homedepot.com/b/Coral/N-5yc1vZ1z1c6a7/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Peacock",
+          "count": "11",
+          "value": "1z1c6dy",
+          "link": "https://www.homedepot.com/b/Peacock/N-5yc1vZ1z1c6dy/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        }
+      ]
+    },
+    {
+      "key": "Product Height (in.)",
+      "value": [
+        {
+          "name": "25 - 30",
+          "count": "2071",
+          "value": "1z1dfh6",
+          "link": "https://www.homedepot.com/b/25-30/N-5yc1vZ1z1dfh6/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "20 - 25",
+          "count": "1786",
+          "value": "2bcudo",
+          "link": "https://www.homedepot.com/b/20-25/N-5yc1vZ2bcudo/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "5 - 10",
+          "count": "1332",
+          "value": "2bcudl",
+          "link": "https://www.homedepot.com/b/5-10/N-5yc1vZ2bcudl/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "15 - 20",
+          "count": "1268",
+          "value": "2bcudn",
+          "link": "https://www.homedepot.com/b/15-20/N-5yc1vZ2bcudn/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "10 - 15",
+          "count": "1253",
+          "value": "2bcudm",
+          "link": "https://www.homedepot.com/b/10-15/N-5yc1vZ2bcudm/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "60 - 65",
+          "count": "1042",
+          "value": "1z1dfb5",
+          "link": "https://www.homedepot.com/b/60-65/N-5yc1vZ1z1dfb5/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "30 - 35",
+          "count": "944",
+          "value": "1z1dfdi",
+          "link": "https://www.homedepot.com/b/30-35/N-5yc1vZ1z1dfdi/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Less than 5",
+          "count": "543",
+          "value": "2bcudk",
+          "link": "https://www.homedepot.com/b/Less-than-5/N-5yc1vZ2bcudk/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "75 or Greater",
+          "count": "413",
+          "value": "1z1dfea",
+          "link": "https://www.homedepot.com/b/75-or-Greater/N-5yc1vZ1z1dfea/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "65 - 70",
+          "count": "396",
+          "value": "1z1dfdm",
+          "link": "https://www.homedepot.com/b/65-70/N-5yc1vZ1z1dfdm/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "70 - 75",
+          "count": "389",
+          "value": "1z1dfi9",
+          "link": "https://www.homedepot.com/b/70-75/N-5yc1vZ1z1dfi9/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "55 - 60",
+          "count": "316",
+          "value": "1z1dfev",
+          "link": "https://www.homedepot.com/b/55-60/N-5yc1vZ1z1dfev/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "35 - 40",
+          "count": "133",
+          "value": "1z1dfg0",
+          "link": "https://www.homedepot.com/b/35-40/N-5yc1vZ1z1dfg0/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "50 - 55",
+          "count": "63",
+          "value": "1z1dfck",
+          "link": "https://www.homedepot.com/b/50-55/N-5yc1vZ1z1dfck/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "45 - 50",
+          "count": "43",
+          "value": "1z1dfet",
+          "link": "https://www.homedepot.com/b/45-50/N-5yc1vZ1z1dfet/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "40 - 45",
+          "count": "42",
+          "value": "1z1dfca",
+          "link": "https://www.homedepot.com/b/40-45/N-5yc1vZ1z1dfca/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        }
+      ]
+    },
+    {
+      "key": "Switch Mechanism",
+      "value": [
+        {
+          "name": "Rotary",
+          "count": "3623",
+          "value": "1z1c6ga",
+          "link": "https://www.homedepot.com/b/Rotary/N-5yc1vZ1z1c6ga/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "3-Way",
+          "count": "1413",
+          "value": "1z1c6aa",
+          "link": "https://www.homedepot.com/b/3-Way/N-5yc1vZ1z1c6aa/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Foot Step",
+          "count": "793",
+          "value": "1z1c6be",
+          "link": "https://www.homedepot.com/b/Foot-Step/N-5yc1vZ1z1c6be/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Pull Chain",
+          "count": "726",
+          "value": "1z1c6bx",
+          "link": "https://www.homedepot.com/b/Pull-Chain/N-5yc1vZ1z1c6bx/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Toggle Button",
+          "count": "689",
+          "value": "1z1c6kp",
+          "link": "https://www.homedepot.com/b/Toggle-Button/N-5yc1vZ1z1c6kp/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Rocker",
+          "count": "687",
+          "value": "1z1c6kc",
+          "link": "https://www.homedepot.com/b/Rocker/N-5yc1vZ1z1c6kc/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Push",
+          "count": "644",
+          "value": "1z1c6ft",
+          "link": "https://www.homedepot.com/b/Push/N-5yc1vZ1z1c6ft/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Dimmer",
+          "count": "484",
+          "value": "1z1c6k3",
+          "link": "https://www.homedepot.com/b/Dimmer/N-5yc1vZ1z1c6k3/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Touch Sensor",
+          "count": "383",
+          "value": "1z1c6gz",
+          "link": "https://www.homedepot.com/b/Touch-Sensor/N-5yc1vZ1z1c6gz/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "No Switch",
+          "count": "107",
+          "value": "1z1c685",
+          "link": "https://www.homedepot.com/b/No-Switch/N-5yc1vZ1z1c685/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "4-Way",
+          "count": "83",
+          "value": "1z1c6du",
+          "link": "https://www.homedepot.com/b/4-Way/N-5yc1vZ1z1c6du/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        }
+      ]
+    },
+    {
+      "key": "Lamp Base Size",
+      "value": [
+        {
+          "name": "Extra Tall",
+          "count": "2702",
+          "value": "1z1c6ge",
+          "link": "https://www.homedepot.com/b/Extra-Tall/N-5yc1vZ1z1c6ge/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Small",
+          "count": "2658",
+          "value": "1z1c6dw",
+          "link": "https://www.homedepot.com/b/Small/N-5yc1vZ1z1c6dw/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Medium",
+          "count": "1652",
+          "value": "1z1c6eg",
+          "link": "https://www.homedepot.com/b/Medium/N-5yc1vZ1z1c6eg/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Tall",
+          "count": "997",
+          "value": "1z1c6g3",
+          "link": "https://www.homedepot.com/b/Tall/N-5yc1vZ1z1c6g3/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Mini",
+          "count": "451",
+          "value": "1z1c6lw",
+          "link": "https://www.homedepot.com/b/Mini/N-5yc1vZ1z1c6lw/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        }
+      ]
+    },
+    {
+      "key": "Floor Lamp Size",
+      "value": [
+        {
+          "name": "Tall",
+          "count": "1432",
+          "value": "1z1c6lq",
+          "link": "https://www.homedepot.com/b/Tall/N-5yc1vZ1z1c6lq/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Medium",
+          "count": "577",
+          "value": "1z1c65l",
+          "link": "https://www.homedepot.com/b/Medium/N-5yc1vZ1z1c65l/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Extra Tall",
+          "count": "296",
+          "value": "1z1c6m0",
+          "link": "https://www.homedepot.com/b/Extra-Tall/N-5yc1vZ1z1c6m0/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        },
+        {
+          "name": "Small",
+          "count": "130",
+          "value": "1z1c69o",
+          "link": "https://www.homedepot.com/b/Small/N-5yc1vZ1z1c69o/Ntk-elasticplus/Ntt-lamp?NCNI-5"
+        }
+      ]
+    }
+  ],
+  "related_products": [
+
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.homedepot.com/b/N-5yc1v/Ntt-lamp?Nao=24",
+    "other_pages": {
+      "2": "https://www.homedepot.com/b/N-5yc1v/Ntt-lamp?Nao=24",
+      "3": "https://www.homedepot.com/b/N-5yc1v/Ntt-lamp?Nao=48",
+      "4": "https://www.homedepot.com/b/N-5yc1v/Ntt-lamp?Nao=72",
+      "5": "https://www.homedepot.com/b/N-5yc1v/Ntt-lamp?Nao=96"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot&nao=24&ps=24&q=lamp&store_id=2414",
+    "next": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot&nao=24&ps=24&q=lamp&store_id=2414",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot&nao=24&ps=24&q=lamp&store_id=2414",
+      "3": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot&nao=48&ps=24&q=lamp&store_id=2414",
+      "4": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot&nao=72&ps=24&q=lamp&store_id=2414",
+      "5": "https://serpapi.com/search.json?delivery_zip=04401&engine=home_depot&nao=96&ps=24&q=lamp&store_id=2414"
+    }
+  }
+}

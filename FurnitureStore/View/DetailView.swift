@@ -8,7 +8,8 @@
 import SwiftUI
 
 struct DetailView: View {
-    @EnvironmentObject var appModel : AppViewModel
+    @EnvironmentObject var homeViewModel : HomeViewModel
+    @EnvironmentObject var cartViewModel : CartViewModel
     
     var products : Products
     var animation : Namespace.ID
@@ -21,11 +22,12 @@ struct DetailView: View {
                 HStack {
                     Button {
                         withAnimation(.easeInOut) {
-                            appModel.showDetailContent = false
+                            homeViewModel.showDetailContent = false
                         }
                         
                         withAnimation(.easeInOut.delay(0.05)) {
-                            appModel.showDetailView = false
+                            homeViewModel.showDetailView = false
+                            cartViewModel.cartCount = 0
                         }
                     } label: {
                         Image(systemName: "chevron.left")
@@ -53,10 +55,10 @@ struct DetailView: View {
                     
                 }
                 .padding()
-                .opacity(appModel.showDetailContent ? 1 : 0)
+                .opacity(homeViewModel.showDetailContent ? 1 : 0)
                 
                 Images(products: products)
-                    .matchedGeometryEffect(id: products.product_id + "IMAGE", in: animation)
+                    .matchedGeometryEffect(id: "\(products.id)IMAGE", in: animation)
                     .frame(height: size.height / 3)
                 
                 
@@ -67,14 +69,14 @@ struct DetailView: View {
                             Text(products.title)
                                 .font(.title.bold())
                                 .foregroundColor(Color("Black"))
-                                .matchedGeometryEffect(id: products.product_id + "TITLE", in: animation)
+                                .matchedGeometryEffect(id: "\(products.id)TITLE", in: animation)
                   
                             
                             Text("by Guler Home")
                                 .font(.caption2)
                                 .bold()
                                 .foregroundColor(.gray)
-                                .matchedGeometryEffect(id: products.product_id + "SUBTITLE", in: animation)
+                                .matchedGeometryEffect(id: "\(products.id)SUBTITLE", in: animation)
                         }
                         .frame(alignment: .leading)
                         
@@ -107,14 +109,16 @@ struct DetailView: View {
                         HStack(spacing: 10) {
                             Image(systemName: "minus")
                                 .onTapGesture {
-                                    if appModel.cartCount > 0 { appModel.cartCount -= 1 }
+                                    if cartViewModel.cartCount > 0 {
+                                        cartViewModel.cartCount -= 1
+                                    }
                                 }
                             
-                            Text("\(appModel.cartCount)")
+                            Text("\(cartViewModel.cartCount)")
                             
                             Image(systemName: "plus")
                                 .onTapGesture {
-                                    appModel.cartCount += 1
+                                    cartViewModel.cartCount += 1
                                 }
                         }
                         .font(.system(size: 16, weight: .semibold))
@@ -141,7 +145,13 @@ struct DetailView: View {
                         Spacer()
                         
                         Button {
-                            
+                            if cartViewModel.cartCount != 0 {
+                                withAnimation(.easeInOut) {
+                                    cartViewModel.appendStore(products: products, count: cartViewModel.cartCount)
+                                    cartViewModel.showAlert = true
+                                    cartViewModel.cartCount = 0
+                                }
+                            }
                         } label: {
                             Text("Buy Now")
                                 .fontWeight(.semibold)
@@ -165,18 +175,18 @@ struct DetailView: View {
                         .fill(Color("BG"))
                         .ignoresSafeArea()
                 }
-                .opacity(appModel.showDetailView ? 1 : 0)
+                .opacity(homeViewModel.showDetailView ? 1 : 0)
             }
             .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .top)
         }
         .background {
             Color.white
                 .ignoresSafeArea()
-                .opacity(appModel.showDetailContent ? 1 : 0)
+                .opacity(homeViewModel.showDetailContent ? 1 : 0)
         }
         .onAppear {
             withAnimation(.easeInOut) {
-                appModel.showDetailContent = true
+                homeViewModel.showDetailContent = true
             }
         }
     }

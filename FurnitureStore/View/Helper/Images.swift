@@ -26,11 +26,18 @@ struct Images: View {
                     .cornerRadius(10)
             }else {
                 ProgressView()
+                    .frame(maxWidth: .infinity,maxHeight: .infinity)
             }
         }.onAppear {
             DispatchQueue.main.async {
                 imageDownloaderClient.downloadingImage(products: products)
             }
         }
+    }
+}
+
+struct Images_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
     }
 }

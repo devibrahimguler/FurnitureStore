@@ -8,7 +8,8 @@
 import SwiftUI
 
 struct Home: View {
-    @EnvironmentObject var appModel : AppViewModel
+    @EnvironmentObject var homeViewModel : HomeViewModel
+    @EnvironmentObject var cartViewModel : CartViewModel
     var animation : Namespace.ID
     let black : Color = Color("Black")
     
@@ -34,7 +35,7 @@ struct Home: View {
                             .frame(width: 25, height: 25)
                             .foregroundColor(black)
                         
-                        TextField("Search", text: $appModel.searchText)
+                        TextField("Search", text: $homeViewModel.searchText)
                     }
                     .padding(.horizontal)
                     .padding(.vertical, 12)
@@ -46,13 +47,13 @@ struct Home: View {
                     Menu {
                         VStack {
                             Button {
-                                appModel.sortByPrice(isAscending: true)
+                                homeViewModel.sortByPrice(isAscending: true)
                             } label: {
                                 Text("Sort by Price (Ascending)")
                             }
                             
                             Button {
-                                appModel.sortByPrice(isAscending: false)
+                                homeViewModel.sortByPrice(isAscending: false)
                             } label: {
                                 Text("Sort by Price (Descending)")
                             }
@@ -76,7 +77,7 @@ struct Home: View {
                 
                 CustomMenu()
                 
-                ForEach(appModel.searchProducts.isEmpty ? appModel.products : appModel.searchProducts) { products in
+                ForEach(homeViewModel.searchProducts.isEmpty ? homeViewModel.products : homeViewModel.searchProducts) { products in
                     CardView(products: products)
                 }
                 
@@ -84,14 +85,14 @@ struct Home: View {
             .padding()
             .padding(.bottom, 100)
         }
-        .onChange(of: appModel.currentMenu) { newValue in
-            appModel.updateMenu(newValue: newValue)
+        .onChange(of: homeViewModel.currentMenu) { newValue in
+            homeViewModel.updateMenu(newValue: newValue)
         }
-        .onChange(of: appModel.searchText) { newValue in
+        .onChange(of: homeViewModel.searchText) { newValue in
             if(newValue.isEmpty) {
-                appModel.updateMenu(newValue: .all)
+                homeViewModel.updateMenu(newValue: .chair)
             } else {
-                appModel.searchFromProducts()
+                homeViewModel.searchFromProducts()
             }
         }
     }
@@ -101,12 +102,12 @@ struct Home: View {
         HStack(spacing: 12) {
             
              Group {
-                 if appModel.currentActiveItem?.product_id == products.product_id && appModel.showDetailView{
+                 if homeViewModel.currentActiveItem?.id == products.id && homeViewModel.showDetailView{
                      Images(products: products)
                          .opacity(0)
                  } else {
                      Images(products: products)
-                         .matchedGeometryEffect(id: products.product_id + "IMAGE", in: animation)
+                         .matchedGeometryEffect(id: "\(products.id)IMAGE", in: animation)
                  }
              }
              .frame(width: 120)
@@ -120,7 +121,7 @@ struct Home: View {
             VStack(alignment: .leading, spacing: 10) {
                 
                 Group {
-                    if appModel.currentActiveItem?.product_id == products.product_id && appModel.showDetailView {
+                    if homeViewModel.currentActiveItem?.id == products.id && homeViewModel.showDetailView {
                         Text(products.title)
                             .lineLimit(2)
                             .foregroundColor(black)
@@ -135,12 +136,12 @@ struct Home: View {
                         Text(products.title)
                             .lineLimit(2)
                             .foregroundColor(black)
-                            .matchedGeometryEffect(id: products.product_id + "TITLE", in: animation)
+                            .matchedGeometryEffect(id: "\(products.id)TITLE", in: animation)
                         
                         Text("by Guler Home")
                             .font(.caption2.bold())
                             .foregroundColor(.gray)
-                            .matchedGeometryEffect(id: products.product_id + "SUBTITLE", in: animation)
+                            .matchedGeometryEffect(id: "\(products.id)SUBTITLE", in: animation)
                             .padding(.top, -5)
                     }
                 }
@@ -157,7 +158,10 @@ struct Home: View {
                     Spacer()
                     
                     Button {
-                        
+                        withAnimation(.easeInOut) {
+                            cartViewModel.appendStore(products: products, count: 1)
+                            cartViewModel.showAlert = true
+                        }
                     } label: {
                         Text("Buy")
                             .font(.callout)
@@ -186,8 +190,8 @@ struct Home: View {
         }
         .onTapGesture(perform: {
             withAnimation(.easeInOut) {
-                appModel.currentActiveItem = products
-                appModel.showDetailView = true
+                homeViewModel.currentActiveItem = products
+                homeViewModel.showDetailView = true
             }
         })
         .padding(.bottom, 6)
@@ -200,11 +204,11 @@ struct Home: View {
                 Text(menu.rawValue)
                     .font(.callout)
                     .fontWeight(.semibold)
-                    .foregroundColor(appModel.currentMenu != menu ? black : .white)
+                    .foregroundColor(homeViewModel.currentMenu != menu ? black : .white)
                     .padding(.vertical, 8)
                     .frame(maxWidth: .infinity)
                     .background {
-                        if appModel.currentMenu == menu {
+                        if homeViewModel.currentMenu == menu {
                             Capsule()
                                 .fill()
                                 .shadow(color: black.opacity(0.1), radius: 5, x: 5, y: 5)
@@ -213,7 +217,7 @@ struct Home: View {
                     }
                     .onTapGesture {
                         withAnimation(.easeInOut) {
-                            appModel.currentMenu = menu
+                            homeViewModel.currentMenu = menu
                         }
                     }
             }

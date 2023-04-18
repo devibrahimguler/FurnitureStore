@@ -8,7 +8,9 @@
 import SwiftUI
 
 struct MainView: View {
-    @StateObject var appModel : AppViewModel = .init()
+    @StateObject var homeViewModel : HomeViewModel = .init()
+    @StateObject var cartViewModel : CartViewModel = .init()
+    @State var currentTab: Tab = .home
     @Namespace var animation
     
     init() {
@@ -16,13 +18,17 @@ struct MainView: View {
     }
     
     var body: some View {
-        TabView(selection: $appModel.currentTab) {
+        TabView(selection: $currentTab) {
+            
             Home(animation: animation)
-                .environmentObject(appModel)
+                .environmentObject(homeViewModel)
+                .environmentObject(cartViewModel)
                 .tag(Tab.home)
                 .setUpTab()
             
-            Text("Cart")
+            Cart()
+                .environmentObject(homeViewModel)
+                .environmentObject(cartViewModel)
                 .tag(Tab.cart)
                 .setUpTab()
             
@@ -36,15 +42,19 @@ struct MainView: View {
             
         }
         .overlay(alignment: .bottom) {
-            CustomTabBar(currentTab: $appModel.currentTab, animation: animation)
-                .offset(y: appModel.showDetailView ? 150 : 0)
+            CustomTabBar(currentTab: $currentTab, animation: animation)
+                .offset(y: homeViewModel.showDetailView ? 150 : 0)
         }
         .overlay {
-            if let products = appModel.currentActiveItem, appModel.showDetailView {
+            if let products = homeViewModel.currentActiveItem, homeViewModel.showDetailView {
                 DetailView(products: products, animation: animation)
-                    .environmentObject(appModel)
+                    .environmentObject(homeViewModel)
+                    .environmentObject(cartViewModel)
                     .transition(.offset(x:1, y:1))
             }
+        }
+        .alert(isPresented: $cartViewModel.showAlert) {
+            Alert(title: Text("Add"), message: Text("Added in Cart"), dismissButton: .cancel(Text("Okey")))
         }
     }
 }
@@ -65,4 +75,11 @@ extension View {
                     .ignoresSafeArea()
             }
     }
+}
+
+enum Tab: String, CaseIterable {
+    case home = "Home"
+    case cart = "Cart"
+    case favourite = "Star"
+    case profile = "Profile"
 }

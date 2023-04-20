@@ -10,7 +10,7 @@ import SwiftUI
 struct MainView: View {
     @StateObject var homeViewModel : HomeViewModel = .init()
     @StateObject var cartViewModel : CartViewModel = .init()
-    @State var currentTab: Tab = .home
+    @State var currentTab: Tab = .favourite
     @Namespace var animation
     
     init() {
@@ -32,7 +32,9 @@ struct MainView: View {
                 .tag(Tab.cart)
                 .setUpTab()
             
-            Text("Favourite")
+            Favourite(animation: animation)
+                .environmentObject(homeViewModel)
+                .environmentObject(cartViewModel)
                 .tag(Tab.favourite)
                 .setUpTab()
             

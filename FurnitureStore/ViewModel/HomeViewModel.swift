@@ -9,8 +9,9 @@ import SwiftUI
 
 class HomeViewModel: ObservableObject {
     @Published var furniture: Furniture?
-    @Published var furnitures: [Furniture] = []
     
+    @Published var favourite: [Products] = []
+
     @Published var products: [Products] = []
     @Published var searchProducts: [Products] = []
     @Published var currentActiveItem : Products?

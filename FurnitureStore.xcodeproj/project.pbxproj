@@ -25,6 +25,7 @@
 		0F6EDD5F29ED6BF000B5764E /* Cart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F6EDD5E29ED6BF000B5764E /* Cart.swift */; };
 		0F6EDD6129ED759300B5764E /* CartViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F6EDD6029ED759300B5764E /* CartViewModel.swift */; };
 		0F6EDD6329ED75CA00B5764E /* Store.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F6EDD6229ED75CA00B5764E /* Store.swift */; };
+		0FA02A6E29EEB43F006184C8 /* Favourite.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FA02A6D29EEB43F006184C8 /* Favourite.swift */; };
 		0FAF4E4029ECE14800FE5C96 /* lamp.json in Resources */ = {isa = PBXBuildFile; fileRef = 0FAF4E3D29ECE14800FE5C96 /* lamp.json */; };
 		0FAF4E4129ECE14800FE5C96 /* floor.json in Resources */ = {isa = PBXBuildFile; fileRef = 0FAF4E3E29ECE14800FE5C96 /* floor.json */; };
 		0FAF4E4229ECE14800FE5C96 /* table.json in Resources */ = {isa = PBXBuildFile; fileRef = 0FAF4E3F29ECE14800FE5C96 /* table.json */; };
@@ -50,6 +51,7 @@
 		0F6EDD6029ED759300B5764E /* CartViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartViewModel.swift; sourceTree = "<group>"; };
 		0F6EDD6229ED75CA00B5764E /* Store.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Store.swift; sourceTree = "<group>"; };
 		0F788A032843F7440064A732 /* FurnitureStore.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FurnitureStore.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0FA02A6D29EEB43F006184C8 /* Favourite.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Favourite.swift; sourceTree = "<group>"; };
 		0FAF4E3D29ECE14800FE5C96 /* lamp.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = lamp.json; sourceTree = "<group>"; };
 		0FAF4E3E29ECE14800FE5C96 /* floor.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = floor.json; sourceTree = "<group>"; };
 		0FAF4E3F29ECE14800FE5C96 /* table.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = table.json; sourceTree = "<group>"; };
@@ -120,6 +122,7 @@
 				0F30E47529EC2AEB00B00D17 /* MainView.swift */,
 				0F30E47129EC2AEB00B00D17 /* Home.swift */,
 				0F6EDD5E29ED6BF000B5764E /* Cart.swift */,
+				0FA02A6D29EEB43F006184C8 /* Favourite.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -249,6 +252,7 @@
 				0F30E47D29EC2AEB00B00D17 /* FurnitureStoreApp.swift in Sources */,
 				0F30E48129EC2AEB00B00D17 /* Furniture.swift in Sources */,
 				0F6EDD5F29ED6BF000B5764E /* Cart.swift in Sources */,
+				0FA02A6E29EEB43F006184C8 /* Favourite.swift in Sources */,
 				0F6EDD6129ED759300B5764E /* CartViewModel.swift in Sources */,
 				0F30E48829EC2AEB00B00D17 /* ContentView.swift in Sources */,
 				0F30E48229EC2AEB00B00D17 /* DetailView.swift in Sources */,

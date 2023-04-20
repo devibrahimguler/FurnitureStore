@@ -14,7 +14,6 @@ struct Cart: View {
     var body: some View {
         VStack {
             HStack {
-                Spacer(minLength: 10)
                 
                 Text("Store")
                     .font(.title)
@@ -22,14 +21,6 @@ struct Cart: View {
                     .foregroundColor(Color("Black"))
                 
                 Spacer(minLength: 10)
-                
-                Button {
-                    
-                } label: {
-                    Image(systemName: "trash")
-                        .foregroundColor(Color("Orange"))
-                        .font(.title3)
-                }
 
                 
             }
@@ -48,7 +39,7 @@ struct Cart: View {
                             .padding(10)
                     } else {
                         ForEach(cartViewModel.store) { store in
-                            CardView(store: store)
+                            StoreCardView(store: store)
                                 .padding(10)
                         }
                     }
@@ -123,7 +114,7 @@ struct Cart: View {
     }
     
     @ViewBuilder
-    func CardView(store: Store) -> some View {
+    func StoreCardView(store: Store) -> some View {
         HStack(spacing: 12) {
             
             Images(products: store.products)

@@ -11,10 +11,11 @@ struct CustomTabBar: View {
     @Binding var currentTab : Tab
     var animation : Namespace.ID
     @State var currentXValue : CGFloat = 0
+    @State var isUserTab : Bool = false
     
     var body: some View {
         HStack(spacing: 0) {
-            ForEach(Tab.allCases, id: \.rawValue) { tab in
+            ForEach(isUserTab ? Tab.allCases : [Tab.home, Tab.cart], id: \.rawValue) { tab in
                 TabButton(tab: tab)
                     .overlay {
                         Text(tab.rawValue)

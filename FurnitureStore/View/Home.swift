@@ -10,21 +10,49 @@ import SwiftUI
 struct Home: View {
     @EnvironmentObject var homeViewModel : HomeViewModel
     @EnvironmentObject var cartViewModel : CartViewModel
+    @EnvironmentObject var profileViewModel : ProfileViewModel
+    
     var animation : Namespace.ID
     let black : Color = Color("Black")
     
     var body: some View {
         ScrollView(.vertical, showsIndicators: false) {
             VStack(spacing: 15) {
-                VStack(alignment: .leading, spacing: 8) {
-                    Text("Guler Home")
-                        .font(.title.bold())
+                HStack(alignment: .center) {
+                    VStack(alignment: .leading, spacing: 8)  {
+                        Text("Guler Home")
+                            .font(.title.bold())
+                        
+                        Text("Good Design!")
+                            .font(.callout)
+                        
+                    }
+                    .foregroundColor(black)
                     
-                    Text("Good Design!")
-                        .font(.callout)
+                    Spacer()
+                    
+                    VStack(spacing: 8) {
+                        Circle()
+                            .stroke(style: .init(lineWidth: 2))
+                            .background {
+                                Image(systemName: profileViewModel.isLogged ? "heart" : "person")
+                                    .font(.system(size: 20,weight: .bold, design: .monospaced))
+                                
+                            }
+                            .mask(Circle())
+                            .frame(width: 30, height: 30)
+                        
+                        Button {
+                            profileViewModel.offsetLogin = 0
+                        } label: {
+                            Text(profileViewModel.isLogged ? "Logged In!" : "Login!")
+                        }
+                        .disabled(profileViewModel.isLogged)
+                    }
+                    .foregroundColor(profileViewModel.isLogged ? black : .blue)
+           
                 }
-                .foregroundColor(black)
-                .frame(maxWidth: .infinity, alignment: .leading)
+                .frame(width: getRect().width - 30, alignment: .leading)
                 
                 HStack(spacing: 12) {
                     HStack(spacing: 12) {

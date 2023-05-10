@@ -8,13 +8,18 @@
 import SwiftUI
 
 struct MainView: View {
-    @StateObject var homeViewModel : HomeViewModel = .init()
-    @StateObject var cartViewModel : CartViewModel = .init()
-    @State var currentTab: Tab = .favourite
-    @Namespace var animation
+    @EnvironmentObject var homeViewModel : HomeViewModel
+    @EnvironmentObject var cartViewModel : CartViewModel
+    @EnvironmentObject var profileViewModel : ProfileViewModel
+    @Binding var currentTab: Tab
+    var animation : Namespace.ID
     
-    init() {
+    
+    init(currentTab: Binding<Tab>, animation: Namespace.ID) {
         UITabBar.appearance().isHidden = true
+        
+        self._currentTab = currentTab
+        self.animation = animation
     }
     
     var body: some View {
@@ -23,6 +28,7 @@ struct MainView: View {
             Home(animation: animation)
                 .environmentObject(homeViewModel)
                 .environmentObject(cartViewModel)
+                .environmentObject(profileViewModel)
                 .tag(Tab.home)
                 .setUpTab()
             
@@ -38,13 +44,14 @@ struct MainView: View {
                 .tag(Tab.favourite)
                 .setUpTab()
             
-            Text("Profile")
+            Profile(currentTab: $currentTab)
+                .environmentObject(profileViewModel)
                 .tag(Tab.profile)
                 .setUpTab()
             
         }
         .overlay(alignment: .bottom) {
-            CustomTabBar(currentTab: $currentTab, animation: animation)
+            CustomTabBar(currentTab: $currentTab, animation: animation, isUserTab: profileViewModel.isLogged)
                 .offset(y: homeViewModel.showDetailView ? 150 : 0)
         }
         .overlay {
@@ -54,16 +61,25 @@ struct MainView: View {
                     .environmentObject(cartViewModel)
                     .transition(.offset(x:1, y:1))
             }
+             
+            Login()
+                .environmentObject(homeViewModel)
+                .environmentObject(profileViewModel)
+                .offset(.init(width: 0, height: profileViewModel.offsetLogin))
+                .animation(.easeInOut(duration: 1), value: profileViewModel.offsetLogin)
         }
         .alert(isPresented: $cartViewModel.showAlert) {
             Alert(title: Text("Add"), message: Text("Added in Cart"), dismissButton: .cancel(Text("Okey")))
+        }
+        .alert(isPresented: $profileViewModel.showAlert) {
+            Alert(title: Text("Error"), message: Text(profileViewModel.alertMessage), dismissButton: .default(Text("OK")))
         }
     }
 }
 
 struct MainView_Previews: PreviewProvider {
     static var previews: some View {
-        MainView()
+        ContentView()
     }
 }
 

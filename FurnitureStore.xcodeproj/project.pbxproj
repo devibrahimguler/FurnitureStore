@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F1DF1A029FF09C100B948EA /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0F1DF19F29FF09C100B948EA /* GoogleService-Info.plist */; };
 		0F30E47C29EC2AEB00B00D17 /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F30E46729EC2AEB00B00D17 /* HomeViewModel.swift */; };
 		0F30E47D29EC2AEB00B00D17 /* FurnitureStoreApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F30E46829EC2AEB00B00D17 /* FurnitureStoreApp.swift */; };
 		0F30E47E29EC2AEB00B00D17 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F30E46929EC2AEB00B00D17 /* Assets.xcassets */; };
@@ -25,13 +26,21 @@
 		0F6EDD5F29ED6BF000B5764E /* Cart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F6EDD5E29ED6BF000B5764E /* Cart.swift */; };
 		0F6EDD6129ED759300B5764E /* CartViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F6EDD6029ED759300B5764E /* CartViewModel.swift */; };
 		0F6EDD6329ED75CA00B5764E /* Store.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F6EDD6229ED75CA00B5764E /* Store.swift */; };
+		0F70FF172A0BB44600C1849E /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F70FF162A0BB44600C1849E /* IntroView.swift */; };
 		0FA02A6E29EEB43F006184C8 /* Favourite.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FA02A6D29EEB43F006184C8 /* Favourite.swift */; };
 		0FAF4E4029ECE14800FE5C96 /* lamp.json in Resources */ = {isa = PBXBuildFile; fileRef = 0FAF4E3D29ECE14800FE5C96 /* lamp.json */; };
 		0FAF4E4129ECE14800FE5C96 /* floor.json in Resources */ = {isa = PBXBuildFile; fileRef = 0FAF4E3E29ECE14800FE5C96 /* floor.json */; };
 		0FAF4E4229ECE14800FE5C96 /* table.json in Resources */ = {isa = PBXBuildFile; fileRef = 0FAF4E3F29ECE14800FE5C96 /* table.json */; };
+		0FF27F772A0577FE00DFD790 /* Login.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FF27F762A0577FE00DFD790 /* Login.swift */; };
+		0FF27F7A2A057AF300DFD790 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 0FF27F792A057AF300DFD790 /* FirebaseAuth */; };
+		0FF27F7C2A057B0700DFD790 /* FirebaseDatabase in Frameworks */ = {isa = PBXBuildFile; productRef = 0FF27F7B2A057B0700DFD790 /* FirebaseDatabase */; };
+		0FF27F7E2A057C9600DFD790 /* BlurView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FF27F7D2A057C9600DFD790 /* BlurView.swift */; };
+		0FF27F8C2A05967500DFD790 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FF27F8B2A05967500DFD790 /* Profile.swift */; };
+		0FF27F8E2A05A61300DFD790 /* ProfileViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FF27F8D2A05A61200DFD790 /* ProfileViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0F1DF19F29FF09C100B948EA /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		0F30E46729EC2AEB00B00D17 /* HomeViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
 		0F30E46829EC2AEB00B00D17 /* FurnitureStoreApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FurnitureStoreApp.swift; sourceTree = "<group>"; };
 		0F30E46929EC2AEB00B00D17 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -50,11 +59,16 @@
 		0F6EDD5E29ED6BF000B5764E /* Cart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cart.swift; sourceTree = "<group>"; };
 		0F6EDD6029ED759300B5764E /* CartViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartViewModel.swift; sourceTree = "<group>"; };
 		0F6EDD6229ED75CA00B5764E /* Store.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Store.swift; sourceTree = "<group>"; };
+		0F70FF162A0BB44600C1849E /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
 		0F788A032843F7440064A732 /* FurnitureStore.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FurnitureStore.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FA02A6D29EEB43F006184C8 /* Favourite.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Favourite.swift; sourceTree = "<group>"; };
 		0FAF4E3D29ECE14800FE5C96 /* lamp.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = lamp.json; sourceTree = "<group>"; };
 		0FAF4E3E29ECE14800FE5C96 /* floor.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = floor.json; sourceTree = "<group>"; };
 		0FAF4E3F29ECE14800FE5C96 /* table.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = table.json; sourceTree = "<group>"; };
+		0FF27F762A0577FE00DFD790 /* Login.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Login.swift; sourceTree = "<group>"; };
+		0FF27F7D2A057C9600DFD790 /* BlurView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlurView.swift; sourceTree = "<group>"; };
+		0FF27F8B2A05967500DFD790 /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
+		0FF27F8D2A05A61200DFD790 /* ProfileViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +76,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0FF27F7C2A057B0700DFD790 /* FirebaseDatabase in Frameworks */,
+				0FF27F7A2A057AF300DFD790 /* FirebaseAuth in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,6 +97,7 @@
 				0FAF4E3E29ECE14800FE5C96 /* floor.json */,
 				0FAF4E3D29ECE14800FE5C96 /* lamp.json */,
 				0FAF4E3F29ECE14800FE5C96 /* table.json */,
+				0F1DF19F29FF09C100B948EA /* GoogleService-Info.plist */,
 				0F30E46929EC2AEB00B00D17 /* Assets.xcassets */,
 				0F30E46A29EC2AEB00B00D17 /* Preview Content */,
 			);
@@ -92,6 +109,7 @@
 			children = (
 				0F30E46729EC2AEB00B00D17 /* HomeViewModel.swift */,
 				0F6EDD6029ED759300B5764E /* CartViewModel.swift */,
+				0FF27F8D2A05A61200DFD790 /* ProfileViewModel.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -123,6 +141,9 @@
 				0F30E47129EC2AEB00B00D17 /* Home.swift */,
 				0F6EDD5E29ED6BF000B5764E /* Cart.swift */,
 				0FA02A6D29EEB43F006184C8 /* Favourite.swift */,
+				0FF27F762A0577FE00DFD790 /* Login.swift */,
+				0FF27F8B2A05967500DFD790 /* Profile.swift */,
+				0F70FF162A0BB44600C1849E /* IntroView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -140,6 +161,7 @@
 			isa = PBXGroup;
 			children = (
 				0F30E47729EC2AEB00B00D17 /* Images.swift */,
+				0FF27F7D2A057C9600DFD790 /* BlurView.swift */,
 			);
 			path = Helper;
 			sourceTree = "<group>";
@@ -158,6 +180,7 @@
 			children = (
 				0F30E46529EC2AEB00B00D17 /* FurnitureStore */,
 				0F788A042843F7440064A732 /* Products */,
+				0FF27F782A057AF300DFD790 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -167,6 +190,13 @@
 				0F788A032843F7440064A732 /* FurnitureStore.app */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		0FF27F782A057AF300DFD790 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -185,6 +215,10 @@
 			dependencies = (
 			);
 			name = FurnitureStore;
+			packageProductDependencies = (
+				0FF27F792A057AF300DFD790 /* FirebaseAuth */,
+				0FF27F7B2A057B0700DFD790 /* FirebaseDatabase */,
+			);
 			productName = MobilyaDukkani;
 			productReference = 0F788A032843F7440064A732 /* FurnitureStore.app */;
 			productType = "com.apple.product-type.application";
@@ -213,6 +247,9 @@
 				Base,
 			);
 			mainGroup = 0F7889FA2843F7430064A732;
+			packageReferences = (
+				0F1DF1A129FF0AE100B948EA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
 			productRefGroup = 0F788A042843F7440064A732 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -233,6 +270,7 @@
 				0FAF4E4129ECE14800FE5C96 /* floor.json in Resources */,
 				0FAF4E4229ECE14800FE5C96 /* table.json in Resources */,
 				0FAF4E4029ECE14800FE5C96 /* lamp.json in Resources */,
+				0F1DF1A029FF09C100B948EA /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -244,9 +282,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				0F6EDD6329ED75CA00B5764E /* Store.swift in Sources */,
+				0FF27F772A0577FE00DFD790 /* Login.swift in Sources */,
 				0F30E48929EC2AEB00B00D17 /* ReadData.swift in Sources */,
 				0F30E48529EC2AEB00B00D17 /* CustomTabBar.swift in Sources */,
 				0F30E47C29EC2AEB00B00D17 /* HomeViewModel.swift in Sources */,
+				0FF27F7E2A057C9600DFD790 /* BlurView.swift in Sources */,
 				0F30E48729EC2AEB00B00D17 /* Images.swift in Sources */,
 				0F30E48329EC2AEB00B00D17 /* Home.swift in Sources */,
 				0F30E47D29EC2AEB00B00D17 /* FurnitureStoreApp.swift in Sources */,
@@ -255,8 +295,11 @@
 				0FA02A6E29EEB43F006184C8 /* Favourite.swift in Sources */,
 				0F6EDD6129ED759300B5764E /* CartViewModel.swift in Sources */,
 				0F30E48829EC2AEB00B00D17 /* ContentView.swift in Sources */,
+				0F70FF172A0BB44600C1849E /* IntroView.swift in Sources */,
+				0FF27F8E2A05A61300DFD790 /* ProfileViewModel.swift in Sources */,
 				0F30E48229EC2AEB00B00D17 /* DetailView.swift in Sources */,
 				0F30E48429EC2AEB00B00D17 /* ButtonCurve.swift in Sources */,
+				0FF27F8C2A05967500DFD790 /* Profile.swift in Sources */,
 				0F30E48629EC2AEB00B00D17 /* MainView.swift in Sources */,
 				0F30E48A29EC2AEB00B00D17 /* ImageDownloaderClient.swift in Sources */,
 			);
@@ -400,7 +443,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = gxibrahimxr.MobilyaDukkani;
+				PRODUCT_BUNDLE_IDENTIFIER = devibrahimglr.FurnitureStore;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -429,7 +472,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = gxibrahimxr.MobilyaDukkani;
+				PRODUCT_BUNDLE_IDENTIFIER = devibrahimglr.FurnitureStore;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -459,6 +502,30 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		0F1DF1A129FF0AE100B948EA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 10.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		0FF27F792A057AF300DFD790 /* FirebaseAuth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 0F1DF1A129FF0AE100B948EA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
+		};
+		0FF27F7B2A057B0700DFD790 /* FirebaseDatabase */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 0F1DF1A129FF0AE100B948EA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseDatabase;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 0F7889FB2843F7430064A732 /* Project object */;
 }
